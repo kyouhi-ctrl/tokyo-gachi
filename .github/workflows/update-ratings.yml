@@ -1,0 +1,38 @@
+name: Update Google Places data
+
+on:
+  schedule:
+    # 每周一 UTC 02:00（北京/东京时间周一上午）
+    - cron: '0 2 * * 1'
+  workflow_dispatch: # 也允许手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run updater
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: node scripts/update-ratings.js
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "tokyo-gachi-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add data/restaurants.json public/images
+            git commit -m "chore(data): weekly Google Places refresh"
+            git push
+          else
+            echo "No changes to commit."
+          fi
