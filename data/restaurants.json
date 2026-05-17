@@ -9,7 +9,7 @@
     "price_range": 4,
     "google_place_id": "ChIJscN5u4-LGGARIyRklEh6-e4",
     "google_rating": 4.5,
-    "review_count": 511,
+    "review_count": 512,
     "description_zh": "米其林三星江户前寿司殿堂，主厨齐藤孝司亲握，醋饭温度与鱼料切刀皆为最高水准",
     "tags": [
       "米其林三星",
@@ -20,7 +20,7 @@
     "maps_url": "https://maps.google.com/?cid=17219929102373626915",
     "image_url": "/images/sushi-saito.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "sukiyabashi-jiro",
@@ -43,7 +43,7 @@
     "maps_url": "https://maps.google.com/?cid=1055047344221220965",
     "image_url": "/images/sukiyabashi-jiro.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "sushi-dai",
@@ -66,7 +66,7 @@
     "maps_url": "https://maps.google.com/?cid=16054358613555094098",
     "image_url": "/images/sushi-dai.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ichiran-shibuya",
@@ -90,7 +90,7 @@
     "maps_url": "https://maps.google.com/?cid=1092125928485198446",
     "image_url": "/images/ichiran-shibuya.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ippudo-ginza",
@@ -102,7 +102,7 @@
     "price_range": 1,
     "google_place_id": "ChIJR7VjvuCLGGARwo4yz3p2y4A",
     "google_rating": 4.4,
-    "review_count": 2732,
+    "review_count": 2735,
     "description_zh": "白丸/赤丸经典豚骨，店内空间宽敞干净，适合家庭用餐",
     "tags": [
       "英文菜单",
@@ -113,7 +113,7 @@
     "maps_url": "https://maps.google.com/?cid=9280641726961323714",
     "image_url": "/images/ippudo-ginza.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tsuta",
@@ -125,7 +125,7 @@
     "price_range": 2,
     "google_place_id": "ChIJSeZ3_8-NGGAR7riaRGOeyb8",
     "google_rating": 4.1,
-    "review_count": 809,
+    "review_count": 816,
     "description_zh": "世界首家米其林星级拉面店，黑松露酱油汤头是必点",
     "tags": [
       "米其林",
@@ -136,7 +136,7 @@
     "maps_url": "https://maps.google.com/?cid=13819751080753019118",
     "image_url": "/images/tsuta.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tempura-kondo",
@@ -148,7 +148,7 @@
     "price_range": 3,
     "google_place_id": "ChIJX2Mb_eWLGGARvhx7F4hr3FA",
     "google_rating": 4.4,
-    "review_count": 928,
+    "review_count": 930,
     "description_zh": "米其林二星，蔬菜天妇罗大师近藤文夫的代表作，红薯天妇罗一绝",
     "tags": [
       "米其林二星",
@@ -158,7 +158,7 @@
     "maps_url": "https://maps.google.com/?cid=5826650250164247742",
     "image_url": "/images/tempura-kondo.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tsunahachi-shinjuku",
@@ -170,7 +170,7 @@
     "price_range": 2,
     "google_place_id": "ChIJj3qsV9qMGGARM4vedGDY0k0",
     "google_rating": 4.1,
-    "review_count": 2905,
+    "review_count": 2908,
     "description_zh": "1924年创业的天妇罗百年老铺，午餐套餐性价比超高",
     "tags": [
       "百年老铺",
@@ -181,7 +181,7 @@
     "maps_url": "https://maps.google.com/?cid=5607782394818890547",
     "image_url": "/images/tsunahachi-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "toriki-meguro",
@@ -203,7 +203,7 @@
     "maps_url": "https://maps.google.com/?cid=16306392712382116241",
     "image_url": "/images/toriki-meguro.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "torikizoku-shinjuku",
@@ -226,7 +226,7 @@
     "maps_url": "https://maps.google.com/?cid=6127246487731162190",
     "image_url": "/images/torikizoku-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "maisen-aoyama",
@@ -238,7 +238,7 @@
     "price_range": 2,
     "google_place_id": "ChIJa2mnui2NGGAR7z4tvWkl7HM",
     "google_rating": 4.4,
-    "review_count": 5013,
+    "review_count": 5012,
     "description_zh": "改建自浴场的炸猪排名店，肉质柔软到可用筷子切开",
     "tags": [
       "英文菜单",
@@ -249,7 +249,7 @@
     "maps_url": "https://maps.google.com/?cid=8353092544941080303",
     "image_url": "/images/maisen-aoyama.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tonki-meguro",
@@ -261,7 +261,7 @@
     "price_range": 2,
     "google_place_id": "ChIJPZbXJxmLGGAR9-TgvbGSk-Y",
     "google_rating": 4.2,
-    "review_count": 2803,
+    "review_count": 2804,
     "description_zh": "1939 年创业，开放式厨房表演式炸制，肉汁丰沛",
     "tags": [
       "百年老铺",
@@ -271,7 +271,7 @@
     "maps_url": "https://maps.google.com/?cid=16614784742392390903",
     "image_url": "/images/tonki-meguro.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "sarashina-horii",
@@ -283,7 +283,7 @@
     "price_range": 2,
     "google_place_id": "ChIJOVajM56LGGARz8yztBKxm0I",
     "google_rating": 4.2,
-    "review_count": 1837,
+    "review_count": 1839,
     "description_zh": "200 年历史的白色更科荞麦面元祖，口感清雅",
     "tags": [
       "百年老铺",
@@ -293,7 +293,7 @@
     "maps_url": "https://maps.google.com/?cid=4799624521792605391",
     "image_url": "/images/sarashina-horii.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tsurutontan-roppongi",
@@ -305,7 +305,7 @@
     "price_range": 2,
     "google_place_id": "ChIJcZmGAZuLGGARFH9qHiK5xVg",
     "google_rating": 4.1,
-    "review_count": 3932,
+    "review_count": 3936,
     "description_zh": "面碗超大的乌冬专门店，咖喱乌冬、明太子奶油乌冬为招牌",
     "tags": [
       "深夜营业",
@@ -316,7 +316,7 @@
     "maps_url": "https://maps.google.com/?cid=6396722401939980052",
     "image_url": "/images/tsurutontan-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "yakiniku-jumbo-hannare",
@@ -328,7 +328,7 @@
     "price_range": 3,
     "google_place_id": "ChIJQYuIzQmLGGARAFZdM-5e7-s",
     "google_rating": 4.4,
-    "review_count": 1057,
+    "review_count": 1058,
     "description_zh": "顶级和牛烧肉，每月特选 A5 黑毛和牛，需提前 1 个月预约",
     "tags": [
       "A5和牛",
@@ -339,7 +339,7 @@
     "maps_url": "https://maps.google.com/?cid=17000911495503894016",
     "image_url": "/images/yakiniku-jumbo-hannare.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ryugin",
@@ -362,7 +362,7 @@
     "maps_url": "https://maps.google.com/?cid=3895087128219338185",
     "image_url": "/images/ryugin.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "gindaco-shibuya",
@@ -385,7 +385,7 @@
     "maps_url": "https://maps.google.com/?cid=14491788304696398457",
     "image_url": "/images/gindaco-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "nodaiwa",
@@ -397,7 +397,7 @@
     "price_range": 3,
     "google_place_id": "ChIJreMNLr2LGGARZuiWrMEdha8",
     "google_rating": 4.3,
-    "review_count": 1639,
+    "review_count": 1640,
     "description_zh": "1800 年代创业的鳗鱼名店，江户前关东风蒸烤工艺，鳗鱼饭分级清晰",
     "tags": [
       "百年老铺",
@@ -408,7 +408,7 @@
     "maps_url": "https://maps.google.com/?cid=12647547846201370726",
     "image_url": "/images/nodaiwa.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "coco-ichibanya-akihabara",
@@ -420,7 +420,7 @@
     "price_range": 1,
     "google_place_id": "ChIJSyxsj6iOGGARvBM2kRLvJZs",
     "google_rating": 4.3,
-    "review_count": 2417,
+    "review_count": 2419,
     "description_zh": "日式咖喱国民连锁，辣度/配料/饭量全可定制，深夜也开",
     "tags": [
       "便宜",
@@ -431,7 +431,7 @@
     "maps_url": "https://maps.google.com/?cid=11179604513041814460",
     "image_url": "/images/coco-ichibanya-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "imahan-asakusa",
@@ -454,7 +454,7 @@
     "maps_url": "https://maps.google.com/?cid=4622158629264349144",
     "image_url": "/images/imahan-asakusa.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ginza-kyubei",
@@ -465,19 +465,19 @@
     "area": "ginza",
     "price_range": 4,
     "google_place_id": "ChIJu3eG8uiLGGAR14kVvD_YrHI",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_rating": 4.4,
+    "review_count": 2556,
     "description_zh": "1935年创业的银座寿司名门，昭和天皇御用达，经典江户前技法传承至今",
     "tags": [
       "百年老铺",
       "需预约",
       "高端"
     ],
-    "address": "東京都中央区銀座8-7-6",
-    "maps_url": "",
-    "image_url": "",
+    "address": "8-chōme-7-6 Ginza, Chuo City, Tokyo 104-0061日本",
+    "maps_url": "https://maps.google.com/?cid=8263217184568084951",
+    "image_url": "/images/ginza-kyubei.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "sushiro-akihabara",
@@ -488,19 +488,19 @@
     "area": "akihabara",
     "price_range": 1,
     "google_place_id": "ChIJ-SFJXgCNGGARjAlrBY5hHL4",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_rating": 4.6,
+    "review_count": 732,
     "description_zh": "日本最大连锁回转寿司，食材新鲜平价，全程触控屏点单无语言障碍",
     "tags": [
       "英文菜单",
       "游客友好",
       "触控点单"
     ],
-    "address": "東京都千代田区外神田4-3-3",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒101-0021 Tokyo, Chiyoda City, Sotokanda, 3-chōme−15−１ アキバプレイスビル 8階",
+    "maps_url": "https://maps.google.com/?cid=13698931429158357388",
+    "image_url": "/images/sushiro-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tsujihan-nihonbashi",
@@ -510,20 +510,20 @@
     "cuisine": "donburi",
     "area": "tokyo-station",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_tsujihan",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJU-JXDf2LGGARHsancfqkHyE",
+    "google_rating": 4.4,
+    "review_count": 5146,
     "description_zh": "东京最排队的海鲜丼之一，可选鲜鱼刺身版或汤泡饭版，午市常排 1 小时",
     "tags": [
       "需排队",
       "海鲜丼",
       "午市限定"
     ],
-    "address": "東京都中央区日本橋室町4-1-13",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒103-0027 Tokyo, Chuo City, Nihonbashi, 3-chōme−1−１５ 久栄ビル １Ｆ",
+    "maps_url": "https://maps.google.com/?cid=2386807723085252126",
+    "image_url": "/images/tsujihan-nihonbashi.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "uobei-shibuya",
@@ -533,20 +533,20 @@
     "cuisine": "sushi",
     "area": "shibuya",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_uobei_shibuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJaTXpw6mMGGARP-d-_tbssVE",
+    "google_rating": 4.3,
+    "review_count": 8731,
     "description_zh": "新干线式超高速寿司传送带，平板点单直接送到面前，网红体验打卡必去",
     "tags": [
       "英文菜单",
       "游客友好",
       "高速传送带"
     ],
-    "address": "東京都渋谷区道玄坂2-29-8",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒150-0043 Tokyo, Shibuya, Dōgenzaka, 2-chōme−29−１１ Central Bldg. 6, １階",
+    "maps_url": "https://maps.google.com/?cid=5886746596086835007",
+    "image_url": "/images/uobei-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "rokurinsha",
@@ -556,20 +556,20 @@
     "cuisine": "ramen",
     "area": "tokyo-station",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_rokurinsha",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJtxODuv6LGGARnELlksWTmZo",
+    "google_rating": 4.1,
+    "review_count": 5194,
     "description_zh": "东京站地下浓厚系蘸面代表，鱼介豚骨汤底超浓郁，面条粗且有嚼劲",
     "tags": [
       "需排队",
       "蘸面tsukemen",
       "东京站内"
     ],
-    "address": "東京都千代田区丸の内1-9-1 東京駅一番街B1F",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1-chōme−9−１ 東京駅一番街 B1F 東京拉麵街 内",
+    "maps_url": "https://maps.google.com/?cid=11140097630059971228",
+    "image_url": "/images/rokurinsha.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "fuunji-shinjuku",
@@ -580,19 +580,19 @@
     "area": "shinjuku",
     "price_range": 1,
     "google_place_id": "ChIJ508frs-MGGARnIKrb_tkai0",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_rating": 4.3,
+    "review_count": 5513,
     "description_zh": "新宿西口蘸面名店，鸡白汤 × 鱼介双重汤底，整理券制不需要久等",
     "tags": [
       "需排队",
       "蘸面tsukemen",
       "整理券制"
     ],
-    "address": "東京都渋谷区代々木2-14-3",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒151-0053 Tokyo, Shibuya, Yoyogi, 2-chōme−14−３ 北斗第一ビル １F",
+    "maps_url": "https://maps.google.com/?cid=3272539110311166620",
+    "image_url": "/images/fuunji-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "afuri-roppongi",
@@ -602,20 +602,20 @@
     "cuisine": "ramen",
     "area": "roppongi",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_afuri_roppongi",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ5_kEroKLGGARU4NlyGSJt8Y",
+    "google_rating": 4.4,
+    "review_count": 3056,
     "description_zh": "柚子盐清汤拉面，清爽不油腻，设计感强，海外也有分店，外国游客高度推荐",
     "tags": [
       "英文菜单",
       "游客友好",
       "柚子盐"
     ],
-    "address": "東京都港区六本木3-2-3",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒106-0032 Tokyo, Minato City, Roppongi, 4-chōme−9−４ ＵＦビル ４ 1F",
+    "maps_url": "https://maps.google.com/?cid=14319064606199612243",
+    "image_url": "/images/afuri-roppongi.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "mouko-tanmen-nakamoto",
@@ -625,20 +625,20 @@
     "cuisine": "ramen",
     "area": "ikebukuro",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_nakamoto_ikebukuro",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJVVWZhGiNGGARRjWApJoteLI",
+    "google_rating": 4.1,
+    "review_count": 1787,
     "description_zh": "辣度挑战系拉面，蒙古担担面是招牌，辣度从 0 到 9 可选，嗜辣必试",
     "tags": [
       "辣味",
       "挑战辣度",
       "个性体验"
     ],
-    "address": "東京都豊島区東池袋1-13-1",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1-chōme−12−１５ 近代2ビル 1F",
+    "maps_url": "https://maps.google.com/?cid=12860078878164530502",
+    "image_url": "/images/mouko-tanmen-nakamoto.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tenichi-ginza",
@@ -648,19 +648,19 @@
     "cuisine": "tempura",
     "area": "ginza",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_tenichi_ginza",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJbVNcVO-LGGARKdnkhXmDs0s",
+    "google_rating": 4.3,
+    "review_count": 374,
     "description_zh": "1930年创业天妇罗老铺，芝麻油炸制，虾天妇罗与饭套装是经典选择",
     "tags": [
       "百年老铺",
       "英文菜单"
     ],
-    "address": "東京都中央区銀座6-6-5",
-    "maps_url": "",
-    "image_url": "",
+    "address": "6-chōme-6-5 Ginza, Chuo City, Tokyo 104-0061日本",
+    "maps_url": "https://maps.google.com/?cid=5454848131636451625",
+    "image_url": "/images/tenichi-ginza.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tenya-asakusa",
@@ -670,20 +670,20 @@
     "cuisine": "tempura",
     "area": "asakusa",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_tenya_asakusa",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJKf07XL-OGGARRGhexDJw5TQ",
+    "google_rating": 4.1,
+    "review_count": 1913,
     "description_zh": "平价天妇罗丼连锁，约 600 円即可吃到虾+蔬菜天妇罗套餐，旅游省钱之选",
     "tags": [
       "便宜",
       "英文菜单",
       "游客友好"
     ],
-    "address": "東京都台東区浅草1-2-4",
-    "maps_url": "",
-    "image_url": "",
+    "address": "1-chōme-9-2 Asakusa, Taito City, Tokyo 111-0032日本",
+    "maps_url": "https://maps.google.com/?cid=3811576022984190020",
+    "image_url": "/images/tenya-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "gonpachi-roppongi",
@@ -693,20 +693,20 @@
     "cuisine": "yakitori",
     "area": "roppongi",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_gonpachi_roppongi",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJEwlemnqLGGARhwMuRpwpkBI",
+    "google_rating": 4.3,
+    "review_count": 7946,
     "description_zh": "电影《杀死比尔》取景地原型，古民家改建居酒屋，串烧与荞麦面同样出色",
     "tags": [
       "网红打卡",
       "英文菜单",
       "游客友好"
     ],
-    "address": "東京都港区西麻布1-13-11",
-    "maps_url": "",
-    "image_url": "",
+    "address": "1-chōme-13-11 Nishiazabu, Minato City, Tokyo 106-0031日本",
+    "maps_url": "https://maps.google.com/?cid=1337614840498094983",
+    "image_url": "/images/gonpachi-roppongi.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "kushikatsu-tanaka-shibuya",
@@ -716,20 +716,20 @@
     "cuisine": "yakitori",
     "area": "shibuya",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_kushikatsu_tanaka_shibuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJqVx8GKqMGGARvhGAdQesv6I",
+    "google_rating": 4.6,
+    "review_count": 3163,
     "description_zh": "大阪串炸东京连锁，猪肉/蔬菜/海鲜各类串炸，酱汁不能二次蘸是规矩",
     "tags": [
       "热闹",
       "适合聚会",
       "英文菜单"
     ],
-    "address": "東京都渋谷区道玄坂2-10-12",
-    "maps_url": "",
-    "image_url": "",
+    "address": "2-chōme-18-7 Dōgenzaka, Shibuya, Tokyo 150-0043日本",
+    "maps_url": "https://maps.google.com/?cid=11727281102732136894",
+    "image_url": "/images/kushikatsu-tanaka-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "isomaru-suisan-shinjuku",
@@ -739,20 +739,20 @@
     "cuisine": "yakitori",
     "area": "shinjuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_isomaru_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJf-M-8tmMGGARgeiTNFHjs3A",
+    "google_rating": 3.7,
+    "review_count": 1414,
     "description_zh": "24小时海鲜居酒屋，帆立贝、牡蛎等可在桌边自己烤，深夜也热闹",
     "tags": [
       "24小时",
       "自助烤海鲜",
       "热闹"
     ],
-    "address": "東京都新宿区新宿3-26-13",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒160-0022 Tokyo, Shinjuku City, Shinjuku, 3-chōme−17−１３ 雀のおじさんビル 1-4F",
+    "maps_url": "https://maps.google.com/?cid=8121084490993100929",
+    "image_url": "/images/isomaru-suisan-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "katsukura-shinjuku",
@@ -762,20 +762,20 @@
     "cuisine": "tonkatsu",
     "area": "shinjuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_katsukura_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJxeqRsdqMGGARy6m80_WcWLw",
+    "google_rating": 4.5,
+    "review_count": 1618,
     "description_zh": "京都起家的精品炸猪排，芝麻自己研磨是仪式感，猪排外酥内嫩多汁",
     "tags": [
       "英文菜单",
       "游客友好",
       "百货店内"
     ],
-    "address": "東京都渋谷区千駄ヶ谷5-24-2 新宿タカシマヤ14F",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒151-0051 Tokyo, Shibuya, Sendagaya, 5-chōme−24−２ Times Square Building, 14F 高島屋",
+    "maps_url": "https://maps.google.com/?cid=13571770056714267083",
+    "image_url": "/images/katsukura-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "wako-tokyo-station",
@@ -785,20 +785,20 @@
     "cuisine": "tonkatsu",
     "area": "tokyo-station",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_wako_tokyo_station",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ8efq7_yLGGARMSFfVzXXs2o",
+    "google_rating": 4,
+    "review_count": 738,
     "description_zh": "东京站内便捷炸猪排，白饭/味噌汤/卷心菜无限续，性价比超高的车站用餐",
     "tags": [
       "东京站内",
       "英文菜单",
       "游客友好"
     ],
-    "address": "東京都千代田区丸の内1-9-1 グランスタ東京B1F",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒104-0028 Tokyo, Chuo City, Yaesu, 2-chōme−1 八重洲地下街 B1",
+    "maps_url": "https://maps.google.com/?cid=7688725612950659377",
+    "image_url": "/images/wako-tokyo-station.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "marugame-seimen-shibuya",
@@ -808,20 +808,20 @@
     "cuisine": "soba",
     "area": "shibuya",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_marugame_shibuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJWxYl66eMGGAR2VQpE9JFK5Q",
+    "google_rating": 3.7,
+    "review_count": 585,
     "description_zh": "现场手工制作讃岐乌冬，约 500 円一碗，天妇罗单点自选，日本国民级午餐",
     "tags": [
       "便宜",
       "英文菜单",
       "游客友好"
     ],
-    "address": "東京都渋谷区宇田川町15-1 渋谷パルコ B1F",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒150-0002 Tokyo, Shibuya, 1-chōme−16−１４ 渋谷地下鉄ビルディング 1F",
+    "maps_url": "https://maps.google.com/?cid=10676704110178817241",
+    "image_url": "/images/marugame-seimen-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "soba-sunaba-akasaka",
@@ -831,19 +831,19 @@
     "cuisine": "soba",
     "area": "other",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_sunaba_akasaka",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJjUmuJIGLGGARvk5zkpaF-4o",
+    "google_rating": 4.2,
+    "review_count": 570,
     "description_zh": "江户三大荞麦发祥地之一，冷盛荞麦搭配本葛粉蘸汁，清雅古典",
     "tags": [
       "百年老铺",
       "历史感"
     ],
-    "address": "東京都港区赤坂6-3-5",
-    "maps_url": "",
-    "image_url": "",
+    "address": "6-chōme-3-5 Akasaka, Minato City, Tokyo 107-0052日本",
+    "maps_url": "https://maps.google.com/?cid=10014745078137048766",
+    "image_url": "/images/soba-sunaba-akasaka.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "jojoen-shinjuku",
@@ -853,20 +853,20 @@
     "cuisine": "yakiniku",
     "area": "shinjuku",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_jojoen_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJZ1KdbdqMGGAR55e6P8KB1OY",
+    "google_rating": 4.3,
+    "review_count": 1342,
     "description_zh": "高端和牛烧肉连锁，泡菜与沙拉吧随意取，适合庆祝纪念日用餐",
     "tags": [
       "英文菜单",
       "高端",
       "适合庆祝"
     ],
-    "address": "東京都渋谷区代々木2-2-1 新宿サザンテラス",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒160-0022 Tokyo, Shinjuku City, Shinjuku, 3-chōme−27−１０ Musashino Building, 7F",
+    "maps_url": "https://maps.google.com/?cid=16633061995078916071",
+    "image_url": "/images/jojoen-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "gyukaku-shibuya",
@@ -876,20 +876,20 @@
     "cuisine": "yakiniku",
     "area": "shibuya",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_gyukaku_shibuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ97HnLEeNGGARqGnr0h0ZVjI",
+    "google_rating": 3.6,
+    "review_count": 112,
     "description_zh": "日本最大烧肉连锁，无烟烤网+多样套餐，初次体验烧肉的友好入门之选",
     "tags": [
       "英文菜单",
       "游客友好",
       "适合聚会"
     ],
-    "address": "東京都渋谷区道玄坂2-25-12",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒150-0043 Tokyo, Shibuya, Dōgenzaka, 2-chōme−28−５ 秀永 ビル Ｂ1Ｆ",
+    "maps_url": "https://maps.google.com/?cid=3627114165776902568",
+    "image_url": "/images/gyukaku-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "yakiniku-like-shinjuku",
@@ -899,20 +899,20 @@
     "cuisine": "yakiniku",
     "area": "shinjuku",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_yakiniku_like_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJgUsuDiaNGGAR1dCjK6_96ow",
+    "google_rating": 4,
+    "review_count": 1056,
     "description_zh": "单人烧肉专门店，独立排烟罩，约 1000 円可吃到牛肉套餐，独旅必去",
     "tags": [
       "单人用餐",
       "便宜",
       "独旅友好"
     ],
-    "address": "東京都新宿区西新宿1-14-5",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 7-chōme−11−１７ ブレステン西新宿 1F",
+    "maps_url": "https://maps.google.com/?cid=10154207238653464789",
+    "image_url": "/images/yakiniku-like-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "kanda-minami-aoyama",
@@ -922,20 +922,20 @@
     "cuisine": "kaiseki",
     "area": "harajuku",
     "price_range": 4,
-    "google_place_id": "CHANGE_ME_kanda_aoyama",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ-36E6Z2MGGAR604T-Qs7vao",
+    "google_rating": 4.6,
+    "review_count": 29,
     "description_zh": "米其林三星，主厨神田裕行的季节性怀石，食材极致鲜活，日本料理界天花板之一",
     "tags": [
       "米其林三星",
       "需预前预约",
       "正装"
     ],
-    "address": "東京都港区南青山3-2-6",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒107-0062 Tokyo, Minato City, Minamiaoyama, 3-chōme−2−６ セントラル第5青山ビルBF",
+    "maps_url": "https://maps.google.com/?cid=12303054679655534315",
+    "image_url": "/images/kanda-minami-aoyama.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "kohaku-kagurazaka",
@@ -945,20 +945,20 @@
     "cuisine": "kaiseki",
     "area": "other",
     "price_range": 4,
-    "google_place_id": "CHANGE_ME_kohaku_kagurazaka",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJiSRxIluMGGARgaWss9mCC6o",
+    "google_rating": 4.6,
+    "review_count": 280,
     "description_zh": "米其林三星，神楽坂石板路上的现代怀石，以出汁技术闻名，极致的鲜味哲学",
     "tags": [
       "米其林三星",
       "需提前预约",
       "神乐坂"
     ],
-    "address": "東京都新宿区神楽坂5-11",
-    "maps_url": "",
-    "image_url": "",
+    "address": "3-chōme-５-5 Kagurazaka, Shinjuku City, Tokyo 162-0825日本",
+    "maps_url": "https://maps.google.com/?cid=12253031082725516673",
+    "image_url": "/images/kohaku-kagurazaka.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "sometaro-asakusa",
@@ -968,20 +968,20 @@
     "cuisine": "okonomiyaki",
     "area": "asakusa",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_sometaro_asakusa",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJR6VxAL-OGGARDytTRfiKddE",
+    "google_rating": 4.4,
+    "review_count": 1668,
     "description_zh": "昭和老建筑内的大阪烧老铺，自己动手在铁板上烤，氛围复古迷人",
     "tags": [
       "昭和风",
       "自助烧烤",
       "浅草散步途中"
     ],
-    "address": "東京都台東区西浅草2-2-2",
-    "maps_url": "",
-    "image_url": "",
+    "address": "2-chōme-2-2 Nishiasakusa, Taito City, Tokyo 111-0035日本",
+    "maps_url": "https://maps.google.com/?cid=15093122525121686287",
+    "image_url": "/images/sometaro-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "onyasai-shinjuku",
@@ -991,20 +991,20 @@
     "cuisine": "hotpot",
     "area": "shinjuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_onyasai_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJwd0tY9qMGGARsT1hL8m4fHs",
+    "google_rating": 4.2,
+    "review_count": 575,
     "description_zh": "多汤底涮涮锅连锁，蔬菜无限供应，猪肉/牛肉套餐选择多，干净宽敞",
     "tags": [
       "英文菜单",
       "游客友好",
       "适合家庭"
     ],
-    "address": "東京都新宿区新宿3-17-9",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒160-0022 Tokyo, Shinjuku City, Shinjuku, 3-chōme−36−１５ 新宿内野ビル 3Ｆ",
+    "maps_url": "https://maps.google.com/?cid=8898190138000096689",
+    "image_url": "/images/onyasai-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "shabuyo-ikebukuro",
@@ -1014,20 +1014,20 @@
     "cuisine": "hotpot",
     "area": "ikebukuro",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_shabuyo_ikebukuro",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJuw3FXC2NGGARPWE3FWdCLy4",
+    "google_rating": 3.6,
+    "review_count": 403,
     "description_zh": "涮涮锅吃到饱，汤底/涮料/甜点均可无限，约 2000 円满足感极高",
     "tags": [
       "吃到饱",
       "英文菜单",
       "游客友好"
     ],
-    "address": "東京都豊島区東池袋1-23-10",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1-chōme−29−１ サントロペ池袋ビル ６階",
+    "maps_url": "https://maps.google.com/?cid=3327951660155101501",
+    "image_url": "/images/shabuyo-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "maekawa-asakusa",
@@ -1037,19 +1037,19 @@
     "cuisine": "unagi",
     "area": "asakusa",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_maekawa_asakusa",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ_5TBNsaOGGARM7Z-AoEhDso",
+    "google_rating": 4,
+    "review_count": 1119,
     "description_zh": "隅田川畔的鳗鱼老铺，关东蒸烤工艺，鳗鱼饭分量扎实，窗外景色极佳",
     "tags": [
       "河畔景观",
       "百年老铺"
     ],
-    "address": "東京都台東区駒形2-1-29",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒111-0043 Tokyo, Taito City, Komagata, 2-chōme−1−２９ 浅草 うなぎ 鰻 個室",
+    "maps_url": "https://maps.google.com/?cid=14559611483311748659",
+    "image_url": "/images/maekawa-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "yoshinoya-shibuya",
@@ -1059,20 +1059,20 @@
     "cuisine": "donburi",
     "area": "shibuya",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_yoshinoya_shibuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ6UnFfACNGGARWQ0hbudvd7Q",
+    "google_rating": 3.8,
+    "review_count": 19,
     "description_zh": "日本牛丼国民品牌，约 500 円即可吃到经典牛肉盖饭，深夜也营业",
     "tags": [
       "便宜",
       "深夜营业",
       "日本经典"
     ],
-    "address": "東京都渋谷区道玄坂2-25-10",
-    "maps_url": "",
-    "image_url": "",
+    "address": "2-chōme-25-12 Dōgenzaka, Shibuya, Tokyo 150-0043日本",
+    "maps_url": "https://maps.google.com/?cid=13003985488831384921",
+    "image_url": "/images/yoshinoya-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "nakau-shibuya",
@@ -1082,20 +1082,20 @@
     "cuisine": "donburi",
     "area": "shibuya",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_nakau_shibuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJp7g9CayMGGARXjCGtC8AzOw",
+    "google_rating": 3.5,
+    "review_count": 429,
     "description_zh": "亲子丼与和风牛丼专门连锁，出汁鲜甜，比吉野家更和风细腻",
     "tags": [
       "便宜",
       "亲子丼",
       "和风口味"
     ],
-    "address": "東京都渋谷区道玄坂2-6-17",
-    "maps_url": "",
-    "image_url": "",
+    "address": "37-13 Udagawachō, Shibuya, Tokyo 150-0042日本",
+    "maps_url": "https://maps.google.com/?cid=17063013293092122718",
+    "image_url": "/images/nakau-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ootoya-shinjuku",
@@ -1105,20 +1105,20 @@
     "cuisine": "donburi",
     "area": "shinjuku",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_ootoya_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJjfATANeMGGARsovj1jgpkQQ",
+    "google_rating": 3.6,
+    "review_count": 491,
     "description_zh": "日式家庭料理连锁，烤鱼定食/鸡肉丼/蔬菜套餐均衡健康，适合不想踩雷的日常餐",
     "tags": [
       "健康",
       "英文菜单",
       "游客友好"
     ],
-    "address": "東京都新宿区西新宿1-1-3 小田急エース北館",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1-chōme−3−１ 新宿サン・フラワービル 3F",
+    "maps_url": "https://maps.google.com/?cid=329089571874900914",
+    "image_url": "/images/ootoya-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "izuei-ueno",
@@ -1128,19 +1128,19 @@
     "cuisine": "unagi",
     "area": "ueno",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_izuei_ueno",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJDz-xgyCMGGARTTlkSDiqvr8",
+    "google_rating": 4.1,
+    "review_count": 3096,
     "description_zh": "300年历史上野鳗鱼名门，关东蒸烤鳗鱼饭，紧邻上野公园，赏花必访",
     "tags": [
       "百年老铺",
       "不忍池旁"
     ],
-    "address": "東京都台東区上野2-12-22",
-    "maps_url": "",
-    "image_url": "",
+    "address": "2-chōme-12-22 Ueno, Taito City, Tokyo 110-0005日本",
+    "maps_url": "https://maps.google.com/?cid=13816667865528678733",
+    "image_url": "/images/izuei-ueno.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "yabu-soba-ueno",
@@ -1150,19 +1150,19 @@
     "cuisine": "soba",
     "area": "ueno",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_yabu_soba_ueno",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJAQCZAJ-OGGARq9UxjdESVw4",
+    "google_rating": 4.1,
+    "review_count": 1993,
     "description_zh": "江户薮系荞麦面老铺，鸭汁荞麦面为招牌，老东京风情满满",
     "tags": [
       "百年老铺",
       "正宗江户风"
     ],
-    "address": "東京都台東区上野6-9-16",
-    "maps_url": "",
-    "image_url": "",
+    "address": "6-chōme-9-16 Ueno, 台東区 Taito City, Tokyo 110-0005日本",
+    "maps_url": "https://maps.google.com/?cid=1033315330731136427",
+    "image_url": "/images/yabu-soba-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "seiyoken-ueno",
@@ -1172,20 +1172,20 @@
     "cuisine": "other",
     "area": "ueno",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_seiyoken_ueno",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJc6qdmPqNGGARydJjzkV-sT0",
+    "google_rating": 4.1,
+    "review_count": 2040,
     "description_zh": "1872年创业西餐老铺，牛肉炖汤是日本洋食起源之一，上野公园内",
     "tags": [
       "百年老铺",
       "洋食",
       "上野公园"
     ],
-    "address": "東京都台東区上野公園4-58",
-    "maps_url": "",
-    "image_url": "",
+    "address": "4-58 Uenokōen, Taito City, Tokyo 110-8715日本",
+    "maps_url": "https://maps.google.com/?cid=4445473145471881929",
+    "image_url": "/images/seiyoken-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "torigin-ueno",
@@ -1195,19 +1195,19 @@
     "cuisine": "yakitori",
     "area": "ueno",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_torigin_ueno",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJKyM2HwCPGGAREGjhEmDdoak",
+    "google_rating": 4.1,
+    "review_count": 42,
     "description_zh": "备长炭烧鸟，鸡皮与软骨为招牌，昭和老铺热闹氛围",
     "tags": [
       "备长炭",
       "昭和风"
     ],
-    "address": "東京都台東区上野6-11-3",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒110-0005 Tokyo, Taito City, Ueno, 4-chōme−9−１５ オサダビル",
+    "maps_url": "https://maps.google.com/?cid=12223294268363597840",
+    "image_url": "/images/torigin-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "nakamoto-ueno",
@@ -1217,19 +1217,19 @@
     "cuisine": "ramen",
     "area": "ueno",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_nakamoto_ueno",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJQcv8RqCOGGARBRXBpFaflOw",
+    "google_rating": 4,
+    "review_count": 3472,
     "description_zh": "辣度挑战系拉面，上野店人气高，辣味蒙古担担面饱腹又刺激",
     "tags": [
       "辣味",
       "挑战辣度"
     ],
-    "address": "東京都台東区上野4-9-1",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒110-0005 Tokyo, Taito City, Ueno, 5-chōme−10−１４ ラーメン横丁内",
+    "maps_url": "https://maps.google.com/?cid=17047425683984291077",
+    "image_url": "/images/nakamoto-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tonkatsu-isakichi-ueno",
@@ -1239,19 +1239,19 @@
     "cuisine": "tonkatsu",
     "area": "ueno",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_isakichi_ueno",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ82LowZ-OGGARKB9j4mPBZ3Q",
+    "google_rating": 4.3,
+    "review_count": 3111,
     "description_zh": "上野周边口碑炸猪排，份量扎实性价比高，午市多人排队",
     "tags": [
       "份量大",
       "性价比"
     ],
-    "address": "東京都台東区上野4-7-8",
-    "maps_url": "",
-    "image_url": "",
+    "address": "4-chōme-5-1 Ueno, Taito City, Tokyo 110-0005日本",
+    "maps_url": "https://maps.google.com/?cid=8387885465744908072",
+    "image_url": "/images/tonkatsu-isakichi-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "gyutan-rikyu-ueno",
@@ -1261,19 +1261,19 @@
     "cuisine": "yakiniku",
     "area": "ueno",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_rikyu_ueno",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJt7jaAKCOGGAR6LBiQNZwYUY",
+    "google_rating": 4.1,
+    "review_count": 536,
     "description_zh": "仙台名物牛舌专门店，厚切盐烤牛舌配麦饭和牛尾汤，日本专有体验",
     "tags": [
       "牛舌专门",
       "仙台名物"
     ],
-    "address": "東京都台東区上野3-23-4",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒110-0005 Tokyo, Taito City, Ueno, 3-chōme−24−６ PARCO_ya上野6F",
+    "maps_url": "https://maps.google.com/?cid=5071458720901411048",
+    "image_url": "/images/gyutan-rikyu-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tenya-ueno",
@@ -1283,20 +1283,20 @@
     "cuisine": "tempura",
     "area": "ueno",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_tenya_ueno",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJKQxGN6COGGARhyIcBWO6Nyk",
+    "google_rating": 3.9,
+    "review_count": 730,
     "description_zh": "平价天妇罗丼连锁上野店，600円虾蔬天妇罗套餐，逛浅草/上野必吃",
     "tags": [
       "便宜",
       "游客友好",
       "英文菜单"
     ],
-    "address": "東京都台東区上野3-27-8",
-    "maps_url": "",
-    "image_url": "",
+    "address": "5-chōme-27-1 Ueno, Taito City, Tokyo 110-0005日本",
+    "maps_url": "https://maps.google.com/?cid=2970047413724390023",
+    "image_url": "/images/tenya-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "hotpot-nabezou-ueno",
@@ -1306,20 +1306,20 @@
     "cuisine": "hotpot",
     "area": "ueno",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_nabezou_ueno",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJsW9uBKCOGGAR3hWpxKX-ag0",
+    "google_rating": 3.8,
+    "review_count": 3863,
     "description_zh": "多汤底吃到饱火锅，中文菜单，价位亲民，全家游必去",
     "tags": [
       "吃到饱",
       "中文菜单",
       "游客友好"
     ],
-    "address": "東京都台東区上野3-24-6",
-    "maps_url": "",
-    "image_url": "",
+    "address": "3-chōme-24-6 Ueno, Taito City, Tokyo 110-0005日本",
+    "maps_url": "https://maps.google.com/?cid=966865057946867166",
+    "image_url": "/images/hotpot-nabezou-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "kura-sushi-ueno",
@@ -1329,20 +1329,20 @@
     "cuisine": "sushi",
     "area": "ueno",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_kura_ueno",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ9VXFCQCPGGARlE6CWfWsZbA",
+    "google_rating": 3.7,
+    "review_count": 53,
     "description_zh": "平价回转寿司连锁，触控点单防护盖设计，家庭出行首选",
     "tags": [
       "便宜",
       "游客友好",
       "英文菜单"
     ],
-    "address": "東京都台東区上野4-1-3",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒110-0016 Tokyo, Taito City, Taitō, 4-chōme−33−１ クロスポイント御徒町 2F",
+    "maps_url": "https://maps.google.com/?cid=12710755693091770004",
+    "image_url": "/images/kura-sushi-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "okonomiyaki-ueno",
@@ -1352,19 +1352,19 @@
     "cuisine": "okonomiyaki",
     "area": "ueno",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_yukari_ueno",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJZXPDhR2MGGARYR1ksbAICCs",
+    "google_rating": 4.3,
+    "review_count": 777,
     "description_zh": "大阪本场大阪烧连锁东京分店，薄皮脆底，豚玉是招牌",
     "tags": [
       "大阪风",
       "游客友好"
     ],
-    "address": "東京都台東区上野5-27-3",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒101-0021 Tokyo, Chiyoda City, Sotokanda, 4-chōme−14−１ 秋葉原ＵＤＸ ＡＫＩＢＡ－ＩＣＨＩ３階",
+    "maps_url": "https://maps.google.com/?cid=3100737898427981153",
+    "image_url": "/images/okonomiyaki-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "yoshinoya-ueno",
@@ -1374,20 +1374,20 @@
     "cuisine": "donburi",
     "area": "ueno",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_yoshinoya_ueno",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ2ctgyp6OGGARGZaEvjKB-UY",
+    "google_rating": 3.6,
+    "review_count": 917,
     "description_zh": "上野必经的24小时牛丼，深夜逛完博物馆或夜市的最佳收尾",
     "tags": [
       "便宜",
       "深夜营业",
       "24小时"
     ],
-    "address": "東京都台東区上野4-7-1",
-    "maps_url": "",
-    "image_url": "",
+    "address": "Ueno Building, 7-chōme-3-2 Ueno, Taito City, Tokyo 110-0005日本",
+    "maps_url": "https://maps.google.com/?cid=5114260906800616985",
+    "image_url": "/images/yoshinoya-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "kanda-matsuya",
@@ -1397,19 +1397,19 @@
     "cuisine": "soba",
     "area": "akihabara",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_kanda_matsuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJQ3MESwOMGGARX99d47o0V6k",
+    "google_rating": 4.3,
+    "review_count": 3730,
     "description_zh": "1884年创业东京荞麦名店，昭和文豪常客，冷荞麦蘸汁层次极深",
     "tags": [
       "百年老铺",
       "东京名物"
     ],
-    "address": "東京都千代田区神田須田町1-13",
-    "maps_url": "",
-    "image_url": "",
+    "address": "1-chōme-13 Kanda Sudachō, Chiyoda City, Tokyo 101-0041日本",
+    "maps_url": "https://maps.google.com/?cid=12202279692666789727",
+    "image_url": "/images/kanda-matsuya.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "kanda-yabu-soba",
@@ -1419,19 +1419,19 @@
     "cuisine": "soba",
     "area": "akihabara",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_kanda_yabu",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJX-yVohyMGGARUTdpnpXyQNQ",
+    "google_rating": 4,
+    "review_count": 3596,
     "description_zh": "江户三大薮蕎麦之首，1880年创业，细切绿色荞麦面清香独特",
     "tags": [
       "百年老铺",
       "江户三大薮"
     ],
-    "address": "東京都千代田区神田淡路町2-10",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒101-0063 東京都千代田区神田淡路町２丁目１０",
+    "maps_url": "https://maps.google.com/?cid=15294491058971948881",
+    "image_url": "/images/kanda-yabu-soba.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "gyudon-yoshinoya-akihabara",
@@ -1441,19 +1441,19 @@
     "cuisine": "donburi",
     "area": "akihabara",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_yoshinoya_akihabara",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJAS5bCB2MGGAR7i0sXePN5qI",
+    "google_rating": 3.5,
+    "review_count": 509,
     "description_zh": "秋叶原逛街途中的快速牛丼，深夜血拼后的最佳补给",
     "tags": [
       "便宜",
       "深夜营业"
     ],
-    "address": "東京都千代田区外神田1-8-1",
-    "maps_url": "",
-    "image_url": "",
+    "address": "1-chōme-11-8 Sotokanda, Chiyoda City, Tokyo 101-0021日本",
+    "maps_url": "https://maps.google.com/?cid=11738295855192223214",
+    "image_url": "/images/gyudon-yoshinoya-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ramen-ikaruga-akihabara",
@@ -1463,19 +1463,19 @@
     "cuisine": "ramen",
     "area": "akihabara",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_ikaruga_akihabara",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ5wI-efyLGGARp-hRs2vNgD4",
+    "google_rating": 3.5,
+    "review_count": 2108,
     "description_zh": "鱼介系酱油浓汤拉面，汤底鲜味层次丰富，秋叶原逛街必填肚子",
     "tags": [
       "鱼介系",
       "正宗"
     ],
-    "address": "東京都千代田区外神田3-10-5",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1-chōme−9−１ 東京駅一番街 B1 東京ラーメンストリート",
+    "maps_url": "https://maps.google.com/?cid=4503825489824180391",
+    "image_url": "/images/ramen-ikaruga-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "yakitori-akihabara-daidokoro",
@@ -1485,20 +1485,20 @@
     "cuisine": "yakitori",
     "area": "akihabara",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_daitouryou_akihabara",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJlaGP66iOGGAReiJo1Lneaas",
+    "google_rating": 4,
+    "review_count": 762,
     "description_zh": "平价烧鸟居酒屋，烧鸟单串约100円起，闲逛秋叶原后的聚餐好去处",
     "tags": [
       "便宜",
       "热闹",
       "适合聚会"
     ],
-    "address": "東京都千代田区外神田1-15-6",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒101-0025 Tokyo, Chiyoda City, Kanda Sakumachō, 2-chōme−１１ 秋葉原KSCビル 2F JD",
+    "maps_url": "https://maps.google.com/?cid=12351648342754206330",
+    "image_url": "/images/yakitori-akihabara-daidokoro.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tempura-sansada-asakusa",
@@ -1508,19 +1508,19 @@
     "cuisine": "tempura",
     "area": "asakusa",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_sansada_asakusa",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJqeg558COGGARBxPTQGfvMoI",
+    "google_rating": 3.5,
+    "review_count": 1274,
     "description_zh": "1837年创业浅草天妇罗老铺，江户前炸法酥脆清爽，就在仲见世通旁",
     "tags": [
       "百年老铺",
       "浅草必吃"
     ],
-    "address": "東京都台東区浅草1-2-2",
-    "maps_url": "",
-    "image_url": "",
+    "address": "1-chōme-2-2 Asakusa, Taito City, Tokyo 111-0032日本",
+    "maps_url": "https://maps.google.com/?cid=9381824200514409223",
+    "image_url": "/images/tempura-sansada-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "daikokuya-tempura",
@@ -1530,20 +1530,20 @@
     "cuisine": "tempura",
     "area": "asakusa",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_daikokuya_asakusa",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ79EaJsGOGGARHgsoZXYMZO0",
+    "google_rating": 3.5,
+    "review_count": 3418,
     "description_zh": "浅草最有名天妇罗老铺之一，浓黑芝麻酱油汤底天丼是特色，排队也值得",
     "tags": [
       "需排队",
       "浅草地标",
       "百年老铺"
     ],
-    "address": "東京都台東区浅草1-38-10",
-    "maps_url": "",
-    "image_url": "",
+    "address": "1-chōme-38-10 Asakusa, Taito City, Tokyo 111-0032日本",
+    "maps_url": "https://maps.google.com/?cid=17105810987302783774",
+    "image_url": "/images/daikokuya-tempura.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "komakata-dozeu",
@@ -1553,20 +1553,20 @@
     "cuisine": "hotpot",
     "area": "asakusa",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_komakata_dozeu",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJY57SxceOGGAR5p8zPgOh_p4",
+    "google_rating": 4.3,
+    "review_count": 3291,
     "description_zh": "1801年创业的泥鳅火锅元祖，江户料理文化活化石，稀缺体验",
     "tags": [
       "百年老铺",
       "稀缺体验",
       "江户料理"
     ],
-    "address": "東京都台東区駒形1-7-12",
-    "maps_url": "",
-    "image_url": "",
+    "address": "1-chōme-7-12 Komagata, Taito City, Tokyo 111-0043日本",
+    "maps_url": "https://maps.google.com/?cid=11456771537377664998",
+    "image_url": "/images/komakata-dozeu.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "kawachiya-unagi-asakusa",
@@ -1576,19 +1576,19 @@
     "cuisine": "unagi",
     "area": "asakusa",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_kawachiya_asakusa",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJVynn0aKFGGARr1mTVs-D_Go",
+    "google_rating": 4,
+    "review_count": 1284,
     "description_zh": "浅草老牌鳗鱼饭，关东秘传蒸烤，鳗鱼饭配上腌菜和清汤一套完整",
     "tags": [
       "百年老铺",
       "关东风"
     ],
-    "address": "東京都台東区駒形2-1-30",
-    "maps_url": "",
-    "image_url": "",
+    "address": "7-chōme-6-16 Shibamata, Katsushika City, Tokyo 125-0052日本",
+    "maps_url": "https://maps.google.com/?cid=7709181588685412783",
+    "image_url": "/images/kawachiya-unagi-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "asakusa-imahan-ninngyocho",
@@ -1598,20 +1598,20 @@
     "cuisine": "hotpot",
     "area": "asakusa",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_imahan_ningyocho",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJn-uWzsaOGGARVtp2-TErB8E",
+    "google_rating": 4,
+    "review_count": 837,
     "description_zh": "百年和牛寿喜锅专门店，黑毛和牛寿喜烧配生蛋，正统关东风味",
     "tags": [
       "百年老铺",
       "和牛",
       "寿喜锅"
     ],
-    "address": "東京都台東区浅草1-11-2",
-    "maps_url": "",
-    "image_url": "",
+    "address": "1-chōme-19-7 Asakusa, Taito City, Tokyo 111-0032日本",
+    "maps_url": "https://maps.google.com/?cid=13909133467795774038",
+    "image_url": "/images/asakusa-imahan-ninngyocho.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "chanko-nabe-ryogoku",
@@ -1621,20 +1621,20 @@
     "cuisine": "hotpot",
     "area": "asakusa",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_chanko_ryogoku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJAQA0kEqJGGAR93TbAoQ4x0Q",
+    "google_rating": 4.2,
+    "review_count": 1290,
     "description_zh": "两国相扑部屋直传的力士火锅，鸡汤底蔬菜豆腐滋味绝佳，分量超大",
     "tags": [
       "相扑文化",
       "特色体验",
       "分量大"
     ],
-    "address": "東京都墨田区両国2-17-6",
-    "maps_url": "",
-    "image_url": "",
+    "address": "2-chōme-17-6 Ryōgoku, Sumida City, Tokyo 130-0026日本",
+    "maps_url": "https://maps.google.com/?cid=4955992054579295479",
+    "image_url": "/images/chanko-nabe-ryogoku.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "yakitori-asakusa-hatanaka",
@@ -1644,7 +1644,7 @@
     "cuisine": "yakitori",
     "area": "asakusa",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_hatanaka_asakusa",
+    "google_place_id": "ChIJGXc5hemOGGARsHvgOLpBVCw",
     "google_rating": 0,
     "review_count": 0,
     "description_zh": "浅草老街居酒屋，串烧与时令刺身搭配，夜晚浅草散步后的完美终点",
@@ -1652,11 +1652,11 @@
       "浅草氛围",
       "时令食材"
     ],
-    "address": "東京都台東区浅草2-6-11",
-    "maps_url": "",
+    "address": "日本〒111-0032 Tokyo, Taito City, Asakusa, 5-chōme−2 松下ビル",
+    "maps_url": "https://maps.google.com/?cid=3194250303786482608",
     "image_url": "",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "sushi-zanmai-ikebukuro",
@@ -1666,20 +1666,20 @@
     "cuisine": "sushi",
     "area": "ikebukuro",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_zanmai_ikebukuro",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJYd7LLmiNGGARwbFZ-nUb86w",
+    "google_rating": 3.8,
+    "review_count": 1355,
     "description_zh": "24小时营业的寿司连锁，深夜也能吃到新鲜金枪鱼，价格合理",
     "tags": [
       "24小时",
       "英文菜单",
       "游客友好"
     ],
-    "address": "東京都豊島区東池袋1-19-4",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒171-0022 Tokyo, Toshima City, Minamiikebukuro, 1-chōme−27−８ 大庄池袋 東口ビル",
+    "maps_url": "https://maps.google.com/?cid=12462334787389600193",
+    "image_url": "/images/sushi-zanmai-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tonkatsu-yachiyo-ikebukuro",
@@ -1689,19 +1689,19 @@
     "cuisine": "tonkatsu",
     "area": "ikebukuro",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_yachiyo_ikebukuro",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJjwpWyVeNGGARQ0R_2v8esmU",
+    "google_rating": 4.5,
+    "review_count": 635,
     "description_zh": "池袋老派炸猪排，里脊猪排外酥内嫩，味噌汤免费续杯",
     "tags": [
       "口碑老店",
       "性价比"
     ],
-    "address": "東京都豊島区南池袋1-25-8",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒171-0022 Tokyo, Toshima City, Minamiikebukuro, 2-chōme−47−７ 1F",
+    "maps_url": "https://maps.google.com/?cid=7327953627916485699",
+    "image_url": "/images/tonkatsu-yachiyo-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "gyukaku-ikebukuro",
@@ -1711,20 +1711,20 @@
     "cuisine": "yakiniku",
     "area": "ikebukuro",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_gyukaku_ikebukuro",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJTVOfGWaNGGAReL5CpZYFWyQ",
+    "google_rating": 4.1,
+    "review_count": 1122,
     "description_zh": "池袋热闹烧肉连锁，无烟烤网多人聚餐首选，午市套餐超值",
     "tags": [
       "英文菜单",
       "适合聚会",
       "午市推荐"
     ],
-    "address": "東京都豊島区東池袋1-23-8",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 1-chōme−21−１３ ＯＲＥ池袋 6Ｆ",
+    "maps_url": "https://maps.google.com/?cid=2619693752821923448",
+    "image_url": "/images/gyukaku-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "kura-sushi-ikebukuro",
@@ -1734,20 +1734,20 @@
     "cuisine": "sushi",
     "area": "ikebukuro",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_kura_ikebukuro",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJq6qaF2iNGGARyuzaSpQUFcI",
+    "google_rating": 3.8,
+    "review_count": 2709,
     "description_zh": "平价回转寿司，防护盖设计保鲜，触控点单零语言压力",
     "tags": [
       "便宜",
       "游客友好",
       "英文菜单"
     ],
-    "address": "東京都豊島区東池袋1-14-3",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒171-0022 Tokyo, Toshima City, Minamiikebukuro, 1-chōme−19−５ Ｇビル 01 Ｂ1Ｆ",
+    "maps_url": "https://maps.google.com/?cid=13985106845012520138",
+    "image_url": "/images/kura-sushi-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ramen-ganso-ikebukuro",
@@ -1757,19 +1757,19 @@
     "cuisine": "ramen",
     "area": "ikebukuro",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_ganso_ikebukuro",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJrYYqo4ONGGAR9Sl9MG5jQXs",
+    "google_rating": 3.9,
+    "review_count": 125,
     "description_zh": "池袋老牌酱油拉面，汤底清澈鲜味突出，深受本地上班族喜爱",
     "tags": [
       "酱油拉面",
       "本地人气"
     ],
-    "address": "東京都豊島区西池袋1-35-4",
-    "maps_url": "",
-    "image_url": "",
+    "address": "3-chōme-33-17 Nishiikebukuro, Toshima City, Tokyo 171-0021日本",
+    "maps_url": "https://maps.google.com/?cid=8881489265062390261",
+    "image_url": "/images/ramen-ganso-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "marugame-seimen-ikebukuro",
@@ -1779,20 +1779,20 @@
     "cuisine": "soba",
     "area": "ikebukuro",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_marugame_ikebukuro",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJue5-Rm6NGGARKGFvUIM-ERs",
+    "google_rating": 3.5,
+    "review_count": 320,
     "description_zh": "现场制作讃岐乌冬，天妇罗可单点，500円以内吃饱",
     "tags": [
       "便宜",
       "游客友好",
       "英文菜单"
     ],
-    "address": "東京都豊島区東池袋1-22-10",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 3-chōme−1−３ サンシャインシティアルタ B1F",
+    "maps_url": "https://maps.google.com/?cid=1950408847339249960",
+    "image_url": "/images/marugame-seimen-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tenya-ikebukuro",
@@ -1802,20 +1802,20 @@
     "cuisine": "tempura",
     "area": "ikebukuro",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_tenya_ikebukuro",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJXTHfImiNGGARgfpLL3cxI3M",
+    "google_rating": 3.8,
+    "review_count": 595,
     "description_zh": "平价天妇罗丼，600円大虾蔬菜天丼，快速饱腹",
     "tags": [
       "便宜",
       "快速",
       "英文菜单"
     ],
-    "address": "東京都豊島区東池袋1-21-11",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒171-0022 Tokyo, Toshima City, Minamiikebukuro, 1-chōme−19−３ 池袋嘉泉ビル",
+    "maps_url": "https://maps.google.com/?cid=8296529326510963329",
+    "image_url": "/images/tenya-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "hotpot-shabuzen-ikebukuro",
@@ -1848,20 +1848,20 @@
     "cuisine": "ramen",
     "area": "harajuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_afuri_harajuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJba17TbqMGGARFtDV6hkZbcs",
+    "google_rating": 4.4,
+    "review_count": 4896,
     "description_zh": "柚子盐拉面发源店，原宿竹下通周边，逛街购物后清爽一碗",
     "tags": [
       "英文菜单",
       "游客友好",
       "柚子盐"
     ],
-    "address": "東京都渋谷区千駄ヶ谷3-63-1",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒151-0051 Tokyo, Shibuya, Sendagaya, 3-chōme−63−１ グランデフォレスタ原宿 1F",
+    "maps_url": "https://maps.google.com/?cid=14658399961265590294",
+    "image_url": "/images/afuri-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "yakitori-toriyoshi-harajuku",
@@ -1871,19 +1871,19 @@
     "cuisine": "yakitori",
     "area": "harajuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_toriyoshi_harajuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJU6TV25-MGGARfoGDJaBmZhU",
+    "google_rating": 3.9,
+    "review_count": 660,
     "description_zh": "备长炭烧鸟，鸡肉质量上乘，表参道逛完顺路的优质居酒屋",
     "tags": [
       "备长炭",
       "表参道"
     ],
-    "address": "東京都渋谷区神宮前4-11-2",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒107-0062 Tokyo, Minato City, Minamiaoyama, 3-chōme−18−１６ ル･ボワビル 1･2F",
+    "maps_url": "https://maps.google.com/?cid=1542032760431149438",
+    "image_url": "/images/yakitori-toriyoshi-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "gyudon-sukiya-harajuku",
@@ -1893,20 +1893,20 @@
     "cuisine": "donburi",
     "area": "harajuku",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_sukiya_harajuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJNb1sRKOMGGAREYhjpOM4GSE",
+    "google_rating": 3.5,
+    "review_count": 467,
     "description_zh": "日本最大牛丼连锁，原宿购物疲惫时的快速补给，多种配料可选",
     "tags": [
       "便宜",
       "深夜营业",
       "英文菜单"
     ],
-    "address": "東京都渋谷区神宮前1-22-10",
-    "maps_url": "",
-    "image_url": "",
+    "address": "3-chōme-23-3 Jingūmae, Shibuya, Tokyo 150-0001日本",
+    "maps_url": "https://maps.google.com/?cid=2385000028036106257",
+    "image_url": "/images/gyudon-sukiya-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "soba-homura-harajuku",
@@ -1916,19 +1916,19 @@
     "cuisine": "soba",
     "area": "harajuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_homura_harajuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ1X1k7qaMGGARGOc-4AZclSg",
+    "google_rating": 3.6,
+    "review_count": 734,
     "description_zh": "表参道隐秘荞麦名店，石臼现磨荞麦粉，午间套餐高性价比",
     "tags": [
       "石臼研磨",
       "隐秘名店"
     ],
-    "address": "東京都渋谷区神宮前5-50-6",
-    "maps_url": "",
-    "image_url": "",
+    "address": "5-chōme-23-3 Jingūmae, Shibuya, Tokyo 150-0001日本",
+    "maps_url": "https://maps.google.com/?cid=2924344717648783128",
+    "image_url": "/images/soba-homura-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tonkatsu-wako-omotesando",
@@ -1938,20 +1938,20 @@
     "cuisine": "tonkatsu",
     "area": "harajuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_wako_omotesando",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJodnJ6aeMGGAR5Q9rLaNONpM",
+    "google_rating": 4.2,
+    "review_count": 517,
     "description_zh": "表参道商业区炸猪排，白饭/卷心菜/味噌汤无限续，逛街正餐好选择",
     "tags": [
       "英文菜单",
       "游客友好",
       "无限续饭"
     ],
-    "address": "東京都渋谷区神宮前4-11-8",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒150-0002 Tokyo, Shibuya, 1-chōme−16−１４ Shibuya Metro Bldg., 1F",
+    "maps_url": "https://maps.google.com/?cid=10607752435066408933",
+    "image_url": "/images/tonkatsu-wako-omotesando.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "sushi-hana-harajuku",
@@ -1961,20 +1961,20 @@
     "cuisine": "sushi",
     "area": "harajuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_hanamaru_harajuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJcSb1uOuNGGARHdtqS1ImJfk",
+    "google_rating": 4,
+    "review_count": 88,
     "description_zh": "北海道直送食材的回转寿司，毛蟹/海胆/鮭鱼卵水准高，排队值得",
     "tags": [
       "北海道食材",
       "高品质回转",
       "需排队"
     ],
-    "address": "東京都渋谷区神宮前4-31-10",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒150-0001 Tokyo, Shibuya, Jingūmae, 1-chōme−23−２６ 2F COMICHI",
+    "maps_url": "https://maps.google.com/?cid=17952797624476818205",
+    "image_url": "/images/sushi-hana-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ichiran-shinjuku",
@@ -1984,20 +1984,20 @@
     "cuisine": "ramen",
     "area": "shinjuku",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_ichiran_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJp1Kx1dmMGGARvbZ_YYRx0vQ",
+    "google_rating": 4.4,
+    "review_count": 4345,
     "description_zh": "新宿店隔间式天然豚骨拉面，深夜也营业，歌舞伎町夜游后的宵夜",
     "tags": [
       "24小时",
       "中文菜单",
       "游客友好"
     ],
-    "address": "東京都新宿区歌舞伎町1-21-1",
-    "maps_url": "",
-    "image_url": "",
+    "address": "1-chōme-17-10 Kabukichō, Shinjuku City, Tokyo 160-0021日本",
+    "maps_url": "https://maps.google.com/?cid=17641287503749035709",
+    "image_url": "/images/ichiran-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "hanamaru-tokyo-station",
@@ -2007,20 +2007,20 @@
     "cuisine": "sushi",
     "area": "tokyo-station",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_hanamaru_kitte",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJuzydSvqLGGARXTqdIJs_08Y",
+    "google_rating": 4.1,
+    "review_count": 2919,
     "description_zh": "东京站内北海道直送回转寿司，毛蟹、海胆、牡丹虾水准远超东京均值",
     "tags": [
       "东京站内",
       "北海道直送",
       "需排队"
     ],
-    "address": "東京都千代田区丸の内2-7-2 キッテグランシェ6F",
-    "maps_url": "",
-    "image_url": "",
+    "address": "2-chōme-7-2 Marunouchi, Chiyoda City, Tokyo 100-7005日本",
+    "maps_url": "https://maps.google.com/?cid=14326864775095335517",
+    "image_url": "/images/hanamaru-tokyo-station.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "curry-bondy-shinjuku",
@@ -2030,19 +2030,19 @@
     "cuisine": "donburi",
     "area": "shinjuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_bondy_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJBefQ4hOMGGARIkZIs01cRlQ",
+    "google_rating": 4.3,
+    "review_count": 5198,
     "description_zh": "法式奶油欧风咖喱，面包蘸咖喱是招牌吃法，浓郁绵密与日式咖喱风格迥异",
     "tags": [
       "欧风咖喱",
       "特色"
     ],
-    "address": "東京都新宿区新宿3-5-4",
-    "maps_url": "",
-    "image_url": "",
+    "address": "神田古書センタービル, ２階, 2-chōme-3-3 Kanda Jinbōchō, Chiyoda City, Tokyo 101-0051日本",
+    "maps_url": "https://maps.google.com/?cid=6072642636345787938",
+    "image_url": "/images/curry-bondy-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "niku-no-mansei-shinjuku",
@@ -2052,19 +2052,19 @@
     "cuisine": "tonkatsu",
     "area": "shinjuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_mansei_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJOxJ3xdCMGGARHE4dYP25AzA",
+    "google_rating": 3.7,
+    "review_count": 272,
     "description_zh": "精肉店直营炸猪排/牛排，肉质直接来自精肉卖场，鲜度有保证",
     "tags": [
       "精肉直营",
       "肉质好"
     ],
-    "address": "東京都新宿区新宿3-26-9",
-    "maps_url": "",
-    "image_url": "",
+    "address": "1-chōme-1-2 Nishishinjuku, Shinjuku City, Tokyo 160-0023日本",
+    "maps_url": "https://maps.google.com/?cid=3459813436641070620",
+    "image_url": "/images/niku-no-mansei-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "sushi-kura-shinjuku",
@@ -2074,20 +2074,20 @@
     "cuisine": "sushi",
     "area": "shinjuku",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_kura_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJMY8E3oeNGGARx-CLFEBcspU",
+    "google_rating": 3.9,
+    "review_count": 2213,
     "description_zh": "新宿平价回转寿司，触控点单，家庭游客首选，质优价廉",
     "tags": [
       "便宜",
       "游客友好",
       "英文菜单"
     ],
-    "address": "東京都新宿区新宿3-24-2",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 7-chōme−1−７ 新宿ダイカンプラザA館 2F",
+    "maps_url": "https://maps.google.com/?cid=10786785487798132935",
+    "image_url": "/images/sushi-kura-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "izakaya-omoide-yokocho",
@@ -2097,20 +2097,20 @@
     "cuisine": "yakitori",
     "area": "shinjuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_omoide_izumiya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJP9eKBdeMGGAR0zzBXJNVj5A",
+    "google_rating": 4.2,
+    "review_count": 14728,
     "description_zh": "新宿西口昭和烟火气小巷，排排坐烧鸟摊，配生啤感受真实东京夜生活",
     "tags": [
       "昭和风",
       "必打卡",
       "网红"
     ],
-    "address": "東京都新宿区西新宿1-2-6",
-    "maps_url": "",
-    "image_url": "",
+    "address": "1 Chome-2 Nishishinjuku, Shinjuku City, Tokyo 160-0023日本",
+    "maps_url": "https://maps.google.com/?cid=10416638554535967955",
+    "image_url": "/images/izakaya-omoide-yokocho.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ramen-fuunji-shinjuku2",
@@ -2120,19 +2120,19 @@
     "cuisine": "ramen",
     "area": "shinjuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_musashi_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJcyLiKtaMGGARGlb3Io-Rf3w",
+    "google_rating": 4.1,
+    "review_count": 3705,
     "description_zh": "浓厚系鱼介豚骨拉面大师店，麻辣/甜味双汤底特色，排队常见",
     "tags": [
       "浓厚系",
       "名店"
     ],
-    "address": "東京都新宿区西新宿7-2-6",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 7-chōme−2−６ 西新宿Ｋ－１ビル 1F",
+    "maps_url": "https://maps.google.com/?cid=8971049026698303002",
+    "image_url": "/images/ramen-fuunji-shinjuku2.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "hotpot-nabezou-shinjuku",
@@ -2142,20 +2142,20 @@
     "cuisine": "hotpot",
     "area": "shinjuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_nabezou_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJvUEnaNqMGGAR46u74Waa6FM",
+    "google_rating": 4.9,
+    "review_count": 10799,
     "description_zh": "新宿吃到饱火锅，多汤底+多涮料无限量，有中文菜单",
     "tags": [
       "吃到饱",
       "中文菜单",
       "适合多人"
     ],
-    "address": "東京都新宿区新宿3-29-2",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒160-0022 Tokyo, Shinjuku City, Shinjuku, 3-chōme−28−１０ ヒューマックスパビリオン新宿東口 3F・4F",
+    "maps_url": "https://maps.google.com/?cid=6046252266409405411",
+    "image_url": "/images/hotpot-nabezou-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "unagi-nodaiwa-shinjuku",
@@ -2165,19 +2165,19 @@
     "cuisine": "unagi",
     "area": "shinjuku",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_nodaiwa_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJreMNLr2LGGARZuiWrMEdha8",
+    "google_rating": 4.3,
+    "review_count": 1640,
     "description_zh": "百年老铺野田岩新宿分店，关东蒸烤鳗鱼，新宿便利好找",
     "tags": [
       "百年老铺",
       "交通便利"
     ],
-    "address": "東京都新宿区新宿3-20-12",
-    "maps_url": "",
-    "image_url": "",
+    "address": "1-chōme-5-4 Higashiazabu, Minato City, Tokyo 106-0044日本",
+    "maps_url": "https://maps.google.com/?cid=12647547846201370726",
+    "image_url": "/images/unagi-nodaiwa-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "okonomiyaki-tsuruhasufugetsu-shinjuku",
@@ -2187,20 +2187,20 @@
     "cuisine": "okonomiyaki",
     "area": "shinjuku",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_fugetsu_shinjuku",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJEXXYltuMGGARA8Wc3m4rzgI",
+    "google_rating": 3.7,
+    "review_count": 27,
     "description_zh": "大阪人气大阪烧连锁，可自己在铁板动手烤，海鲜/猪肉各种配料",
     "tags": [
       "大阪烧",
       "自助烤",
       "适合聚会"
     ],
-    "address": "東京都新宿区新宿3-26-4",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒160-0022 Tokyo, Shinjuku City, Shinjuku, 3-chōme−14−２３ マヤビル B1F",
+    "maps_url": "https://maps.google.com/?cid=202146788459463939",
+    "image_url": "/images/okonomiyaki-tsuruhasufugetsu-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "kura-sushi-shibuya",
@@ -2210,20 +2210,20 @@
     "cuisine": "sushi",
     "area": "shibuya",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_kura_shibuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJezBogG2NGGARl26gKR8n7oM",
+    "google_rating": 3.8,
+    "review_count": 1168,
     "description_zh": "涩谷平价回转寿司，触控点单，购物疲惫后快速解决正餐",
     "tags": [
       "便宜",
       "游客友好",
       "英文菜单"
     ],
-    "address": "東京都渋谷区宇田川町13-11",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒150-0042 Tokyo, Shibuya, Udagawachō, 23−３ 渋谷第一勧銀共同ビル 7F",
+    "maps_url": "https://maps.google.com/?cid=9506578878221545111",
+    "image_url": "/images/kura-sushi-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "sukiya-shibuya",
@@ -2233,20 +2233,20 @@
     "cuisine": "donburi",
     "area": "shibuya",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_sukiya_shibuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJl2oRxKmMGGAR9OFl0mLod_s",
+    "google_rating": 3,
+    "review_count": 1,
     "description_zh": "日本最大牛丼连锁，咖喱/牛丼/猪丼等多选，深夜也开",
     "tags": [
       "便宜",
       "深夜营业",
       "24小时"
     ],
-    "address": "東京都渋谷区道玄坂2-6-19",
-    "maps_url": "",
-    "image_url": "",
+    "address": "2-chōme-29-29番11号 Dōgenzaka, Shibuya, Tokyo 150-0043日本",
+    "maps_url": "https://maps.google.com/?cid=18120207136882811380",
+    "image_url": "/images/sukiya-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ramen-hakata-shibuya",
@@ -2256,20 +2256,20 @@
     "cuisine": "ramen",
     "area": "shibuya",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_hakata_tenjin_shibuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJs2bQuVeLGGARO6icGce6iw4",
+    "google_rating": 3.9,
+    "review_count": 1530,
     "description_zh": "正宗博多细面豚骨，细面替玉（加面）无料，极浓白汤",
     "tags": [
       "博多豚骨",
       "细面",
       "替玉无料"
     ],
-    "address": "東京都渋谷区道玄坂1-6-2",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒150-0043 Tokyo, Shibuya, Dōgenzaka, 1-chōme−5−４ Shoriki Bldg., １F",
+    "maps_url": "https://maps.google.com/?cid=1048136702584727611",
+    "image_url": "/images/ramen-hakata-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "tonkatsu-katsudon-shibuya",
@@ -2279,20 +2279,20 @@
     "cuisine": "tonkatsu",
     "area": "shibuya",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_katsuya_shibuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ0QQkKFaLGGAR0_FpbKVtCbI",
+    "google_rating": 3.5,
+    "review_count": 854,
     "description_zh": "平价炸猪排丼连锁，约600円吃到炸猪排盖饭，快速饱腹",
     "tags": [
       "便宜",
       "快速",
       "英文菜单"
     ],
-    "address": "東京都渋谷区道玄坂2-6-5",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒150-0043 Tokyo, Shibuya, Dōgenzaka, 2-chōme−9−２ 正実ビル 1F",
+    "maps_url": "https://maps.google.com/?cid=12828905570797482451",
+    "image_url": "/images/tonkatsu-katsudon-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "okonomiyaki-fugetsu-shibuya",
@@ -2302,20 +2302,20 @@
     "cuisine": "okonomiyaki",
     "area": "shibuya",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_fugetsu_shibuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ9Y8WRwCPGGARc7LrT926w-Y",
+    "google_rating": 3.5,
+    "review_count": 98,
     "description_zh": "涩谷大阪烧名店，豚玉/海鲜/混合多种口味，铁板自烤乐趣多",
     "tags": [
       "大阪烧",
       "适合聚会",
       "自助烤"
     ],
-    "address": "東京都渋谷区宇田川町12-14",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒101-0028 Tokyo, Chiyoda City, Kanda Hanaokachō, １−１ ヨドバシＡｋｉｂａビル ８階",
+    "maps_url": "https://maps.google.com/?cid=16628339708873388659",
+    "image_url": "/images/okonomiyaki-fugetsu-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "yakiniku-like-shibuya",
@@ -2325,20 +2325,20 @@
     "cuisine": "yakiniku",
     "area": "shibuya",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_yakiniku_like_shibuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJqaZqJBeNGGARWdeCppErs7o",
+    "google_rating": 3.9,
+    "review_count": 269,
     "description_zh": "单人烧肉专门店，独旅首选，独立排烟罩，约1000円牛肉套餐",
     "tags": [
       "单人用餐",
       "便宜",
       "独旅友好"
     ],
-    "address": "東京都渋谷区道玄坂2-14-7",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒150-0043 Tokyo, Shibuya, Dōgenzaka, 2-chōme−16−３ Takabaya Bldg., １階",
+    "maps_url": "https://maps.google.com/?cid=13453144416449648473",
+    "image_url": "/images/yakiniku-like-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "hotpot-yuzuya-shibuya",
@@ -2348,19 +2348,19 @@
     "cuisine": "hotpot",
     "area": "shibuya",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_yuzuya_shibuya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJnd8Ex1eLGGARpLwkmZdsVCM",
+    "google_rating": 4,
+    "review_count": 419,
     "description_zh": "柚子风味涮涮锅，清爽不油腻，适合多人聚餐",
     "tags": [
       "清爽",
       "适合多人"
     ],
-    "address": "東京都渋谷区道玄坂1-12-2",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒150-0043 Tokyo, Shibuya, Dōgenzaka, 1-chōme−3−１１ Ichiban Bldg., B1",
+    "maps_url": "https://maps.google.com/?cid=2545779087736356004",
+    "image_url": "/images/hotpot-yuzuya-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "sushi-yoshitake",
@@ -2370,20 +2370,20 @@
     "cuisine": "sushi",
     "area": "ginza",
     "price_range": 4,
-    "google_place_id": "CHANGE_ME_yoshitake_ginza",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJTV9t7uiLGGARbd7caq1Xh4c",
+    "google_rating": 4.4,
+    "review_count": 254,
     "description_zh": "米其林三星，吉武正博主厨精湛江户前寿司，醋饭与鱼料搭配达到完美平衡",
     "tags": [
       "米其林三星",
       "需提前预约",
       "最高水准"
     ],
-    "address": "東京都中央区銀座8-7-19",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒104-0061 Tokyo, Chuo City, Ginza, 7-chōme−8−１３ Brown Place９Ｆ",
+    "maps_url": "https://maps.google.com/?cid=9765870719310028397",
+    "image_url": "/images/sushi-yoshitake.jpg",
     "featured": true,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ginza-kojyu",
@@ -2393,20 +2393,20 @@
     "cuisine": "kaiseki",
     "area": "ginza",
     "price_range": 4,
-    "google_place_id": "CHANGE_ME_kojyu_ginza",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJVWDJ2-iLGGARrb9VTXObGIE",
+    "google_rating": 4.1,
+    "review_count": 300,
     "description_zh": "米其林二星怀石料理，奥田透主厨精细日本食材运用，餐器也是艺术品",
     "tags": [
       "米其林二星",
       "需预约",
       "餐具精美"
     ],
-    "address": "東京都中央区銀座5-4-8",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒104-0061 Tokyo, Chuo City, Ginza, 5-chōme−4−８ 銀座カリオカビル 4F",
+    "maps_url": "https://maps.google.com/?cid=9302355949854769069",
+    "image_url": "/images/ginza-kojyu.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ginza-tenkunji",
@@ -2416,19 +2416,19 @@
     "cuisine": "tempura",
     "area": "ginza",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_tenkuni_ginza",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJAQDAdeiLGGARtFxeTTOBBYo",
+    "google_rating": 4,
+    "review_count": 1056,
     "description_zh": "1885年创业银座天妇罗老铺，胡麻油炸制，虾天妇罗香气馥郁",
     "tags": [
       "百年老铺",
       "胡麻油炸"
     ],
-    "address": "東京都中央区銀座6-5-6",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒104-0061 Tokyo, Chuo City, Ginza, 8-chōme−11−３ 1F",
+    "maps_url": "https://maps.google.com/?cid=9945497409458953396",
+    "image_url": "/images/ginza-tenkunji.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "unagi-ginza",
@@ -2438,19 +2438,19 @@
     "cuisine": "unagi",
     "area": "ginza",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_unatetsu_ginza",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJIxrmppyLGGARJks59D-3Mcg",
+    "google_rating": 4.9,
+    "review_count": 1747,
     "description_zh": "银座鳗鱼饭新派代表，鳗鱼质量上乘，餐厅设计现代简洁",
     "tags": [
       "现代风格",
       "银座便利"
     ],
-    "address": "東京都中央区銀座7-9-14",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒104-0061 Tokyo, Chuo City, Ginza, 7-chōme−4−１４ 光ビル １F",
+    "maps_url": "https://maps.google.com/?cid=14425512566752627494",
+    "image_url": "/images/unagi-ginza.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ramen-harukiya-ogikubo",
@@ -2460,19 +2460,19 @@
     "cuisine": "ramen",
     "area": "other",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_harukiya",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJuQh54PbtGGAR80imTXlsXSg",
+    "google_rating": 3.9,
+    "review_count": 2782,
     "description_zh": "东京酱油拉面发祥名店，1949年创业，动物系×鱼介系复合汤底，东京必吃",
     "tags": [
       "东京拉面发源",
       "百年老铺"
     ],
-    "address": "東京都杉並区上荻1-4-6",
-    "maps_url": "",
-    "image_url": "",
+    "address": "1-chōme-4-6 Kamiogi, Suginami City, Tokyo 167-0043日本",
+    "maps_url": "https://maps.google.com/?cid=2908600202600794355",
+    "image_url": "/images/ramen-harukiya-ogikubo.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "waketokuyama-roppongi",
@@ -2482,20 +2482,20 @@
     "cuisine": "kaiseki",
     "area": "roppongi",
     "price_range": 4,
-    "google_place_id": "CHANGE_ME_waketokuyama",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJdVd2oPGGHWAR-OIqEZ32eMw",
+    "google_rating": 4.5,
+    "review_count": 391,
     "description_zh": "米其林三星，野崎洋光主厨的现代日本料理，六本木周边顶级怀石",
     "tags": [
       "米其林三星",
       "需预约",
       "六本木"
     ],
-    "address": "東京都港区西麻布3-1-5",
-    "maps_url": "",
-    "image_url": "",
+    "address": "5-chōme-1-5 Minamiazabu, Minato City, Tokyo 106-0047日本",
+    "maps_url": "https://maps.google.com/?cid=14733797335400899320",
+    "image_url": "/images/waketokuyama-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "sukiya-roppongi",
@@ -2505,20 +2505,20 @@
     "cuisine": "donburi",
     "area": "roppongi",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_sukiya_roppongi",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJTSiFbJ2LGGAR-aBrtn3Rs3Q",
+    "google_rating": 3.5,
+    "review_count": 464,
     "description_zh": "六本木深夜不打烊牛丼，夜店散场后的深夜饱腹必选",
     "tags": [
       "24小时",
       "深夜营业",
       "便宜"
     ],
-    "address": "東京都港区六本木3-11-5",
-    "maps_url": "",
-    "image_url": "",
+    "address": "5-chōme-9-22 Roppongi, Minato City, Tokyo 106-0032日本",
+    "maps_url": "https://maps.google.com/?cid=8409295267092472057",
+    "image_url": "/images/sukiya-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ramen-ippudo-roppongi",
@@ -2528,19 +2528,19 @@
     "cuisine": "ramen",
     "area": "roppongi",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_ippudo_roppongi",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ6UqBqIKLGGARcyvPuWXZSPs",
+    "google_rating": 4.4,
+    "review_count": 2392,
     "description_zh": "白丸赤丸经典博多豚骨，六本木逛完美术馆后快速暖身",
     "tags": [
       "英文菜单",
       "游客友好"
     ],
-    "address": "東京都港区六本木6-10-1",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒106-0032 Tokyo, Minato City, Roppongi, 4-chōme−9−１１ 第2小田切ビル 1F",
+    "maps_url": "https://maps.google.com/?cid=18106961332775365491",
+    "image_url": "/images/ramen-ippudo-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "yakiniku-roppongi-kabukicho",
@@ -2550,20 +2550,20 @@
     "cuisine": "yakiniku",
     "area": "roppongi",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_jojoen_roppongi",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJR1o2XHiLGGARbWdLRiWdk3w",
+    "google_rating": 4.3,
+    "review_count": 475,
     "description_zh": "六本木高端和牛烧肉，适合商务宴请或庆祝特殊纪念日",
     "tags": [
       "高端",
       "适合庆祝",
       "和牛"
     ],
-    "address": "東京都港区六本木6-10-1",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒106-0032 Tokyo, Minato City, Roppongi, 7-chōme−14−４ レム六本木ビル 2F",
+    "maps_url": "https://maps.google.com/?cid=8976691265698228077",
+    "image_url": "/images/yakiniku-roppongi-kabukicho.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "gyutan-rikyu-tokyostation",
@@ -2573,20 +2573,20 @@
     "cuisine": "yakiniku",
     "area": "tokyo-station",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_rikyu_tokyostation",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJw36KF0RRGGARhbogv5VxMCI",
+    "google_rating": 4,
+    "review_count": 1430,
     "description_zh": "仙台牛舌名店东京站内分店，厚切盐烤牛舌+麦饭+牛尾汤，乘车前必吃",
     "tags": [
       "牛舌专门",
       "东京站内",
       "仙台名物"
     ],
-    "address": "東京都千代田区丸の内1-9-1 東京駅一番街B1F",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1-chōme−9−１ グランスタ八重洲B1",
+    "maps_url": "https://maps.google.com/?cid=2463593884142320261",
+    "image_url": "/images/gyutan-rikyu-tokyostation.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "sushi-zanmai-tokyo",
@@ -2596,20 +2596,20 @@
     "cuisine": "sushi",
     "area": "tokyo-station",
     "price_range": 2,
-    "google_place_id": "CHANGE_ME_zanmai_tokyo",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJoylsI9-LGGAREFepCWo2oeM",
+    "google_rating": 4.3,
+    "review_count": 8928,
     "description_zh": "24小时营业的大众高性价比寿司，东京站附近乘车前后随时能吃",
     "tags": [
       "24小时",
       "游客友好",
       "英文菜单"
     ],
-    "address": "東京都千代田区丸の内1-4-1",
-    "maps_url": "",
-    "image_url": "",
+    "address": "4-chōme-11-9 Tsukiji, Chuo City, Tokyo 104-0045日本",
+    "maps_url": "https://maps.google.com/?cid=16402451146916583184",
+    "image_url": "/images/sushi-zanmai-tokyo.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   },
   {
     "id": "ramen-ikaruga-tokyo-station",
@@ -2619,18 +2619,18 @@
     "cuisine": "ramen",
     "area": "tokyo-station",
     "price_range": 1,
-    "google_place_id": "CHANGE_ME_ikaruga_tokyostation",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ5wI-efyLGGARp-hRs2vNgD4",
+    "google_rating": 3.5,
+    "review_count": 2108,
     "description_zh": "东京站内拉面街代表店，鱼介系酱油拉面，搭乘前后超方便",
     "tags": [
       "东京站内",
       "鱼介系"
     ],
-    "address": "東京都千代田区丸の内1-9-1 東京駅一番街B1F",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1-chōme−9−１ 東京駅一番街 B1 東京ラーメンストリート",
+    "maps_url": "https://maps.google.com/?cid=4503825489824180391",
+    "image_url": "/images/ramen-ikaruga-tokyo-station.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-17"
   }
 ]
