@@ -2,16 +2,28 @@
 
 import { AREA_MAP, CUISINE_MAP, type CuisineMeta, priceLabel } from '@/lib/constants';
 import type { Restaurant } from '@/lib/types';
+import { formatDistance, haversineKm, type LatLng } from '@/lib/geo';
 
 interface Props {
   restaurant: Restaurant;
   variant?: 'grid' | 'featured';
+  userLocation?: LatLng | null;
   onClick: (r: Restaurant) => void;
 }
 
-export default function RestaurantCard({ restaurant, variant = 'grid', onClick }: Props) {
+export default function RestaurantCard({
+  restaurant,
+  variant = 'grid',
+  userLocation,
+  onClick,
+}: Props) {
   const cuisine = CUISINE_MAP[restaurant.cuisine];
   const area = AREA_MAP[restaurant.area];
+
+  const distanceKm =
+    userLocation && restaurant.lat != null && restaurant.lng != null
+      ? haversineKm(userLocation, { lat: restaurant.lat, lng: restaurant.lng })
+      : null;
 
   if (variant === 'featured') {
     return (
@@ -21,7 +33,10 @@ export default function RestaurantCard({ restaurant, variant = 'grid', onClick }
       >
         <CoverImage restaurant={restaurant} className="h-40 w-full" />
         <div className="flex flex-1 flex-col gap-2 p-4">
-          <CuisineTag cuisine={cuisine} />
+          <div className="flex items-center justify-between">
+            <CuisineTag cuisine={cuisine} />
+            <PriceTag level={restaurant.price_range} />
+          </div>
           <div>
             <div className="line-clamp-1 font-display text-base font-bold text-ink-900">
               {restaurant.name_jp}
@@ -32,7 +47,7 @@ export default function RestaurantCard({ restaurant, variant = 'grid', onClick }
           </div>
           <div className="flex items-center justify-between text-sm">
             <Rating rating={restaurant.google_rating} count={restaurant.review_count} />
-            <span className="text-ink-500">📍 {area.label_zh}</span>
+            <LocationLabel area={area.label_zh} distanceKm={distanceKm} />
           </div>
           <p className="line-clamp-2 text-xs leading-relaxed text-ink-600">
             {restaurant.description_zh}
@@ -51,9 +66,7 @@ export default function RestaurantCard({ restaurant, variant = 'grid', onClick }
       <div className="flex flex-1 flex-col gap-2 p-4">
         <div className="flex items-center justify-between">
           <CuisineTag cuisine={cuisine} />
-          <span className="text-sm font-semibold text-ink-700">
-            {priceLabel(restaurant.price_range)}
-          </span>
+          <PriceTag level={restaurant.price_range} />
         </div>
 
         <div>
@@ -67,7 +80,7 @@ export default function RestaurantCard({ restaurant, variant = 'grid', onClick }
 
         <div className="flex items-center justify-between text-sm">
           <Rating rating={restaurant.google_rating} count={restaurant.review_count} />
-          <span className="text-ink-500">📍 {area.label_zh}</span>
+          <LocationLabel area={area.label_zh} distanceKm={distanceKm} />
         </div>
 
         <p className="line-clamp-2 text-sm leading-relaxed text-ink-600">
@@ -102,16 +115,44 @@ function CuisineTag({ cuisine }: { cuisine: CuisineMeta }) {
   );
 }
 
+function PriceTag({ level }: { level: 1 | 2 | 3 | 4 }) {
+  return (
+    <span className="shrink-0 rounded-md bg-ink-100 px-2 py-0.5 text-sm font-bold tracking-tight text-ink-800">
+      {priceLabel(level)}
+    </span>
+  );
+}
+
 function Rating({ rating, count }: { rating: number; count: number }) {
   return (
     <span className="inline-flex items-center gap-1 text-ink-800">
       <svg className="h-4 w-4 text-amber-400" viewBox="0 0 20 20" fill="currentColor">
         <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.286 3.957a1 1 0 00.95.69h4.162c.969 0 1.371 1.24.588 1.81l-3.367 2.446a1 1 0 00-.364 1.118l1.287 3.957c.3.922-.755 1.688-1.54 1.118l-3.366-2.446a1 1 0 00-1.176 0l-3.367 2.446c-.784.57-1.838-.196-1.539-1.118l1.287-3.957a1 1 0 00-.364-1.118L2.064 9.384c-.783-.57-.38-1.81.588-1.81h4.162a1 1 0 00.95-.69l1.285-3.957z" />
       </svg>
-      <span className="font-semibold">{rating.toFixed(1)}</span>
+      <span className="font-semibold">{rating > 0 ? rating.toFixed(1) : '—'}</span>
       <span className="text-xs text-ink-500">({count.toLocaleString()})</span>
     </span>
   );
+}
+
+function LocationLabel({
+  area,
+  distanceKm,
+}: {
+  area: string;
+  distanceKm: number | null;
+}) {
+  if (distanceKm != null) {
+    return (
+      <span className="inline-flex items-center gap-1 text-ink-500">
+        <span>📍 {area}</span>
+        <span className="rounded-full bg-brand-50 px-1.5 py-0.5 text-[11px] font-semibold text-brand-600">
+          直线 {formatDistance(distanceKm)}
+        </span>
+      </span>
+    );
+  }
+  return <span className="text-ink-500">📍 {area}</span>;
 }
 
 function CoverImage({ restaurant, className }: { restaurant: Restaurant; className?: string }) {

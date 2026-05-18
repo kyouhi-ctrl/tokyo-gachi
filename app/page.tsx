@@ -4,13 +4,19 @@ import { useMemo, useState } from 'react';
 import Header from '@/components/Header';
 import FilterBar from '@/components/FilterBar';
 import FeaturedSection from '@/components/FeaturedSection';
-import RestaurantGrid from '@/components/RestaurantGrid';
+import RestaurantGrid, { type LocStatus, type SortBy } from '@/components/RestaurantGrid';
 import RestaurantModal from '@/components/RestaurantModal';
 import { AREA_MAP, CUISINE_MAP } from '@/lib/constants';
+import { haversineKm, type LatLng } from '@/lib/geo';
 import type { AreaId, CuisineId, Restaurant } from '@/lib/types';
 import data from '@/data/restaurants.json';
 
 const RESTAURANTS = data as Restaurant[];
+
+function distanceOf(loc: LatLng, r: Restaurant): number {
+  if (r.lat == null || r.lng == null) return Infinity;
+  return haversineKm(loc, { lat: r.lat, lng: r.lng });
+}
 
 export default function HomePage() {
   const [cuisine, setCuisine] = useState<CuisineId | 'all'>('all');
@@ -18,9 +24,30 @@ export default function HomePage() {
   const [search, setSearch] = useState('');
   const [active, setActive] = useState<Restaurant | null>(null);
 
+  const [userLocation, setUserLocation] = useState<LatLng | null>(null);
+  const [locStatus, setLocStatus] = useState<LocStatus>('idle');
+  const [sortBy, setSortBy] = useState<SortBy>('recommended');
+
+  const requestLocation = () => {
+    if (typeof navigator === 'undefined' || !navigator.geolocation) {
+      setLocStatus('denied');
+      return;
+    }
+    setLocStatus('loading');
+    navigator.geolocation.getCurrentPosition(
+      (pos) => {
+        setUserLocation({ lat: pos.coords.latitude, lng: pos.coords.longitude });
+        setLocStatus('granted');
+        setSortBy('distance');
+      },
+      () => setLocStatus('denied'),
+      { enableHighAccuracy: false, timeout: 10000, maximumAge: 300000 },
+    );
+  };
+
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase();
-    return RESTAURANTS.filter((r) => {
+    const list = RESTAURANTS.filter((r) => {
       if (cuisine !== 'all' && r.cuisine !== cuisine) return false;
       if (area !== 'all' && r.area !== area) return false;
       if (q) {
@@ -39,7 +66,17 @@ export default function HomePage() {
       }
       return true;
     });
-  }, [cuisine, area, search]);
+
+    if (sortBy === 'rating') {
+      return [...list].sort((a, b) => b.google_rating - a.google_rating);
+    }
+    if (sortBy === 'distance' && userLocation) {
+      return [...list].sort(
+        (a, b) => distanceOf(userLocation, a) - distanceOf(userLocation, b),
+      );
+    }
+    return list;
+  }, [cuisine, area, search, sortBy, userLocation]);
 
   const featured = useMemo(
     () =>
@@ -48,6 +85,18 @@ export default function HomePage() {
         .sort((a, b) => b.google_rating - a.google_rating),
     [],
   );
+
+  // 距离功能可用 = 已定位 且 数据里至少有一家店带坐标
+  const hasCoords = useMemo(() => RESTAURANTS.some((r) => r.lat != null), []);
+
+  // 判断用户是否离东京很远（行前规划场景）
+  const farAway = useMemo(() => {
+    if (!userLocation) return false;
+    const withCoords = RESTAURANTS.filter((r) => r.lat != null);
+    if (withCoords.length === 0) return false;
+    const min = Math.min(...withCoords.map((r) => distanceOf(userLocation, r)));
+    return min > 100;
+  }, [userLocation]);
 
   const hasActiveFilter = cuisine !== 'all' || area !== 'all' || search.trim().length > 0;
 
@@ -84,23 +133,50 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* 定位提示横幅 */}
+      {locStatus === 'granted' && farAway && (
+        <section className="mx-auto max-w-6xl px-4 pt-4">
+          <div className="rounded-xl border border-amber-200 bg-amber-50 px-4 py-2.5 text-sm text-amber-800">
+            你似乎不在东京附近，距离数字仅供参考 —— 行前规划建议直接用上方「区域」筛选。
+          </div>
+        </section>
+      )}
+      {locStatus === 'granted' && !hasCoords && (
+        <section className="mx-auto max-w-6xl px-4 pt-4">
+          <div className="rounded-xl border border-amber-200 bg-amber-50 px-4 py-2.5 text-sm text-amber-800">
+            定位成功，但店铺坐标尚未拉取 —— 运行一次数据更新后即可显示距离。
+          </div>
+        </section>
+      )}
+
       {/* 仅在没有筛选时显示口碑推荐 */}
       {!hasActiveFilter && (
-        <FeaturedSection restaurants={featured} onCardClick={setActive} />
+        <FeaturedSection
+          restaurants={featured}
+          userLocation={userLocation}
+          onCardClick={setActive}
+        />
       )}
 
       <RestaurantGrid
         restaurants={filtered}
         totalCount={RESTAURANTS.length}
+        userLocation={userLocation}
+        sortBy={sortBy}
+        onSortChange={setSortBy}
+        locStatus={locStatus}
+        onRequestLocation={requestLocation}
         onCardClick={setActive}
       />
 
-      <RestaurantModal restaurant={active} onClose={() => setActive(null)} />
+      <RestaurantModal
+        restaurant={active}
+        userLocation={userLocation}
+        onClose={() => setActive(null)}
+      />
 
       <footer className="mx-auto max-w-6xl px-4 pb-10 pt-2 text-center text-xs text-ink-400">
-        <p>
-          东京日料严选 · 评分数据来自 Google Maps，仅供参考
-        </p>
+        <p>东京日料严选 · 评分数据来自 Google Maps，仅供参考</p>
       </footer>
     </main>
   );

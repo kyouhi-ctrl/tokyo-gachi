@@ -39,6 +39,7 @@ const DETAILS_FIELDS = [
   'formatted_address',
   'url',
   'photos',
+  'geometry', // 经纬度，Basic 数据档，已含在 Details 调用里，无额外费用
 ].join(',');
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -109,6 +110,10 @@ async function processRestaurant(r, idx, total) {
     if (typeof details.user_ratings_total === 'number') r.review_count = details.user_ratings_total;
     if (details.formatted_address) r.address = details.formatted_address;
     if (details.url) r.maps_url = details.url;
+    if (details.geometry?.location) {
+      r.lat = details.geometry.location.lat;
+      r.lng = details.geometry.location.lng;
+    }
 
     // 3. Refresh photo (only if we don't already have a local one)
     const localImage = path.join(IMAGES_DIR, `${r.id}.jpg`);

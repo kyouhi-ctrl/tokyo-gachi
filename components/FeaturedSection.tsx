@@ -2,13 +2,15 @@
 
 import RestaurantCard from './RestaurantCard';
 import type { Restaurant } from '@/lib/types';
+import type { LatLng } from '@/lib/geo';
 
 interface Props {
   restaurants: Restaurant[];
+  userLocation?: LatLng | null;
   onCardClick: (r: Restaurant) => void;
 }
 
-export default function FeaturedSection({ restaurants, onCardClick }: Props) {
+export default function FeaturedSection({ restaurants, userLocation, onCardClick }: Props) {
   if (restaurants.length === 0) return null;
 
   return (
@@ -31,6 +33,7 @@ export default function FeaturedSection({ restaurants, onCardClick }: Props) {
             key={r.id}
             restaurant={r}
             variant="featured"
+            userLocation={userLocation}
             onClick={onCardClick}
           />
         ))}

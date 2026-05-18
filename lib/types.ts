@@ -44,4 +44,7 @@ export interface Restaurant {
   image_url: string;
   featured: boolean;
   last_updated: string;
+  /** 经纬度，由 update-ratings.js 从 Places API 拉取后写入 */
+  lat?: number;
+  lng?: number;
 }

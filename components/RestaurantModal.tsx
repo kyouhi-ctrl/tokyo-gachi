@@ -3,13 +3,15 @@
 import { useEffect } from 'react';
 import { AREA_MAP, CUISINE_MAP, priceLabel } from '@/lib/constants';
 import type { Restaurant } from '@/lib/types';
+import { formatDistance, haversineKm, type LatLng } from '@/lib/geo';
 
 interface Props {
   restaurant: Restaurant | null;
+  userLocation?: LatLng | null;
   onClose: () => void;
 }
 
-export default function RestaurantModal({ restaurant, onClose }: Props) {
+export default function RestaurantModal({ restaurant, userLocation, onClose }: Props) {
   useEffect(() => {
     if (!restaurant) return;
     const onKey = (e: KeyboardEvent) => e.key === 'Escape' && onClose();
@@ -25,6 +27,11 @@ export default function RestaurantModal({ restaurant, onClose }: Props) {
 
   const cuisine = CUISINE_MAP[restaurant.cuisine];
   const area = AREA_MAP[restaurant.area];
+
+  const distanceKm =
+    userLocation && restaurant.lat != null && restaurant.lng != null
+      ? haversineKm(userLocation, { lat: restaurant.lat, lng: restaurant.lng })
+      : null;
 
   return (
     <div
@@ -113,8 +120,20 @@ export default function RestaurantModal({ restaurant, onClose }: Props) {
 
           {/* Address */}
           <div className="mt-5 rounded-xl bg-ink-50 px-4 py-3">
-            <div className="text-xs font-medium uppercase tracking-wider text-ink-500">地址</div>
+            <div className="flex items-center justify-between">
+              <div className="text-xs font-medium uppercase tracking-wider text-ink-500">地址</div>
+              {distanceKm != null && (
+                <span className="inline-flex items-center gap-1 rounded-full bg-brand-50 px-2 py-0.5 text-xs font-semibold text-brand-600">
+                  📍 直线约 {formatDistance(distanceKm)}
+                </span>
+              )}
+            </div>
             <div className="mt-1 text-sm text-ink-800">{restaurant.address}</div>
+            {distanceKm != null && (
+              <div className="mt-1 text-[11px] text-ink-400">
+                直线距离仅供参考，实际步行通常更长
+              </div>
+            )}
           </div>
 
           {/* CTA */}
