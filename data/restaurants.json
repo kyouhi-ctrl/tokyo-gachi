@@ -20,7 +20,9 @@
     "maps_url": "https://maps.google.com/?cid=17219929102373626915",
     "image_url": "/images/sushi-saito.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6653768,
+    "lng": 139.7395884
   },
   {
     "id": "sukiyabashi-jiro",
@@ -43,7 +45,9 @@
     "maps_url": "https://maps.google.com/?cid=1055047344221220965",
     "image_url": "/images/sukiyabashi-jiro.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6727404,
+    "lng": 139.7639378
   },
   {
     "id": "sushi-dai",
@@ -55,7 +59,7 @@
     "price_range": 3,
     "google_place_id": "ChIJE6NVO9mLGGARUiKvcRmKzN4",
     "google_rating": 4.5,
-    "review_count": 1866,
+    "review_count": 1867,
     "description_zh": "丰洲市场内顶流，凌晨排队即名场面，主厨配套（おまかせ）性价比极高",
     "tags": [
       "英文菜单",
@@ -66,7 +70,9 @@
     "maps_url": "https://maps.google.com/?cid=16054358613555094098",
     "image_url": "/images/sushi-dai.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6443009,
+    "lng": 139.7824528
   },
   {
     "id": "ichiran-shibuya",
@@ -90,7 +96,9 @@
     "maps_url": "https://maps.google.com/?cid=1092125928485198446",
     "image_url": "/images/ichiran-shibuya.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6611185,
+    "lng": 139.7009846
   },
   {
     "id": "ippudo-ginza",
@@ -113,7 +121,9 @@
     "maps_url": "https://maps.google.com/?cid=9280641726961323714",
     "image_url": "/images/ippudo-ginza.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.670693,
+    "lng": 139.7674279
   },
   {
     "id": "tsuta",
@@ -136,7 +146,9 @@
     "maps_url": "https://maps.google.com/?cid=13819751080753019118",
     "image_url": "/images/tsuta.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7329475,
+    "lng": 139.7406286
   },
   {
     "id": "tempura-kondo",
@@ -158,7 +170,9 @@
     "maps_url": "https://maps.google.com/?cid=5826650250164247742",
     "image_url": "/images/tempura-kondo.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6711696,
+    "lng": 139.7631786
   },
   {
     "id": "tsunahachi-shinjuku",
@@ -181,7 +195,9 @@
     "maps_url": "https://maps.google.com/?cid=5607782394818890547",
     "image_url": "/images/tsunahachi-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6908459,
+    "lng": 139.7034867
   },
   {
     "id": "toriki-meguro",
@@ -203,7 +219,9 @@
     "maps_url": "https://maps.google.com/?cid=16306392712382116241",
     "image_url": "/images/toriki-meguro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6342782,
+    "lng": 139.7168892
   },
   {
     "id": "torikizoku-shinjuku",
@@ -226,7 +244,9 @@
     "maps_url": "https://maps.google.com/?cid=6127246487731162190",
     "image_url": "/images/torikizoku-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6905531,
+    "lng": 139.7027696
   },
   {
     "id": "maisen-aoyama",
@@ -249,7 +269,9 @@
     "maps_url": "https://maps.google.com/?cid=8353092544941080303",
     "image_url": "/images/maisen-aoyama.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.667925,
+    "lng": 139.7115365
   },
   {
     "id": "tonki-meguro",
@@ -271,7 +293,9 @@
     "maps_url": "https://maps.google.com/?cid=16614784742392390903",
     "image_url": "/images/tonki-meguro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6336071,
+    "lng": 139.7142945
   },
   {
     "id": "sarashina-horii",
@@ -293,7 +317,9 @@
     "maps_url": "https://maps.google.com/?cid=4799624521792605391",
     "image_url": "/images/sarashina-horii.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.656802,
+    "lng": 139.7328803
   },
   {
     "id": "tsurutontan-roppongi",
@@ -316,7 +342,9 @@
     "maps_url": "https://maps.google.com/?cid=6396722401939980052",
     "image_url": "/images/tsurutontan-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6649932,
+    "lng": 139.7298282
   },
   {
     "id": "yakiniku-jumbo-hannare",
@@ -339,7 +367,9 @@
     "maps_url": "https://maps.google.com/?cid=17000911495503894016",
     "image_url": "/images/yakiniku-jumbo-hannare.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6469895,
+    "lng": 139.7314105
   },
   {
     "id": "ryugin",
@@ -362,7 +392,9 @@
     "maps_url": "https://maps.google.com/?cid=3895087128219338185",
     "image_url": "/images/ryugin.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6742704,
+    "lng": 139.7592781
   },
   {
     "id": "gindaco-shibuya",
@@ -385,7 +417,9 @@
     "maps_url": "https://maps.google.com/?cid=14491788304696398457",
     "image_url": "/images/gindaco-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6585083,
+    "lng": 139.7031736
   },
   {
     "id": "nodaiwa",
@@ -408,7 +442,9 @@
     "maps_url": "https://maps.google.com/?cid=12647547846201370726",
     "image_url": "/images/nodaiwa.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6581233,
+    "lng": 139.7433709
   },
   {
     "id": "coco-ichibanya-akihabara",
@@ -431,7 +467,9 @@
     "maps_url": "https://maps.google.com/?cid=11179604513041814460",
     "image_url": "/images/coco-ichibanya-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6984515,
+    "lng": 139.77577
   },
   {
     "id": "imahan-asakusa",
@@ -454,7 +492,9 @@
     "maps_url": "https://maps.google.com/?cid=4622158629264349144",
     "image_url": "/images/imahan-asakusa.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7139345,
+    "lng": 139.7922291
   },
   {
     "id": "ginza-kyubei",
@@ -477,7 +517,9 @@
     "maps_url": "https://maps.google.com/?cid=8263217184568084951",
     "image_url": "/images/ginza-kyubei.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6684684,
+    "lng": 139.7612701
   },
   {
     "id": "sushiro-akihabara",
@@ -500,7 +542,9 @@
     "maps_url": "https://maps.google.com/?cid=13698931429158357388",
     "image_url": "/images/sushiro-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.701526,
+    "lng": 139.7711875
   },
   {
     "id": "tsujihan-nihonbashi",
@@ -523,7 +567,9 @@
     "maps_url": "https://maps.google.com/?cid=2386807723085252126",
     "image_url": "/images/tsujihan-nihonbashi.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6807167,
+    "lng": 139.7715771
   },
   {
     "id": "uobei-shibuya",
@@ -546,7 +592,9 @@
     "maps_url": "https://maps.google.com/?cid=5886746596086835007",
     "image_url": "/images/uobei-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6594349,
+    "lng": 139.6979207
   },
   {
     "id": "rokurinsha",
@@ -569,7 +617,9 @@
     "maps_url": "https://maps.google.com/?cid=11140097630059971228",
     "image_url": "/images/rokurinsha.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6800519,
+    "lng": 139.7678455
   },
   {
     "id": "fuunji-shinjuku",
@@ -592,7 +642,9 @@
     "maps_url": "https://maps.google.com/?cid=3272539110311166620",
     "image_url": "/images/fuunji-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6868343,
+    "lng": 139.6966393
   },
   {
     "id": "afuri-roppongi",
@@ -615,7 +667,9 @@
     "maps_url": "https://maps.google.com/?cid=14319064606199612243",
     "image_url": "/images/afuri-roppongi.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.663669,
+    "lng": 139.732601
   },
   {
     "id": "mouko-tanmen-nakamoto",
@@ -638,7 +692,9 @@
     "maps_url": "https://maps.google.com/?cid=12860078878164530502",
     "image_url": "/images/mouko-tanmen-nakamoto.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7293048,
+    "lng": 139.7148117
   },
   {
     "id": "tenichi-ginza",
@@ -660,7 +716,9 @@
     "maps_url": "https://maps.google.com/?cid=5454848131636451625",
     "image_url": "/images/tenichi-ginza.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6709396,
+    "lng": 139.7625125
   },
   {
     "id": "tenya-asakusa",
@@ -683,7 +741,9 @@
     "maps_url": "https://maps.google.com/?cid=3811576022984190020",
     "image_url": "/images/tenya-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7114847,
+    "lng": 139.7928011
   },
   {
     "id": "gonpachi-roppongi",
@@ -706,7 +766,9 @@
     "maps_url": "https://maps.google.com/?cid=1337614840498094983",
     "image_url": "/images/gonpachi-roppongi.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6601742,
+    "lng": 139.7235797
   },
   {
     "id": "kushikatsu-tanaka-shibuya",
@@ -729,7 +791,9 @@
     "maps_url": "https://maps.google.com/?cid=11727281102732136894",
     "image_url": "/images/kushikatsu-tanaka-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.65888169999999,
+    "lng": 139.695824
   },
   {
     "id": "isomaru-suisan-shinjuku",
@@ -752,7 +816,9 @@
     "maps_url": "https://maps.google.com/?cid=8121084490993100929",
     "image_url": "/images/isomaru-suisan-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.692537,
+    "lng": 139.7030539
   },
   {
     "id": "katsukura-shinjuku",
@@ -775,7 +841,9 @@
     "maps_url": "https://maps.google.com/?cid=13571770056714267083",
     "image_url": "/images/katsukura-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6876313,
+    "lng": 139.7021224
   },
   {
     "id": "wako-tokyo-station",
@@ -798,7 +866,9 @@
     "maps_url": "https://maps.google.com/?cid=7688725612950659377",
     "image_url": "/images/wako-tokyo-station.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.679388,
+    "lng": 139.7714138
   },
   {
     "id": "marugame-seimen-shibuya",
@@ -821,7 +891,9 @@
     "maps_url": "https://maps.google.com/?cid=10676704110178817241",
     "image_url": "/images/marugame-seimen-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6614203,
+    "lng": 139.7025453
   },
   {
     "id": "soba-sunaba-akasaka",
@@ -843,7 +915,9 @@
     "maps_url": "https://maps.google.com/?cid=10014745078137048766",
     "image_url": "/images/soba-sunaba-akasaka.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.67116,
+    "lng": 139.736185
   },
   {
     "id": "jojoen-shinjuku",
@@ -866,7 +940,9 @@
     "maps_url": "https://maps.google.com/?cid=16633061995078916071",
     "image_url": "/images/jojoen-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6912541,
+    "lng": 139.7019627
   },
   {
     "id": "gyukaku-shibuya",
@@ -889,7 +965,9 @@
     "maps_url": "https://maps.google.com/?cid=3627114165776902568",
     "image_url": "/images/gyukaku-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6589406,
+    "lng": 139.6972559
   },
   {
     "id": "yakiniku-like-shinjuku",
@@ -912,7 +990,9 @@
     "maps_url": "https://maps.google.com/?cid=10154207238653464789",
     "image_url": "/images/yakiniku-like-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6939966,
+    "lng": 139.6977497
   },
   {
     "id": "kanda-minami-aoyama",
@@ -935,7 +1015,9 @@
     "maps_url": "https://maps.google.com/?cid=12303054679655534315",
     "image_url": "/images/kanda-minami-aoyama.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6675872,
+    "lng": 139.7176163
   },
   {
     "id": "kohaku-kagurazaka",
@@ -958,7 +1040,9 @@
     "maps_url": "https://maps.google.com/?cid=12253031082725516673",
     "image_url": "/images/kohaku-kagurazaka.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.700823,
+    "lng": 139.7408303
   },
   {
     "id": "sometaro-asakusa",
@@ -981,7 +1065,9 @@
     "maps_url": "https://maps.google.com/?cid=15093122525121686287",
     "image_url": "/images/sometaro-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.71190929999999,
+    "lng": 139.7909269
   },
   {
     "id": "onyasai-shinjuku",
@@ -1004,7 +1090,9 @@
     "maps_url": "https://maps.google.com/?cid=8898190138000096689",
     "image_url": "/images/onyasai-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6902692,
+    "lng": 139.7020413
   },
   {
     "id": "shabuyo-ikebukuro",
@@ -1027,7 +1115,9 @@
     "maps_url": "https://maps.google.com/?cid=3327951660155101501",
     "image_url": "/images/shabuyo-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7304993,
+    "lng": 139.7164454
   },
   {
     "id": "maekawa-asakusa",
@@ -1049,7 +1139,9 @@
     "maps_url": "https://maps.google.com/?cid=14559611483311748659",
     "image_url": "/images/maekawa-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7082018,
+    "lng": 139.7963058
   },
   {
     "id": "yoshinoya-shibuya",
@@ -1072,7 +1164,9 @@
     "maps_url": "https://maps.google.com/?cid=13003985488831384921",
     "image_url": "/images/yoshinoya-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.660319,
+    "lng": 139.696868
   },
   {
     "id": "nakau-shibuya",
@@ -1095,7 +1189,9 @@
     "maps_url": "https://maps.google.com/?cid=17063013293092122718",
     "image_url": "/images/nakau-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6624326,
+    "lng": 139.695384
   },
   {
     "id": "ootoya-shinjuku",
@@ -1118,7 +1214,9 @@
     "maps_url": "https://maps.google.com/?cid=329089571874900914",
     "image_url": "/images/ootoya-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6933679,
+    "lng": 139.6988554
   },
   {
     "id": "izuei-ueno",
@@ -1140,7 +1238,9 @@
     "maps_url": "https://maps.google.com/?cid=13816667865528678733",
     "image_url": "/images/izuei-ueno.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.709671,
+    "lng": 139.7726906
   },
   {
     "id": "yabu-soba-ueno",
@@ -1162,7 +1262,9 @@
     "maps_url": "https://maps.google.com/?cid=1033315330731136427",
     "image_url": "/images/yabu-soba-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7101954,
+    "lng": 139.7754618
   },
   {
     "id": "seiyoken-ueno",
@@ -1185,7 +1287,9 @@
     "maps_url": "https://maps.google.com/?cid=4445473145471881929",
     "image_url": "/images/seiyoken-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7142277,
+    "lng": 139.7721777
   },
   {
     "id": "torigin-ueno",
@@ -1207,7 +1311,9 @@
     "maps_url": "https://maps.google.com/?cid=12223294268363597840",
     "image_url": "/images/torigin-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7099555,
+    "lng": 139.7743957
   },
   {
     "id": "nakamoto-ueno",
@@ -1229,7 +1335,9 @@
     "maps_url": "https://maps.google.com/?cid=17047425683984291077",
     "image_url": "/images/nakamoto-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7059358,
+    "lng": 139.7743766
   },
   {
     "id": "tonkatsu-isakichi-ueno",
@@ -1251,7 +1359,9 @@
     "maps_url": "https://maps.google.com/?cid=8387885465744908072",
     "image_url": "/images/tonkatsu-isakichi-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7086737,
+    "lng": 139.7738358
   },
   {
     "id": "gyutan-rikyu-ueno",
@@ -1273,7 +1383,9 @@
     "maps_url": "https://maps.google.com/?cid=5071458720901411048",
     "image_url": "/images/gyutan-rikyu-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7068717,
+    "lng": 139.7729996
   },
   {
     "id": "tenya-ueno",
@@ -1296,7 +1408,9 @@
     "maps_url": "https://maps.google.com/?cid=2970047413724390023",
     "image_url": "/images/tenya-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7069085,
+    "lng": 139.7747403
   },
   {
     "id": "hotpot-nabezou-ueno",
@@ -1319,7 +1433,9 @@
     "maps_url": "https://maps.google.com/?cid=966865057946867166",
     "image_url": "/images/hotpot-nabezou-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7068605,
+    "lng": 139.7731332
   },
   {
     "id": "kura-sushi-ueno",
@@ -1342,7 +1458,9 @@
     "maps_url": "https://maps.google.com/?cid=12710755693091770004",
     "image_url": "/images/kura-sushi-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7074435,
+    "lng": 139.776653
   },
   {
     "id": "okonomiyaki-ueno",
@@ -1364,7 +1482,9 @@
     "maps_url": "https://maps.google.com/?cid=3100737898427981153",
     "image_url": "/images/okonomiyaki-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7007116,
+    "lng": 139.7728273
   },
   {
     "id": "yoshinoya-ueno",
@@ -1376,7 +1496,7 @@
     "price_range": 1,
     "google_place_id": "ChIJ2ctgyp6OGGARGZaEvjKB-UY",
     "google_rating": 3.6,
-    "review_count": 917,
+    "review_count": 918,
     "description_zh": "上野必经的24小时牛丼，深夜逛完博物馆或夜市的最佳收尾",
     "tags": [
       "便宜",
@@ -1387,7 +1507,9 @@
     "maps_url": "https://maps.google.com/?cid=5114260906800616985",
     "image_url": "/images/yoshinoya-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.71241029999999,
+    "lng": 139.7778238
   },
   {
     "id": "kanda-matsuya",
@@ -1409,7 +1531,9 @@
     "maps_url": "https://maps.google.com/?cid=12202279692666789727",
     "image_url": "/images/kanda-matsuya.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6961148,
+    "lng": 139.7687883
   },
   {
     "id": "kanda-yabu-soba",
@@ -1431,7 +1555,9 @@
     "maps_url": "https://maps.google.com/?cid=15294491058971948881",
     "image_url": "/images/kanda-yabu-soba.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6970004,
+    "lng": 139.7686863
   },
   {
     "id": "gyudon-yoshinoya-akihabara",
@@ -1453,7 +1579,9 @@
     "maps_url": "https://maps.google.com/?cid=11738295855192223214",
     "image_url": "/images/gyudon-yoshinoya-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.69951229999999,
+    "lng": 139.7712461
   },
   {
     "id": "ramen-ikaruga-akihabara",
@@ -1475,7 +1603,9 @@
     "maps_url": "https://maps.google.com/?cid=4503825489824180391",
     "image_url": "/images/ramen-ikaruga-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6804661,
+    "lng": 139.7679735
   },
   {
     "id": "yakitori-akihabara-daidokoro",
@@ -1498,7 +1628,9 @@
     "maps_url": "https://maps.google.com/?cid=12351648342754206330",
     "image_url": "/images/yakitori-akihabara-daidokoro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6978848,
+    "lng": 139.7764903
   },
   {
     "id": "tempura-sansada-asakusa",
@@ -1520,7 +1652,9 @@
     "maps_url": "https://maps.google.com/?cid=9381824200514409223",
     "image_url": "/images/tempura-sansada-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7109887,
+    "lng": 139.7966179
   },
   {
     "id": "daikokuya-tempura",
@@ -1543,7 +1677,9 @@
     "maps_url": "https://maps.google.com/?cid=17105810987302783774",
     "image_url": "/images/daikokuya-tempura.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7127383,
+    "lng": 139.79557
   },
   {
     "id": "komakata-dozeu",
@@ -1566,7 +1702,9 @@
     "maps_url": "https://maps.google.com/?cid=11456771537377664998",
     "image_url": "/images/komakata-dozeu.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7075243,
+    "lng": 139.7950215
   },
   {
     "id": "kawachiya-unagi-asakusa",
@@ -1588,7 +1726,9 @@
     "maps_url": "https://maps.google.com/?cid=7709181588685412783",
     "image_url": "/images/kawachiya-unagi-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7581771,
+    "lng": 139.8772894
   },
   {
     "id": "asakusa-imahan-ninngyocho",
@@ -1611,7 +1751,9 @@
     "maps_url": "https://maps.google.com/?cid=13909133467795774038",
     "image_url": "/images/asakusa-imahan-ninngyocho.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.711713,
+    "lng": 139.796742
   },
   {
     "id": "chanko-nabe-ryogoku",
@@ -1634,7 +1776,9 @@
     "maps_url": "https://maps.google.com/?cid=4955992054579295479",
     "image_url": "/images/chanko-nabe-ryogoku.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.694921,
+    "lng": 139.7925488
   },
   {
     "id": "yakitori-asakusa-hatanaka",
@@ -1656,7 +1800,9 @@
     "maps_url": "https://maps.google.com/?cid=3194250303786482608",
     "image_url": "",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7193581,
+    "lng": 139.7990214
   },
   {
     "id": "sushi-zanmai-ikebukuro",
@@ -1679,7 +1825,9 @@
     "maps_url": "https://maps.google.com/?cid=12462334787389600193",
     "image_url": "/images/sushi-zanmai-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7295287,
+    "lng": 139.7128734
   },
   {
     "id": "tonkatsu-yachiyo-ikebukuro",
@@ -1701,7 +1849,9 @@
     "maps_url": "https://maps.google.com/?cid=7327953627916485699",
     "image_url": "/images/tonkatsu-yachiyo-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7264997,
+    "lng": 139.7160101
   },
   {
     "id": "gyukaku-ikebukuro",
@@ -1724,7 +1874,9 @@
     "maps_url": "https://maps.google.com/?cid=2619693752821923448",
     "image_url": "/images/gyukaku-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7304467,
+    "lng": 139.7159902
   },
   {
     "id": "kura-sushi-ikebukuro",
@@ -1747,7 +1899,9 @@
     "maps_url": "https://maps.google.com/?cid=13985106845012520138",
     "image_url": "/images/kura-sushi-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7275902,
+    "lng": 139.7123046
   },
   {
     "id": "ramen-ganso-ikebukuro",
@@ -1769,7 +1923,9 @@
     "maps_url": "https://maps.google.com/?cid=8881489265062390261",
     "image_url": "/images/ramen-ganso-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.730861,
+    "lng": 139.7051183
   },
   {
     "id": "marugame-seimen-ikebukuro",
@@ -1792,7 +1948,9 @@
     "maps_url": "https://maps.google.com/?cid=1950408847339249960",
     "image_url": "/images/marugame-seimen-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.72873,
+    "lng": 139.720001
   },
   {
     "id": "tenya-ikebukuro",
@@ -1815,7 +1973,9 @@
     "maps_url": "https://maps.google.com/?cid=8296529326510963329",
     "image_url": "/images/tenya-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7273038,
+    "lng": 139.7121436
   },
   {
     "id": "hotpot-shabuzen-ikebukuro",
@@ -1825,20 +1985,22 @@
     "cuisine": "hotpot",
     "area": "ikebukuro",
     "price_range": 3,
-    "google_place_id": "CHANGE_ME_shabuzen_ikebukuro",
-    "google_rating": 0,
-    "review_count": 0,
+    "google_place_id": "ChIJ6c7cGwCNGGARxDc226trfcI",
+    "google_rating": 4.3,
+    "review_count": 11,
     "description_zh": "和牛涮涮锅专门店，汤底讲究，A4和牛薄切入口即化",
     "tags": [
       "和牛",
       "高品质",
       "适合庆祝"
     ],
-    "address": "東京都豊島区東池袋1-23-5",
-    "maps_url": "",
-    "image_url": "",
+    "address": "日本〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 3-chōme−1−２ サンシャインシティアルパ 3F",
+    "maps_url": "https://maps.google.com/?cid=14014476001308194756",
+    "image_url": "/images/hotpot-shabuzen-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-18",
+    "lat": 35.7288485,
+    "lng": 139.7187929
   },
   {
     "id": "afuri-harajuku",
@@ -1861,7 +2023,9 @@
     "maps_url": "https://maps.google.com/?cid=14658399961265590294",
     "image_url": "/images/afuri-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6730053,
+    "lng": 139.7038019
   },
   {
     "id": "yakitori-toriyoshi-harajuku",
@@ -1883,7 +2047,9 @@
     "maps_url": "https://maps.google.com/?cid=1542032760431149438",
     "image_url": "/images/yakitori-toriyoshi-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.665105,
+    "lng": 139.7132997
   },
   {
     "id": "gyudon-sukiya-harajuku",
@@ -1906,7 +2072,9 @@
     "maps_url": "https://maps.google.com/?cid=2385000028036106257",
     "image_url": "/images/gyudon-sukiya-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.670757,
+    "lng": 139.7073287
   },
   {
     "id": "soba-homura-harajuku",
@@ -1928,7 +2096,9 @@
     "maps_url": "https://maps.google.com/?cid=2924344717648783128",
     "image_url": "/images/soba-homura-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6644409,
+    "lng": 139.7046754
   },
   {
     "id": "tonkatsu-wako-omotesando",
@@ -1951,7 +2121,9 @@
     "maps_url": "https://maps.google.com/?cid=10607752435066408933",
     "image_url": "/images/tonkatsu-wako-omotesando.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6614498,
+    "lng": 139.7026274
   },
   {
     "id": "sushi-hana-harajuku",
@@ -1974,7 +2146,9 @@
     "maps_url": "https://maps.google.com/?cid=17952797624476818205",
     "image_url": "/images/sushi-hana-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6728036,
+    "lng": 139.7042754
   },
   {
     "id": "ichiran-shinjuku",
@@ -1997,7 +2171,9 @@
     "maps_url": "https://maps.google.com/?cid=17641287503749035709",
     "image_url": "/images/ichiran-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6943605,
+    "lng": 139.7015567
   },
   {
     "id": "hanamaru-tokyo-station",
@@ -2020,7 +2196,9 @@
     "maps_url": "https://maps.google.com/?cid=14326864775095335517",
     "image_url": "/images/hanamaru-tokyo-station.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6795237,
+    "lng": 139.7649491
   },
   {
     "id": "curry-bondy-shinjuku",
@@ -2042,7 +2220,9 @@
     "maps_url": "https://maps.google.com/?cid=6072642636345787938",
     "image_url": "/images/curry-bondy-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6955738,
+    "lng": 139.7573664
   },
   {
     "id": "niku-no-mansei-shinjuku",
@@ -2064,7 +2244,9 @@
     "maps_url": "https://maps.google.com/?cid=3459813436641070620",
     "image_url": "/images/niku-no-mansei-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6921845,
+    "lng": 139.699556
   },
   {
     "id": "sushi-kura-shinjuku",
@@ -2087,7 +2269,9 @@
     "maps_url": "https://maps.google.com/?cid=10786785487798132935",
     "image_url": "/images/sushi-kura-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6944776,
+    "lng": 139.6990748
   },
   {
     "id": "izakaya-omoide-yokocho",
@@ -2110,7 +2294,9 @@
     "maps_url": "https://maps.google.com/?cid=10416638554535967955",
     "image_url": "/images/izakaya-omoide-yokocho.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6927011,
+    "lng": 139.6995778
   },
   {
     "id": "ramen-fuunji-shinjuku2",
@@ -2132,7 +2318,9 @@
     "maps_url": "https://maps.google.com/?cid=8971049026698303002",
     "image_url": "/images/ramen-fuunji-shinjuku2.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6955679,
+    "lng": 139.6986477
   },
   {
     "id": "hotpot-nabezou-shinjuku",
@@ -2155,7 +2343,9 @@
     "maps_url": "https://maps.google.com/?cid=6046252266409405411",
     "image_url": "/images/hotpot-nabezou-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6910075,
+    "lng": 139.7026367
   },
   {
     "id": "unagi-nodaiwa-shinjuku",
@@ -2177,7 +2367,9 @@
     "maps_url": "https://maps.google.com/?cid=12647547846201370726",
     "image_url": "/images/unagi-nodaiwa-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6581233,
+    "lng": 139.7433709
   },
   {
     "id": "okonomiyaki-tsuruhasufugetsu-shinjuku",
@@ -2200,7 +2392,9 @@
     "maps_url": "https://maps.google.com/?cid=202146788459463939",
     "image_url": "/images/okonomiyaki-tsuruhasufugetsu-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6922132,
+    "lng": 139.7054375
   },
   {
     "id": "kura-sushi-shibuya",
@@ -2223,7 +2417,9 @@
     "maps_url": "https://maps.google.com/?cid=9506578878221545111",
     "image_url": "/images/kura-sushi-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6598242,
+    "lng": 139.6995535
   },
   {
     "id": "sukiya-shibuya",
@@ -2246,7 +2442,9 @@
     "maps_url": "https://maps.google.com/?cid=18120207136882811380",
     "image_url": "/images/sukiya-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6594349,
+    "lng": 139.6979207
   },
   {
     "id": "ramen-hakata-shibuya",
@@ -2269,7 +2467,9 @@
     "maps_url": "https://maps.google.com/?cid=1048136702584727611",
     "image_url": "/images/ramen-hakata-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6579051,
+    "lng": 139.699482
   },
   {
     "id": "tonkatsu-katsudon-shibuya",
@@ -2292,7 +2492,9 @@
     "maps_url": "https://maps.google.com/?cid=12828905570797482451",
     "image_url": "/images/tonkatsu-katsudon-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6588199,
+    "lng": 139.6982152
   },
   {
     "id": "okonomiyaki-fugetsu-shibuya",
@@ -2315,7 +2517,9 @@
     "maps_url": "https://maps.google.com/?cid=16628339708873388659",
     "image_url": "/images/okonomiyaki-fugetsu-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6991777,
+    "lng": 139.7749249
   },
   {
     "id": "yakiniku-like-shibuya",
@@ -2338,7 +2542,9 @@
     "maps_url": "https://maps.google.com/?cid=13453144416449648473",
     "image_url": "/images/yakiniku-like-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.65881770000001,
+    "lng": 139.6970704
   },
   {
     "id": "hotpot-yuzuya-shibuya",
@@ -2360,7 +2566,9 @@
     "maps_url": "https://maps.google.com/?cid=2545779087736356004",
     "image_url": "/images/hotpot-yuzuya-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6582722,
+    "lng": 139.6996396
   },
   {
     "id": "sushi-yoshitake",
@@ -2383,7 +2591,9 @@
     "maps_url": "https://maps.google.com/?cid=9765870719310028397",
     "image_url": "/images/sushi-yoshitake.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6689166,
+    "lng": 139.7619714
   },
   {
     "id": "ginza-kojyu",
@@ -2406,7 +2616,9 @@
     "maps_url": "https://maps.google.com/?cid=9302355949854769069",
     "image_url": "/images/ginza-kojyu.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6714446,
+    "lng": 139.7630117
   },
   {
     "id": "ginza-tenkunji",
@@ -2428,7 +2640,9 @@
     "maps_url": "https://maps.google.com/?cid=9945497409458953396",
     "image_url": "/images/ginza-tenkunji.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6676662,
+    "lng": 139.7628011
   },
   {
     "id": "unagi-ginza",
@@ -2450,7 +2664,9 @@
     "maps_url": "https://maps.google.com/?cid=14425512566752627494",
     "image_url": "/images/unagi-ginza.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6700218,
+    "lng": 139.7610886
   },
   {
     "id": "ramen-harukiya-ogikubo",
@@ -2472,7 +2688,9 @@
     "maps_url": "https://maps.google.com/?cid=2908600202600794355",
     "image_url": "/images/ramen-harukiya-ogikubo.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7050568,
+    "lng": 139.622389
   },
   {
     "id": "waketokuyama-roppongi",
@@ -2495,7 +2713,9 @@
     "maps_url": "https://maps.google.com/?cid=14733797335400899320",
     "image_url": "/images/waketokuyama-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.65575159999999,
+    "lng": 139.7230639
   },
   {
     "id": "sukiya-roppongi",
@@ -2518,7 +2738,9 @@
     "maps_url": "https://maps.google.com/?cid=8409295267092472057",
     "image_url": "/images/sukiya-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6619281,
+    "lng": 139.7330412
   },
   {
     "id": "ramen-ippudo-roppongi",
@@ -2540,7 +2762,9 @@
     "maps_url": "https://maps.google.com/?cid=18106961332775365491",
     "image_url": "/images/ramen-ippudo-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6638163,
+    "lng": 139.7322518
   },
   {
     "id": "yakiniku-roppongi-kabukicho",
@@ -2563,7 +2787,9 @@
     "maps_url": "https://maps.google.com/?cid=8976691265698228077",
     "image_url": "/images/yakiniku-roppongi-kabukicho.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6639053,
+    "lng": 139.731311
   },
   {
     "id": "gyutan-rikyu-tokyostation",
@@ -2586,7 +2812,9 @@
     "maps_url": "https://maps.google.com/?cid=2463593884142320261",
     "image_url": "/images/gyutan-rikyu-tokyostation.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6806127,
+    "lng": 139.7683732
   },
   {
     "id": "sushi-zanmai-tokyo",
@@ -2609,7 +2837,9 @@
     "maps_url": "https://maps.google.com/?cid=16402451146916583184",
     "image_url": "/images/sushi-zanmai-tokyo.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6659044,
+    "lng": 139.7706492
   },
   {
     "id": "ramen-ikaruga-tokyo-station",
@@ -2631,6 +2861,8 @@
     "maps_url": "https://maps.google.com/?cid=4503825489824180391",
     "image_url": "/images/ramen-ikaruga-tokyo-station.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6804661,
+    "lng": 139.7679735
   }
 ]
