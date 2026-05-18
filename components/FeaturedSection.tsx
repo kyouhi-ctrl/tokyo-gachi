@@ -1,6 +1,7 @@
 'use client';
 
 import RestaurantCard from './RestaurantCard';
+import { useLang } from './LangContext';
 import type { Restaurant } from '@/lib/types';
 import type { LatLng } from '@/lib/geo';
 
@@ -11,6 +12,7 @@ interface Props {
 }
 
 export default function FeaturedSection({ restaurants, userLocation, onCardClick }: Props) {
+  const { t } = useLang();
   if (restaurants.length === 0) return null;
 
   return (
@@ -18,13 +20,13 @@ export default function FeaturedSection({ restaurants, userLocation, onCardClick
       <div className="mb-3 flex items-end justify-between">
         <div>
           <h2 className="font-display text-xl font-bold text-ink-900 md:text-2xl">
-            🔥 东京口碑推荐
+            🔥 {t.featuredTitle}
           </h2>
-          <p className="mt-0.5 text-xs text-ink-500">
-            编辑精选 · 来日必吃的代表性日料店
-          </p>
+          <p className="mt-0.5 text-xs text-ink-500">{t.featuredSubtitle}</p>
         </div>
-        <span className="hidden text-xs text-ink-400 md:inline">← 滑动查看更多 →</span>
+        <span className="hidden text-xs text-ink-400 md:inline">
+          {t.featuredScrollHint}
+        </span>
       </div>
 
       <div className="scrollbar-hide -mx-4 flex gap-3 overflow-x-auto px-4 pb-2 md:gap-4">

@@ -1,8 +1,10 @@
 'use client';
 
-import { AREA_MAP, CUISINE_MAP, type CuisineMeta, priceLabel } from '@/lib/constants';
+import { AREA_MAP, CUISINE_MAP, type CuisineMeta } from '@/lib/constants';
 import type { Restaurant } from '@/lib/types';
 import { formatDistance, haversineKm, type LatLng } from '@/lib/geo';
+import { translateTag } from '@/lib/i18n';
+import { useLang } from './LangContext';
 
 interface Props {
   restaurant: Restaurant;
@@ -17,8 +19,20 @@ export default function RestaurantCard({
   userLocation,
   onClick,
 }: Props) {
+  const { lang } = useLang();
   const cuisine = CUISINE_MAP[restaurant.cuisine];
   const area = AREA_MAP[restaurant.area];
+  const areaLabel = lang === 'en' ? area.label_en : area.label_zh;
+
+  const primaryName = lang === 'en' ? restaurant.name_romaji : restaurant.name_jp;
+  const secondaryName =
+    lang === 'en'
+      ? restaurant.name_jp
+      : `${restaurant.name_zh} · ${restaurant.name_romaji}`;
+  const description =
+    lang === 'en'
+      ? restaurant.description_en || restaurant.description_zh
+      : restaurant.description_zh;
 
   const distanceKm =
     userLocation && restaurant.lat != null && restaurant.lng != null
@@ -33,24 +47,19 @@ export default function RestaurantCard({
       >
         <CoverImage restaurant={restaurant} className="h-40 w-full" />
         <div className="flex flex-1 flex-col gap-2 p-4">
-          <div className="flex items-center justify-between">
-            <CuisineTag cuisine={cuisine} />
-            <PriceTag level={restaurant.price_range} />
-          </div>
+          <CuisineTag cuisine={cuisine} lang={lang} />
           <div>
             <div className="line-clamp-1 font-display text-base font-bold text-ink-900">
-              {restaurant.name_jp}
+              {primaryName}
             </div>
-            <div className="line-clamp-1 text-xs text-ink-500">
-              {restaurant.name_zh} · {restaurant.name_romaji}
-            </div>
+            <div className="line-clamp-1 text-xs text-ink-500">{secondaryName}</div>
           </div>
           <div className="flex items-center justify-between text-sm">
             <Rating rating={restaurant.google_rating} count={restaurant.review_count} />
-            <LocationLabel area={area.label_zh} distanceKm={distanceKm} />
+            <LocationLabel area={areaLabel} distanceKm={distanceKm} lang={lang} />
           </div>
           <p className="line-clamp-2 text-xs leading-relaxed text-ink-600">
-            {restaurant.description_zh}
+            {description}
           </p>
         </div>
       </button>
@@ -64,27 +73,22 @@ export default function RestaurantCard({
     >
       <CoverImage restaurant={restaurant} className="h-44 w-full" />
       <div className="flex flex-1 flex-col gap-2 p-4">
-        <div className="flex items-center justify-between">
-          <CuisineTag cuisine={cuisine} />
-          <PriceTag level={restaurant.price_range} />
-        </div>
+        <CuisineTag cuisine={cuisine} lang={lang} />
 
         <div>
           <div className="line-clamp-1 font-display text-lg font-bold text-ink-900">
-            {restaurant.name_jp}
+            {primaryName}
           </div>
-          <div className="line-clamp-1 text-xs text-ink-500">
-            {restaurant.name_zh} · {restaurant.name_romaji}
-          </div>
+          <div className="line-clamp-1 text-xs text-ink-500">{secondaryName}</div>
         </div>
 
         <div className="flex items-center justify-between text-sm">
           <Rating rating={restaurant.google_rating} count={restaurant.review_count} />
-          <LocationLabel area={area.label_zh} distanceKm={distanceKm} />
+          <LocationLabel area={areaLabel} distanceKm={distanceKm} lang={lang} />
         </div>
 
         <p className="line-clamp-2 text-sm leading-relaxed text-ink-600">
-          {restaurant.description_zh}
+          {description}
         </p>
 
         {restaurant.tags.length > 0 && (
@@ -94,7 +98,7 @@ export default function RestaurantCard({
                 key={tag}
                 className="rounded-full bg-ink-50 px-2 py-0.5 text-[11px] text-ink-600"
               >
-                {tag}
+                {translateTag(tag, lang)}
               </span>
             ))}
           </div>
@@ -104,21 +108,13 @@ export default function RestaurantCard({
   );
 }
 
-function CuisineTag({ cuisine }: { cuisine: CuisineMeta }) {
+function CuisineTag({ cuisine, lang }: { cuisine: CuisineMeta; lang: 'zh' | 'en' }) {
   return (
     <span
-      className={`inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-medium ${cuisine.color}`}
+      className={`inline-flex w-fit items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-medium ${cuisine.color}`}
     >
       <span>{cuisine.emoji}</span>
-      <span>{cuisine.label_zh}</span>
-    </span>
-  );
-}
-
-function PriceTag({ level }: { level: 1 | 2 | 3 | 4 }) {
-  return (
-    <span className="shrink-0 rounded-md bg-ink-100 px-2 py-0.5 text-sm font-bold tracking-tight text-ink-800">
-      {priceLabel(level)}
+      <span>{lang === 'en' ? cuisine.label_en : cuisine.label_zh}</span>
     </span>
   );
 }
@@ -138,16 +134,20 @@ function Rating({ rating, count }: { rating: number; count: number }) {
 function LocationLabel({
   area,
   distanceKm,
+  lang,
 }: {
   area: string;
   distanceKm: number | null;
+  lang: 'zh' | 'en';
 }) {
   if (distanceKm != null) {
+    const label =
+      lang === 'en' ? formatDistance(distanceKm) : `直线 ${formatDistance(distanceKm)}`;
     return (
       <span className="inline-flex items-center gap-1 text-ink-500">
         <span>📍 {area}</span>
         <span className="rounded-full bg-brand-50 px-1.5 py-0.5 text-[11px] font-semibold text-brand-600">
-          直线 {formatDistance(distanceKm)}
+          {label}
         </span>
       </span>
     );

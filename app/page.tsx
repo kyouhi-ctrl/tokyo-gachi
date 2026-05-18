@@ -6,6 +6,7 @@ import FilterBar from '@/components/FilterBar';
 import FeaturedSection from '@/components/FeaturedSection';
 import RestaurantGrid, { type LocStatus, type SortBy } from '@/components/RestaurantGrid';
 import RestaurantModal from '@/components/RestaurantModal';
+import { useLang } from '@/components/LangContext';
 import { AREA_MAP, CUISINE_MAP } from '@/lib/constants';
 import { haversineKm, type LatLng } from '@/lib/geo';
 import type { AreaId, CuisineId, Restaurant } from '@/lib/types';
@@ -19,6 +20,8 @@ function distanceOf(loc: LatLng, r: Restaurant): number {
 }
 
 export default function HomePage() {
+  const { t } = useLang();
+
   const [cuisine, setCuisine] = useState<CuisineId | 'all'>('all');
   const [area, setArea] = useState<AreaId | 'all'>('all');
   const [search, setSearch] = useState('');
@@ -56,8 +59,11 @@ export default function HomePage() {
           r.name_zh,
           r.name_romaji,
           r.description_zh,
+          r.description_en ?? '',
           CUISINE_MAP[r.cuisine].label_zh,
+          CUISINE_MAP[r.cuisine].label_en,
           AREA_MAP[r.area].label_zh,
+          AREA_MAP[r.area].label_en,
           ...r.tags,
         ]
           .join(' ')
@@ -86,10 +92,8 @@ export default function HomePage() {
     [],
   );
 
-  // 距离功能可用 = 已定位 且 数据里至少有一家店带坐标
   const hasCoords = useMemo(() => RESTAURANTS.some((r) => r.lat != null), []);
 
-  // 判断用户是否离东京很远（行前规划场景）
   const farAway = useMemo(() => {
     if (!userLocation) return false;
     const withCoords = RESTAURANTS.filter((r) => r.lat != null);
@@ -111,24 +115,39 @@ export default function HomePage() {
         onAreaChange={setArea}
       />
 
-      {/* Hero / Tagline */}
+      {/* Hero — 照片 + 排版叠层 */}
       <section className="mx-auto max-w-6xl px-4 pt-6">
-        <div className="rounded-3xl bg-gradient-to-br from-brand-50 via-white to-amber-50 p-6 sm:p-8">
-          <h1 className="font-display text-2xl font-bold text-ink-900 sm:text-3xl">
-            东京值得去的日料店，<span className="text-brand-600">一目了然</span>
-          </h1>
-          <p className="mt-2 max-w-2xl text-sm leading-relaxed text-ink-600 sm:text-base">
-            为来日旅游的中文游客精选 · 每周自动同步 Google 评分 · 不收钱、不带货、只看口碑
-          </p>
-          <div className="mt-3 flex flex-wrap gap-3 text-xs text-ink-500">
-            <span className="inline-flex items-center gap-1">
-              <span className="h-1.5 w-1.5 rounded-full bg-emerald-500" />
-              数据自动每周更新
-            </span>
-            <span className="inline-flex items-center gap-1">
-              <span className="h-1.5 w-1.5 rounded-full bg-amber-500" />
-              中文卡片 · 一键 Google 地图导航
-            </span>
+        <div className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-ink-900 via-ink-800 to-[#3d1a14]">
+          {/* 背景照片（缺失时回退到上面的暗色渐变） */}
+          <div
+            className="absolute inset-0 bg-cover bg-center"
+            style={{ backgroundImage: 'url(/hero.jpg)' }}
+          />
+          {/* 暗色叠层，保证文字可读 */}
+          <div className="absolute inset-0 bg-gradient-to-t from-ink-900/92 via-ink-900/55 to-ink-900/35" />
+
+          <div className="relative px-6 py-14 sm:px-10 sm:py-20">
+            <div className="mb-3 flex items-center gap-2 text-[11px] font-medium uppercase tracking-[0.22em] text-brand-300">
+              <span className="h-px w-8 bg-brand-400" />
+              東京 · 本物の日本料理
+            </div>
+            <h1 className="max-w-2xl font-display text-3xl font-bold leading-tight text-white sm:text-4xl md:text-5xl">
+              {t.heroTitleMain}
+              <span className="text-brand-400">{t.heroTitleAccent}</span>
+            </h1>
+            <p className="mt-4 max-w-xl text-sm leading-relaxed text-white/80 sm:text-base">
+              {t.heroSubtitle}
+            </p>
+            <div className="mt-6 flex flex-wrap gap-x-5 gap-y-2 text-xs text-white/75">
+              <span className="inline-flex items-center gap-1.5">
+                <span className="h-1.5 w-1.5 rounded-full bg-emerald-400" />
+                {t.heroBadge1}
+              </span>
+              <span className="inline-flex items-center gap-1.5">
+                <span className="h-1.5 w-1.5 rounded-full bg-amber-400" />
+                {t.heroBadge2}
+              </span>
+            </div>
           </div>
         </div>
       </section>
@@ -137,14 +156,14 @@ export default function HomePage() {
       {locStatus === 'granted' && farAway && (
         <section className="mx-auto max-w-6xl px-4 pt-4">
           <div className="rounded-xl border border-amber-200 bg-amber-50 px-4 py-2.5 text-sm text-amber-800">
-            你似乎不在东京附近，距离数字仅供参考 —— 行前规划建议直接用上方「区域」筛选。
+            {t.bannerFar}
           </div>
         </section>
       )}
       {locStatus === 'granted' && !hasCoords && (
         <section className="mx-auto max-w-6xl px-4 pt-4">
           <div className="rounded-xl border border-amber-200 bg-amber-50 px-4 py-2.5 text-sm text-amber-800">
-            定位成功，但店铺坐标尚未拉取 —— 运行一次数据更新后即可显示距离。
+            {t.bannerNoCoords}
           </div>
         </section>
       )}
@@ -176,7 +195,7 @@ export default function HomePage() {
       />
 
       <footer className="mx-auto max-w-6xl px-4 pb-10 pt-2 text-center text-xs text-ink-400">
-        <p>东京日料严选 · 评分数据来自 Google Maps，仅供参考</p>
+        <p>{t.footer}</p>
       </footer>
     </main>
   );

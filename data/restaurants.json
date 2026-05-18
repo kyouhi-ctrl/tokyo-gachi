@@ -20,7 +20,10 @@
     "maps_url": "https://maps.google.com/?cid=17219929102373626915",
     "image_url": "/images/sushi-saito.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6653768,
+    "lng": 139.7395884,
+    "description_en": "Three-Michelin-star Edomae sushi temple; master Takashi Saito's rice temperature and knife work set the benchmark."
   },
   {
     "id": "sukiyabashi-jiro",
@@ -43,7 +46,10 @@
     "maps_url": "https://maps.google.com/?cid=1055047344221220965",
     "image_url": "/images/sukiyabashi-jiro.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6727404,
+    "lng": 139.7639378,
+    "description_en": "The legendary basement counter from 'Jiro Dreams of Sushi', run by the Ono family in Ginza."
   },
   {
     "id": "sushi-dai",
@@ -55,7 +61,7 @@
     "price_range": 3,
     "google_place_id": "ChIJE6NVO9mLGGARUiKvcRmKzN4",
     "google_rating": 4.5,
-    "review_count": 1866,
+    "review_count": 1867,
     "description_zh": "丰洲市场内顶流，凌晨排队即名场面，主厨配套（おまかせ）性价比极高",
     "tags": [
       "英文菜单",
@@ -66,7 +72,10 @@
     "maps_url": "https://maps.google.com/?cid=16054358613555094098",
     "image_url": "/images/sushi-dai.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6443009,
+    "lng": 139.7824528,
+    "description_en": "Toyosu Market's most famous sushi bar; the dawn queue is iconic and the omakase is superb value."
   },
   {
     "id": "ichiran-shibuya",
@@ -90,7 +99,10 @@
     "maps_url": "https://maps.google.com/?cid=1092125928485198446",
     "image_url": "/images/ichiran-shibuya.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6611185,
+    "lng": 139.7009846,
+    "description_en": "Natural tonkotsu broth in solo booths, with Chinese/English order sheets — a safe first stop in Japan."
   },
   {
     "id": "ippudo-ginza",
@@ -113,7 +125,10 @@
     "maps_url": "https://maps.google.com/?cid=9280641726961323714",
     "image_url": "/images/ippudo-ginza.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.670693,
+    "lng": 139.7674279,
+    "description_en": "Classic Shiromaru and Akamaru tonkotsu in a spacious, clean dining room — great for families."
   },
   {
     "id": "tsuta",
@@ -136,7 +151,10 @@
     "maps_url": "https://maps.google.com/?cid=13819751080753019118",
     "image_url": "/images/tsuta.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7329475,
+    "lng": 139.7406286,
+    "description_en": "The world's first Michelin-starred ramen shop; the black-truffle shoyu broth is a must."
   },
   {
     "id": "tempura-kondo",
@@ -158,7 +176,10 @@
     "maps_url": "https://maps.google.com/?cid=5826650250164247742",
     "image_url": "/images/tempura-kondo.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6711696,
+    "lng": 139.7631786,
+    "description_en": "Two Michelin stars; vegetable-tempura master Fumio Kondo's signature sweet-potato tempura is legendary."
   },
   {
     "id": "tsunahachi-shinjuku",
@@ -181,7 +202,10 @@
     "maps_url": "https://maps.google.com/?cid=5607782394818890547",
     "image_url": "/images/tsunahachi-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6908459,
+    "lng": 139.7034867,
+    "description_en": "A tempura institution since 1924; the lunch sets are outstanding value."
   },
   {
     "id": "toriki-meguro",
@@ -203,7 +227,10 @@
     "maps_url": "https://maps.google.com/?cid=16306392712382116241",
     "image_url": "/images/toriki-meguro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6342782,
+    "lng": 139.7168892,
+    "description_en": "A veteran Meguro yakitori shop grilled over binchotan charcoal; chicken sashimi is the hidden menu."
   },
   {
     "id": "torikizoku-shinjuku",
@@ -226,7 +253,10 @@
     "maps_url": "https://maps.google.com/?cid=6127246487731162190",
     "image_url": "/images/torikizoku-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6905531,
+    "lng": 139.7027696,
+    "description_en": "A flat-price (¥360) yakitori chain — a lively izakaya favorite among young locals."
   },
   {
     "id": "maisen-aoyama",
@@ -249,7 +279,10 @@
     "maps_url": "https://maps.google.com/?cid=8353092544941080303",
     "image_url": "/images/maisen-aoyama.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.667925,
+    "lng": 139.7115365,
+    "description_en": "Famous tonkatsu in a converted bathhouse; the pork is so tender you can cut it with chopsticks."
   },
   {
     "id": "tonki-meguro",
@@ -271,7 +304,10 @@
     "maps_url": "https://maps.google.com/?cid=16614784742392390903",
     "image_url": "/images/tonki-meguro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6336071,
+    "lng": 139.7142945,
+    "description_en": "Since 1939; watch the theatrical frying at the open kitchen — juicy and satisfying."
   },
   {
     "id": "sarashina-horii",
@@ -293,7 +329,10 @@
     "maps_url": "https://maps.google.com/?cid=4799624521792605391",
     "image_url": "/images/sarashina-horii.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.656802,
+    "lng": 139.7328803,
+    "description_en": "The 200-year-old originator of white Sarashina soba — delicate and elegant."
   },
   {
     "id": "tsurutontan-roppongi",
@@ -316,7 +355,10 @@
     "maps_url": "https://maps.google.com/?cid=6396722401939980052",
     "image_url": "/images/tsurutontan-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6649932,
+    "lng": 139.7298282,
+    "description_en": "An udon specialist famous for giant bowls; curry udon and mentaiko-cream udon are the signatures."
   },
   {
     "id": "yakiniku-jumbo-hannare",
@@ -339,7 +381,10 @@
     "maps_url": "https://maps.google.com/?cid=17000911495503894016",
     "image_url": "/images/yakiniku-jumbo-hannare.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6469895,
+    "lng": 139.7314105,
+    "description_en": "Top-tier wagyu yakiniku with monthly A5 black-wagyu selections; book a month ahead."
   },
   {
     "id": "ryugin",
@@ -362,7 +407,10 @@
     "maps_url": "https://maps.google.com/?cid=3895087128219338185",
     "image_url": "/images/ryugin.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6742704,
+    "lng": 139.7592781,
+    "description_en": "Three Michelin stars; chef Seiji Yamamoto's modern kaiseki blends molecular technique, with sweeping Tokyo night views."
   },
   {
     "id": "gindaco-shibuya",
@@ -385,7 +433,10 @@
     "maps_url": "https://maps.google.com/?cid=14491788304696398457",
     "image_url": "/images/gindaco-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6585083,
+    "lng": 139.7031736,
+    "description_en": "Japan's national takoyaki chain — crisp outside, molten inside; the perfect snack while shopping."
   },
   {
     "id": "nodaiwa",
@@ -408,7 +459,10 @@
     "maps_url": "https://maps.google.com/?cid=12647547846201370726",
     "image_url": "/images/nodaiwa.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6581233,
+    "lng": 139.7433709,
+    "description_en": "An eel institution since the 1800s using Kanto steam-then-grill technique, with clearly tiered unagi sets."
   },
   {
     "id": "coco-ichibanya-akihabara",
@@ -431,7 +485,10 @@
     "maps_url": "https://maps.google.com/?cid=11179604513041814460",
     "image_url": "/images/coco-ichibanya-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6984515,
+    "lng": 139.77577,
+    "description_en": "Japan's national curry chain; spice level, toppings and rice portion all customizable, open late."
   },
   {
     "id": "imahan-asakusa",
@@ -454,7 +511,10 @@
     "maps_url": "https://maps.google.com/?cid=4622158629264349144",
     "image_url": "/images/imahan-asakusa.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7139345,
+    "lng": 139.7922291,
+    "description_en": "A sukiyaki and shabu-shabu institution since 1895, using black wagyu in an elegant setting."
   },
   {
     "id": "ginza-kyubei",
@@ -477,7 +537,10 @@
     "maps_url": "https://maps.google.com/?cid=8263217184568084951",
     "image_url": "/images/ginza-kyubei.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6684684,
+    "lng": 139.7612701,
+    "description_en": "A prestigious Ginza sushi house since 1935, once served the Showa Emperor, carrying on classic Edomae craft."
   },
   {
     "id": "sushiro-akihabara",
@@ -500,7 +563,10 @@
     "maps_url": "https://maps.google.com/?cid=13698931429158357388",
     "image_url": "/images/sushiro-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.701526,
+    "lng": 139.7711875,
+    "description_en": "Japan's largest conveyor-belt sushi chain — fresh, affordable, with touch-screen ordering and no language barrier."
   },
   {
     "id": "tsujihan-nihonbashi",
@@ -523,7 +589,10 @@
     "maps_url": "https://maps.google.com/?cid=2386807723085252126",
     "image_url": "/images/tsujihan-nihonbashi.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6807167,
+    "lng": 139.7715771,
+    "description_en": "One of Tokyo's most queued seafood bowls; choose sashimi-style or dashi-poured — lunch waits often hit an hour."
   },
   {
     "id": "uobei-shibuya",
@@ -546,7 +615,10 @@
     "maps_url": "https://maps.google.com/?cid=5886746596086835007",
     "image_url": "/images/uobei-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6594349,
+    "lng": 139.6979207,
+    "description_en": "Shinkansen-style high-speed sushi delivery; order on a tablet and it zooms to your seat — a fun must-try."
   },
   {
     "id": "rokurinsha",
@@ -569,7 +641,10 @@
     "maps_url": "https://maps.google.com/?cid=11140097630059971228",
     "image_url": "/images/rokurinsha.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6800519,
+    "lng": 139.7678455,
+    "description_en": "Tokyo Station's flagship rich tsukemen; an intense seafood-tonkotsu broth with thick, chewy noodles."
   },
   {
     "id": "fuunji-shinjuku",
@@ -592,7 +667,10 @@
     "maps_url": "https://maps.google.com/?cid=3272539110311166620",
     "image_url": "/images/fuunji-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6868343,
+    "lng": 139.6966393,
+    "description_en": "A famed Shinjuku-west tsukemen shop with chicken-paitan × seafood double broth; the ticket system keeps waits short."
   },
   {
     "id": "afuri-roppongi",
@@ -615,7 +693,10 @@
     "maps_url": "https://maps.google.com/?cid=14319064606199612243",
     "image_url": "/images/afuri-roppongi.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.663669,
+    "lng": 139.732601,
+    "description_en": "Yuzu-shio clear-broth ramen — light and refreshing; stylish, with overseas branches and high marks from visitors."
   },
   {
     "id": "mouko-tanmen-nakamoto",
@@ -638,7 +719,10 @@
     "maps_url": "https://maps.google.com/?cid=12860078878164530502",
     "image_url": "/images/mouko-tanmen-nakamoto.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7293048,
+    "lng": 139.7148117,
+    "description_en": "Spice-challenge ramen; the signature Mongolian tanmen lets you pick heat from 0 to 9 — a must for chili lovers."
   },
   {
     "id": "tenichi-ginza",
@@ -660,7 +744,10 @@
     "maps_url": "https://maps.google.com/?cid=5454848131636451625",
     "image_url": "/images/tenichi-ginza.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6709396,
+    "lng": 139.7625125,
+    "description_en": "A tempura institution since 1930, fried in sesame oil; the shrimp tempura set is the classic pick."
   },
   {
     "id": "tenya-asakusa",
@@ -683,7 +770,10 @@
     "maps_url": "https://maps.google.com/?cid=3811576022984190020",
     "image_url": "/images/tenya-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7114847,
+    "lng": 139.7928011,
+    "description_en": "A budget tempura-bowl chain; a shrimp-and-vegetable tendon set for around ¥600 — easy on the travel wallet."
   },
   {
     "id": "gonpachi-roppongi",
@@ -706,7 +796,10 @@
     "maps_url": "https://maps.google.com/?cid=1337614840498094983",
     "image_url": "/images/gonpachi-roppongi.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6601742,
+    "lng": 139.7235797,
+    "description_en": "The izakaya that inspired the 'Kill Bill' set; a converted folk house where skewers and soba both shine."
   },
   {
     "id": "kushikatsu-tanaka-shibuya",
@@ -729,7 +822,10 @@
     "maps_url": "https://maps.google.com/?cid=11727281102732136894",
     "image_url": "/images/kushikatsu-tanaka-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.65888169999999,
+    "lng": 139.695824,
+    "description_en": "An Osaka kushikatsu chain in Tokyo; pork, vegetable and seafood skewers — and remember, no double-dipping the sauce."
   },
   {
     "id": "isomaru-suisan-shinjuku",
@@ -752,7 +848,10 @@
     "maps_url": "https://maps.google.com/?cid=8121084490993100929",
     "image_url": "/images/isomaru-suisan-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.692537,
+    "lng": 139.7030539,
+    "description_en": "A 24-hour seafood izakaya where you grill scallops and oysters at your table — lively even late at night."
   },
   {
     "id": "katsukura-shinjuku",
@@ -775,7 +874,10 @@
     "maps_url": "https://maps.google.com/?cid=13571770056714267083",
     "image_url": "/images/katsukura-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6876313,
+    "lng": 139.7021224,
+    "description_en": "A refined Kyoto-born tonkatsu shop; grinding your own sesame is part of the ritual, the cutlet crisp and juicy."
   },
   {
     "id": "wako-tokyo-station",
@@ -798,7 +900,10 @@
     "maps_url": "https://maps.google.com/?cid=7688725612950659377",
     "image_url": "/images/wako-tokyo-station.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.679388,
+    "lng": 139.7714138,
+    "description_en": "Convenient tonkatsu inside Tokyo Station with free refills of rice, miso soup and cabbage — great-value station dining."
   },
   {
     "id": "marugame-seimen-shibuya",
@@ -821,7 +926,10 @@
     "maps_url": "https://maps.google.com/?cid=10676704110178817241",
     "image_url": "/images/marugame-seimen-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6614203,
+    "lng": 139.7025453,
+    "description_en": "Sanuki udon made fresh on-site for around ¥500 a bowl, with self-serve tempura — a national lunch staple."
   },
   {
     "id": "soba-sunaba-akasaka",
@@ -843,7 +951,10 @@
     "maps_url": "https://maps.google.com/?cid=10014745078137048766",
     "image_url": "/images/soba-sunaba-akasaka.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.67116,
+    "lng": 139.736185,
+    "description_en": "One of the birthplaces of Edo's great soba lineages — chilled soba with kuzu-based dipping sauce, classic and refined."
   },
   {
     "id": "jojoen-shinjuku",
@@ -866,7 +977,10 @@
     "maps_url": "https://maps.google.com/?cid=16633061995078916071",
     "image_url": "/images/jojoen-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6912541,
+    "lng": 139.7019627,
+    "description_en": "An upscale wagyu yakiniku chain with a help-yourself kimchi and salad bar — good for celebrations."
   },
   {
     "id": "gyukaku-shibuya",
@@ -889,7 +1003,10 @@
     "maps_url": "https://maps.google.com/?cid=3627114165776902568",
     "image_url": "/images/gyukaku-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6589406,
+    "lng": 139.6972559,
+    "description_en": "Japan's largest yakiniku chain with smokeless grills and varied sets — a friendly intro to grilling your own meat."
   },
   {
     "id": "yakiniku-like-shinjuku",
@@ -912,7 +1029,10 @@
     "maps_url": "https://maps.google.com/?cid=10154207238653464789",
     "image_url": "/images/yakiniku-like-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6939966,
+    "lng": 139.6977497,
+    "description_en": "A solo-yakiniku specialist with personal smoke hoods; a beef set for around ¥1,000 — ideal for solo travelers."
   },
   {
     "id": "kanda-minami-aoyama",
@@ -935,7 +1055,10 @@
     "maps_url": "https://maps.google.com/?cid=12303054679655534315",
     "image_url": "/images/kanda-minami-aoyama.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6675872,
+    "lng": 139.7176163,
+    "description_en": "Three Michelin stars; chef Hiroyuki Kanda's seasonal kaiseki uses peak-fresh ingredients — a pinnacle of Japanese cuisine."
   },
   {
     "id": "kohaku-kagurazaka",
@@ -958,7 +1081,10 @@
     "maps_url": "https://maps.google.com/?cid=12253031082725516673",
     "image_url": "/images/kohaku-kagurazaka.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.700823,
+    "lng": 139.7408303,
+    "description_en": "Three Michelin stars on a Kagurazaka cobblestone lane; modern kaiseki renowned for its dashi mastery and umami philosophy."
   },
   {
     "id": "sometaro-asakusa",
@@ -981,7 +1107,10 @@
     "maps_url": "https://maps.google.com/?cid=15093122525121686287",
     "image_url": "/images/sometaro-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.71190929999999,
+    "lng": 139.7909269,
+    "description_en": "An okonomiyaki shop in a charming Showa-era building; cook it yourself on the griddle for a retro experience."
   },
   {
     "id": "onyasai-shinjuku",
@@ -1004,7 +1133,10 @@
     "maps_url": "https://maps.google.com/?cid=8898190138000096689",
     "image_url": "/images/onyasai-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6902692,
+    "lng": 139.7020413,
+    "description_en": "A multi-broth shabu-shabu chain with unlimited vegetables and many pork/beef sets, clean and spacious."
   },
   {
     "id": "shabuyo-ikebukuro",
@@ -1027,7 +1159,10 @@
     "maps_url": "https://maps.google.com/?cid=3327951660155101501",
     "image_url": "/images/shabuyo-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7304993,
+    "lng": 139.7164454,
+    "description_en": "All-you-can-eat shabu-shabu — unlimited broths, ingredients and dessert for around ¥2,000."
   },
   {
     "id": "maekawa-asakusa",
@@ -1049,7 +1184,10 @@
     "maps_url": "https://maps.google.com/?cid=14559611483311748659",
     "image_url": "/images/maekawa-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7082018,
+    "lng": 139.7963058,
+    "description_en": "A long-established eel house on the Sumida River; Kanto steam-grill technique, generous portions and lovely river views."
   },
   {
     "id": "yoshinoya-shibuya",
@@ -1072,7 +1210,10 @@
     "maps_url": "https://maps.google.com/?cid=13003985488831384921",
     "image_url": "/images/yoshinoya-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.660319,
+    "lng": 139.696868,
+    "description_en": "Japan's national gyudon brand; the classic beef bowl for around ¥500, open late."
   },
   {
     "id": "nakau-shibuya",
@@ -1095,7 +1236,10 @@
     "maps_url": "https://maps.google.com/?cid=17063013293092122718",
     "image_url": "/images/nakau-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6624326,
+    "lng": 139.695384,
+    "description_en": "A chain specializing in oyakodon and Japanese-style gyudon — a sweeter dashi, more delicate than Yoshinoya."
   },
   {
     "id": "ootoya-shinjuku",
@@ -1118,7 +1262,10 @@
     "maps_url": "https://maps.google.com/?cid=329089571874900914",
     "image_url": "/images/ootoya-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6933679,
+    "lng": 139.6988554,
+    "description_en": "A Japanese home-style chain with grilled-fish sets, chicken bowls and balanced, healthy meals — a reliable everyday choice."
   },
   {
     "id": "izuei-ueno",
@@ -1140,7 +1287,10 @@
     "maps_url": "https://maps.google.com/?cid=13816667865528678733",
     "image_url": "/images/izuei-ueno.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.709671,
+    "lng": 139.7726906,
+    "description_en": "A 300-year-old Ueno eel house; Kanto-style grilled unagi right by Ueno Park — a cherry-blossom-season favorite."
   },
   {
     "id": "yabu-soba-ueno",
@@ -1162,7 +1312,10 @@
     "maps_url": "https://maps.google.com/?cid=1033315330731136427",
     "image_url": "/images/yabu-soba-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7101954,
+    "lng": 139.7754618,
+    "description_en": "A veteran Edo Yabu-lineage soba shop; the duck-broth soba is the signature, full of old-Tokyo character."
   },
   {
     "id": "seiyoken-ueno",
@@ -1185,7 +1338,10 @@
     "maps_url": "https://maps.google.com/?cid=4445473145471881929",
     "image_url": "/images/seiyoken-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7142277,
+    "lng": 139.7721777,
+    "description_en": "A Western-cuisine institution since 1872 inside Ueno Park; its beef stew is part of Japan's yoshoku origins."
   },
   {
     "id": "torigin-ueno",
@@ -1207,7 +1363,10 @@
     "maps_url": "https://maps.google.com/?cid=12223294268363597840",
     "image_url": "/images/torigin-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7099555,
+    "lng": 139.7743957,
+    "description_en": "Binchotan-grilled yakitori; chicken skin and cartilage are the standouts in a lively Showa-era shop."
   },
   {
     "id": "nakamoto-ueno",
@@ -1229,7 +1388,10 @@
     "maps_url": "https://maps.google.com/?cid=17047425683984291077",
     "image_url": "/images/nakamoto-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7059358,
+    "lng": 139.7743766,
+    "description_en": "Spice-challenge ramen; this popular Ueno branch's fiery Mongolian tanmen is both filling and thrilling."
   },
   {
     "id": "tonkatsu-isakichi-ueno",
@@ -1251,7 +1413,10 @@
     "maps_url": "https://maps.google.com/?cid=8387885465744908072",
     "image_url": "/images/tonkatsu-isakichi-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7086737,
+    "lng": 139.7738358,
+    "description_en": "A well-loved tonkatsu near Ueno; hearty portions and great value, with lunchtime queues."
   },
   {
     "id": "gyutan-rikyu-ueno",
@@ -1273,7 +1438,10 @@
     "maps_url": "https://maps.google.com/?cid=5071458720901411048",
     "image_url": "/images/gyutan-rikyu-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7068717,
+    "lng": 139.7729996,
+    "description_en": "A specialist in Sendai's famous beef tongue; thick-cut salt-grilled gyutan with barley rice and oxtail soup."
   },
   {
     "id": "tenya-ueno",
@@ -1296,7 +1464,10 @@
     "maps_url": "https://maps.google.com/?cid=2970047413724390023",
     "image_url": "/images/tenya-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7069085,
+    "lng": 139.7747403,
+    "description_en": "The Ueno branch of a budget tendon chain; a ¥600 shrimp-and-vegetable set, handy while exploring Ueno and Asakusa."
   },
   {
     "id": "hotpot-nabezou-ueno",
@@ -1319,7 +1490,10 @@
     "maps_url": "https://maps.google.com/?cid=966865057946867166",
     "image_url": "/images/hotpot-nabezou-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7068605,
+    "lng": 139.7731332,
+    "description_en": "All-you-can-eat hot pot with multiple broths, a Chinese menu and friendly prices — great for families."
   },
   {
     "id": "kura-sushi-ueno",
@@ -1342,7 +1516,10 @@
     "maps_url": "https://maps.google.com/?cid=12710755693091770004",
     "image_url": "/images/kura-sushi-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7074435,
+    "lng": 139.776653,
+    "description_en": "A budget conveyor-sushi chain with touch ordering and hygienic covered plates — a family favorite."
   },
   {
     "id": "okonomiyaki-ueno",
@@ -1364,7 +1541,10 @@
     "maps_url": "https://maps.google.com/?cid=3100737898427981153",
     "image_url": "/images/okonomiyaki-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7007116,
+    "lng": 139.7728273,
+    "description_en": "The Tokyo branch of an authentic Osaka okonomiyaki chain; thin and crisp, with pork-and-egg as the signature."
   },
   {
     "id": "yoshinoya-ueno",
@@ -1376,7 +1556,7 @@
     "price_range": 1,
     "google_place_id": "ChIJ2ctgyp6OGGARGZaEvjKB-UY",
     "google_rating": 3.6,
-    "review_count": 917,
+    "review_count": 918,
     "description_zh": "上野必经的24小时牛丼，深夜逛完博物馆或夜市的最佳收尾",
     "tags": [
       "便宜",
@@ -1387,7 +1567,10 @@
     "maps_url": "https://maps.google.com/?cid=5114260906800616985",
     "image_url": "/images/yoshinoya-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.71241029999999,
+    "lng": 139.7778238,
+    "description_en": "A 24-hour gyudon spot in Ueno — the perfect late-night finish after museums or the night market."
   },
   {
     "id": "kanda-matsuya",
@@ -1409,7 +1592,10 @@
     "maps_url": "https://maps.google.com/?cid=12202279692666789727",
     "image_url": "/images/kanda-matsuya.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6961148,
+    "lng": 139.7687883,
+    "description_en": "A famed Tokyo soba shop since 1884, once frequented by Showa-era writers; its chilled soba dipping sauce is deeply layered."
   },
   {
     "id": "kanda-yabu-soba",
@@ -1431,7 +1617,10 @@
     "maps_url": "https://maps.google.com/?cid=15294491058971948881",
     "image_url": "/images/kanda-yabu-soba.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6970004,
+    "lng": 139.7686863,
+    "description_en": "The foremost of Edo's three great Yabu soba houses, founded 1880; its fine green soba has a distinctive fragrance."
   },
   {
     "id": "gyudon-yoshinoya-akihabara",
@@ -1453,7 +1642,10 @@
     "maps_url": "https://maps.google.com/?cid=11738295855192223214",
     "image_url": "/images/gyudon-yoshinoya-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.69951229999999,
+    "lng": 139.7712461,
+    "description_en": "A quick gyudon stop while exploring Akihabara — the best refuel after a late shopping spree."
   },
   {
     "id": "ramen-ikaruga-akihabara",
@@ -1475,7 +1667,10 @@
     "maps_url": "https://maps.google.com/?cid=4503825489824180391",
     "image_url": "/images/ramen-ikaruga-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6804661,
+    "lng": 139.7679735,
+    "description_en": "Seafood-shoyu rich-broth ramen with deeply layered umami — a great fill-up while in Akihabara."
   },
   {
     "id": "yakitori-akihabara-daidokoro",
@@ -1498,7 +1693,10 @@
     "maps_url": "https://maps.google.com/?cid=12351648342754206330",
     "image_url": "/images/yakitori-akihabara-daidokoro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6978848,
+    "lng": 139.7764903,
+    "description_en": "A budget yakitori izakaya with skewers from around ¥100 — a good group spot after wandering Akihabara."
   },
   {
     "id": "tempura-sansada-asakusa",
@@ -1520,7 +1718,10 @@
     "maps_url": "https://maps.google.com/?cid=9381824200514409223",
     "image_url": "/images/tempura-sansada-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7109887,
+    "lng": 139.7966179,
+    "description_en": "An Asakusa tempura institution since 1837; crisp, clean Edomae frying right by Nakamise-dori."
   },
   {
     "id": "daikokuya-tempura",
@@ -1543,7 +1744,10 @@
     "maps_url": "https://maps.google.com/?cid=17105810987302783774",
     "image_url": "/images/daikokuya-tempura.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7127383,
+    "lng": 139.79557,
+    "description_en": "One of Asakusa's most famous tempura houses; the dark sesame-shoyu tendon is the specialty — worth the queue."
   },
   {
     "id": "komakata-dozeu",
@@ -1566,7 +1770,10 @@
     "maps_url": "https://maps.google.com/?cid=11456771537377664998",
     "image_url": "/images/komakata-dozeu.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7075243,
+    "lng": 139.7950215,
+    "description_en": "The 1801-founded originator of loach hot pot — a living relic of Edo food culture and a rare experience."
   },
   {
     "id": "kawachiya-unagi-asakusa",
@@ -1588,7 +1795,10 @@
     "maps_url": "https://maps.google.com/?cid=7709181588685412783",
     "image_url": "/images/kawachiya-unagi-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7581771,
+    "lng": 139.8772894,
+    "description_en": "A long-running Asakusa unagi shop; Kanto secret steam-grill technique, served as a full set with pickles and clear soup."
   },
   {
     "id": "asakusa-imahan-ninngyocho",
@@ -1611,7 +1821,10 @@
     "maps_url": "https://maps.google.com/?cid=13909133467795774038",
     "image_url": "/images/asakusa-imahan-ninngyocho.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.711713,
+    "lng": 139.796742,
+    "description_en": "A century-old wagyu sukiyaki specialist; black-wagyu sukiyaki with raw egg in authentic Kanto style."
   },
   {
     "id": "chanko-nabe-ryogoku",
@@ -1634,29 +1847,10 @@
     "maps_url": "https://maps.google.com/?cid=4955992054579295479",
     "image_url": "/images/chanko-nabe-ryogoku.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
-  },
-  {
-    "id": "yakitori-asakusa-hatanaka",
-    "name_jp": "浅草 波奈",
-    "name_zh": "浅草 波奈",
-    "name_romaji": "Hatanaka Asakusa",
-    "cuisine": "yakitori",
-    "area": "asakusa",
-    "price_range": 2,
-    "google_place_id": "ChIJGXc5hemOGGARsHvgOLpBVCw",
-    "google_rating": 0,
-    "review_count": 0,
-    "description_zh": "浅草老街居酒屋，串烧与时令刺身搭配，夜晚浅草散步后的完美终点",
-    "tags": [
-      "浅草氛围",
-      "时令食材"
-    ],
-    "address": "日本〒111-0032 Tokyo, Taito City, Asakusa, 5-chōme−2 松下ビル",
-    "maps_url": "https://maps.google.com/?cid=3194250303786482608",
-    "image_url": "",
-    "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.694921,
+    "lng": 139.7925488,
+    "description_en": "Sumo-stable chanko hot pot in Ryogoku; a superb chicken broth with vegetables and tofu in huge portions."
   },
   {
     "id": "sushi-zanmai-ikebukuro",
@@ -1679,7 +1873,10 @@
     "maps_url": "https://maps.google.com/?cid=12462334787389600193",
     "image_url": "/images/sushi-zanmai-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7295287,
+    "lng": 139.7128734,
+    "description_en": "A 24-hour sushi chain where you can get fresh tuna even late at night, at reasonable prices."
   },
   {
     "id": "tonkatsu-yachiyo-ikebukuro",
@@ -1701,7 +1898,10 @@
     "maps_url": "https://maps.google.com/?cid=7327953627916485699",
     "image_url": "/images/tonkatsu-yachiyo-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7264997,
+    "lng": 139.7160101,
+    "description_en": "An old-school Ikebukuro tonkatsu; a crisp-outside, tender-inside loin cutlet with free miso-soup refills."
   },
   {
     "id": "gyukaku-ikebukuro",
@@ -1724,7 +1924,10 @@
     "maps_url": "https://maps.google.com/?cid=2619693752821923448",
     "image_url": "/images/gyukaku-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7304467,
+    "lng": 139.7159902,
+    "description_en": "A lively Ikebukuro yakiniku chain with smokeless grills — a go-to for group meals, with great-value lunch sets."
   },
   {
     "id": "kura-sushi-ikebukuro",
@@ -1747,7 +1950,10 @@
     "maps_url": "https://maps.google.com/?cid=13985106845012520138",
     "image_url": "/images/kura-sushi-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7275902,
+    "lng": 139.7123046,
+    "description_en": "Budget conveyor sushi with hygienic covered plates and touch ordering — zero language stress."
   },
   {
     "id": "ramen-ganso-ikebukuro",
@@ -1769,7 +1975,10 @@
     "maps_url": "https://maps.google.com/?cid=8881489265062390261",
     "image_url": "/images/ramen-ganso-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.730861,
+    "lng": 139.7051183,
+    "description_en": "A veteran Ikebukuro shoyu ramen; a clear broth with pronounced umami, beloved by local office workers."
   },
   {
     "id": "marugame-seimen-ikebukuro",
@@ -1792,7 +2001,10 @@
     "maps_url": "https://maps.google.com/?cid=1950408847339249960",
     "image_url": "/images/marugame-seimen-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.72873,
+    "lng": 139.720001,
+    "description_en": "Sanuki udon made on-site with à la carte tempura — a filling meal for under ¥500."
   },
   {
     "id": "tenya-ikebukuro",
@@ -1815,30 +2027,10 @@
     "maps_url": "https://maps.google.com/?cid=8296529326510963329",
     "image_url": "/images/tenya-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
-  },
-  {
-    "id": "hotpot-shabuzen-ikebukuro",
-    "name_jp": "しゃぶ禅 池袋東口店",
-    "name_zh": "涮涮禅 池袋东口店",
-    "name_romaji": "Shabuzen Ikebukuro",
-    "cuisine": "hotpot",
-    "area": "ikebukuro",
-    "price_range": 3,
-    "google_place_id": "CHANGE_ME_shabuzen_ikebukuro",
-    "google_rating": 0,
-    "review_count": 0,
-    "description_zh": "和牛涮涮锅专门店，汤底讲究，A4和牛薄切入口即化",
-    "tags": [
-      "和牛",
-      "高品质",
-      "适合庆祝"
-    ],
-    "address": "東京都豊島区東池袋1-23-5",
-    "maps_url": "",
-    "image_url": "",
-    "featured": false,
-    "last_updated": "2026-05-15"
+    "last_updated": "2026-05-18",
+    "lat": 35.7273038,
+    "lng": 139.7121436,
+    "description_en": "Budget tendon; a ¥600 shrimp-and-vegetable bowl for a quick, filling meal."
   },
   {
     "id": "afuri-harajuku",
@@ -1861,7 +2053,10 @@
     "maps_url": "https://maps.google.com/?cid=14658399961265590294",
     "image_url": "/images/afuri-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6730053,
+    "lng": 139.7038019,
+    "description_en": "A home of yuzu-shio ramen near Harajuku's Takeshita Street — a refreshing bowl after shopping."
   },
   {
     "id": "yakitori-toriyoshi-harajuku",
@@ -1883,7 +2078,10 @@
     "maps_url": "https://maps.google.com/?cid=1542032760431149438",
     "image_url": "/images/yakitori-toriyoshi-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.665105,
+    "lng": 139.7132997,
+    "description_en": "Binchotan-grilled yakitori with top-quality chicken — a fine izakaya to drop into after Omotesando."
   },
   {
     "id": "gyudon-sukiya-harajuku",
@@ -1906,7 +2104,10 @@
     "maps_url": "https://maps.google.com/?cid=2385000028036106257",
     "image_url": "/images/gyudon-sukiya-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.670757,
+    "lng": 139.7073287,
+    "description_en": "Japan's largest gyudon chain — a quick refuel when Harajuku shopping wears you out, with many toppings."
   },
   {
     "id": "soba-homura-harajuku",
@@ -1928,7 +2129,10 @@
     "maps_url": "https://maps.google.com/?cid=2924344717648783128",
     "image_url": "/images/soba-homura-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6644409,
+    "lng": 139.7046754,
+    "description_en": "A hidden Omotesando soba gem; stone-milled buckwheat flour and great-value lunch sets."
   },
   {
     "id": "tonkatsu-wako-omotesando",
@@ -1951,7 +2155,10 @@
     "maps_url": "https://maps.google.com/?cid=10607752435066408933",
     "image_url": "/images/tonkatsu-wako-omotesando.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6614498,
+    "lng": 139.7026274,
+    "description_en": "Tonkatsu in the Omotesando shopping district with free rice, cabbage and miso-soup refills — a solid sit-down meal."
   },
   {
     "id": "sushi-hana-harajuku",
@@ -1974,7 +2181,10 @@
     "maps_url": "https://maps.google.com/?cid=17952797624476818205",
     "image_url": "/images/sushi-hana-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6728036,
+    "lng": 139.7042754,
+    "description_en": "Conveyor sushi with ingredients shipped from Hokkaido; the hairy crab, uni and salmon roe are excellent — worth the wait."
   },
   {
     "id": "ichiran-shinjuku",
@@ -1997,7 +2207,10 @@
     "maps_url": "https://maps.google.com/?cid=17641287503749035709",
     "image_url": "/images/ichiran-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6943605,
+    "lng": 139.7015567,
+    "description_en": "The Shinjuku branch's booth-style natural tonkotsu ramen, open late — a great supper after a Kabukicho night out."
   },
   {
     "id": "hanamaru-tokyo-station",
@@ -2020,7 +2233,10 @@
     "maps_url": "https://maps.google.com/?cid=14326864775095335517",
     "image_url": "/images/hanamaru-tokyo-station.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6795237,
+    "lng": 139.7649491,
+    "description_en": "Conveyor sushi inside Tokyo Station with Hokkaido-direct hairy crab, uni and botan shrimp — well above Tokyo's average."
   },
   {
     "id": "curry-bondy-shinjuku",
@@ -2042,7 +2258,10 @@
     "maps_url": "https://maps.google.com/?cid=6072642636345787938",
     "image_url": "/images/curry-bondy-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6955738,
+    "lng": 139.7573664,
+    "description_en": "French-buttery European-style curry; the signature is dipping bread in it — rich and creamy, unlike Japanese curry."
   },
   {
     "id": "niku-no-mansei-shinjuku",
@@ -2064,7 +2283,10 @@
     "maps_url": "https://maps.google.com/?cid=3459813436641070620",
     "image_url": "/images/niku-no-mansei-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6921845,
+    "lng": 139.699556,
+    "description_en": "Tonkatsu and steak run by a butcher; the meat comes straight from the shop's own counter, freshness guaranteed."
   },
   {
     "id": "sushi-kura-shinjuku",
@@ -2087,7 +2309,10 @@
     "maps_url": "https://maps.google.com/?cid=10786785487798132935",
     "image_url": "/images/sushi-kura-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6944776,
+    "lng": 139.6990748,
+    "description_en": "Budget conveyor sushi in Shinjuku with touch ordering — a top pick for visiting families, good quality at low prices."
   },
   {
     "id": "izakaya-omoide-yokocho",
@@ -2110,7 +2335,10 @@
     "maps_url": "https://maps.google.com/?cid=10416638554535967955",
     "image_url": "/images/izakaya-omoide-yokocho.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6927011,
+    "lng": 139.6995778,
+    "description_en": "A Showa-era alley off Shinjuku's west exit; line up at the yakitori stalls with a draft beer for real Tokyo nightlife."
   },
   {
     "id": "ramen-fuunji-shinjuku2",
@@ -2132,7 +2360,10 @@
     "maps_url": "https://maps.google.com/?cid=8971049026698303002",
     "image_url": "/images/ramen-fuunji-shinjuku2.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6955679,
+    "lng": 139.6986477,
+    "description_en": "A master shop for rich seafood-tonkotsu ramen; known for spicy and sweet double broths — queues are common."
   },
   {
     "id": "hotpot-nabezou-shinjuku",
@@ -2155,7 +2386,10 @@
     "maps_url": "https://maps.google.com/?cid=6046252266409405411",
     "image_url": "/images/hotpot-nabezou-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6910075,
+    "lng": 139.7026367,
+    "description_en": "All-you-can-eat hot pot in Shinjuku — unlimited broths and ingredients, with a Chinese menu."
   },
   {
     "id": "unagi-nodaiwa-shinjuku",
@@ -2177,7 +2411,10 @@
     "maps_url": "https://maps.google.com/?cid=12647547846201370726",
     "image_url": "/images/unagi-nodaiwa-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6581233,
+    "lng": 139.7433709,
+    "description_en": "The Shinjuku branch of century-old Nodaiwa; Kanto steam-grilled eel, conveniently easy to find."
   },
   {
     "id": "okonomiyaki-tsuruhasufugetsu-shinjuku",
@@ -2200,7 +2437,10 @@
     "maps_url": "https://maps.google.com/?cid=202146788459463939",
     "image_url": "/images/okonomiyaki-tsuruhasufugetsu-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6922132,
+    "lng": 139.7054375,
+    "description_en": "A popular Osaka okonomiyaki chain; cook it yourself on the griddle with seafood, pork and more."
   },
   {
     "id": "kura-sushi-shibuya",
@@ -2223,7 +2463,10 @@
     "maps_url": "https://maps.google.com/?cid=9506578878221545111",
     "image_url": "/images/kura-sushi-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6598242,
+    "lng": 139.6995535,
+    "description_en": "Budget conveyor sushi in Shibuya with touch ordering — a quick proper meal after a shopping spree."
   },
   {
     "id": "sukiya-shibuya",
@@ -2246,7 +2489,10 @@
     "maps_url": "https://maps.google.com/?cid=18120207136882811380",
     "image_url": "/images/sukiya-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6594349,
+    "lng": 139.6979207,
+    "description_en": "Japan's largest gyudon chain with curry, beef and pork bowls — open late."
   },
   {
     "id": "ramen-hakata-shibuya",
@@ -2269,7 +2515,10 @@
     "maps_url": "https://maps.google.com/?cid=1048136702584727611",
     "image_url": "/images/ramen-hakata-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6579051,
+    "lng": 139.699482,
+    "description_en": "Authentic Hakata thin-noodle tonkotsu; free noodle refills and an intensely rich white broth."
   },
   {
     "id": "tonkatsu-katsudon-shibuya",
@@ -2292,7 +2541,10 @@
     "maps_url": "https://maps.google.com/?cid=12828905570797482451",
     "image_url": "/images/tonkatsu-katsudon-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6588199,
+    "lng": 139.6982152,
+    "description_en": "A budget katsudon chain; a pork-cutlet rice bowl for around ¥600 — quick and filling."
   },
   {
     "id": "okonomiyaki-fugetsu-shibuya",
@@ -2315,7 +2567,10 @@
     "maps_url": "https://maps.google.com/?cid=16628339708873388659",
     "image_url": "/images/okonomiyaki-fugetsu-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6991777,
+    "lng": 139.7749249,
+    "description_en": "A well-known Shibuya okonomiyaki shop; pork, seafood and mixed flavors, with the fun of griddling it yourself."
   },
   {
     "id": "yakiniku-like-shibuya",
@@ -2338,7 +2593,10 @@
     "maps_url": "https://maps.google.com/?cid=13453144416449648473",
     "image_url": "/images/yakiniku-like-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.65881770000001,
+    "lng": 139.6970704,
+    "description_en": "A solo-yakiniku specialist with personal smoke hoods; a beef set for around ¥1,000 — ideal for solo travelers."
   },
   {
     "id": "hotpot-yuzuya-shibuya",
@@ -2360,7 +2618,10 @@
     "maps_url": "https://maps.google.com/?cid=2545779087736356004",
     "image_url": "/images/hotpot-yuzuya-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6582722,
+    "lng": 139.6996396,
+    "description_en": "Yuzu-scented shabu-shabu — light, not greasy, great for group dining."
   },
   {
     "id": "sushi-yoshitake",
@@ -2383,7 +2644,10 @@
     "maps_url": "https://maps.google.com/?cid=9765870719310028397",
     "image_url": "/images/sushi-yoshitake.jpg",
     "featured": true,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6689166,
+    "lng": 139.7619714,
+    "description_en": "Three Michelin stars; chef Masahiro Yoshitake's exquisite Edomae sushi strikes a perfect rice-and-fish balance."
   },
   {
     "id": "ginza-kojyu",
@@ -2406,7 +2670,10 @@
     "maps_url": "https://maps.google.com/?cid=9302355949854769069",
     "image_url": "/images/ginza-kojyu.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6714446,
+    "lng": 139.7630117,
+    "description_en": "Two-Michelin-star kaiseki; chef Toru Okuda's refined use of Japanese ingredients, with tableware that is art in itself."
   },
   {
     "id": "ginza-tenkunji",
@@ -2428,7 +2695,10 @@
     "maps_url": "https://maps.google.com/?cid=9945497409458953396",
     "image_url": "/images/ginza-tenkunji.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6676662,
+    "lng": 139.7628011,
+    "description_en": "A Ginza tempura institution since 1885, fried in sesame oil; the shrimp tempura is wonderfully fragrant."
   },
   {
     "id": "unagi-ginza",
@@ -2450,7 +2720,10 @@
     "maps_url": "https://maps.google.com/?cid=14425512566752627494",
     "image_url": "/images/unagi-ginza.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6700218,
+    "lng": 139.7610886,
+    "description_en": "A modern take on Ginza unagi; top-quality eel in a clean, contemporary dining space."
   },
   {
     "id": "ramen-harukiya-ogikubo",
@@ -2472,7 +2745,10 @@
     "maps_url": "https://maps.google.com/?cid=2908600202600794355",
     "image_url": "/images/ramen-harukiya-ogikubo.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.7050568,
+    "lng": 139.622389,
+    "description_en": "A founding name of Tokyo shoyu ramen, established 1949; an animal × seafood blended broth — a Tokyo must-eat."
   },
   {
     "id": "waketokuyama-roppongi",
@@ -2495,7 +2771,10 @@
     "maps_url": "https://maps.google.com/?cid=14733797335400899320",
     "image_url": "/images/waketokuyama-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.65575159999999,
+    "lng": 139.7230639,
+    "description_en": "Three Michelin stars; chef Yoshimitsu Nozaki's modern Japanese cuisine — top-tier kaiseki near Roppongi."
   },
   {
     "id": "sukiya-roppongi",
@@ -2518,7 +2797,10 @@
     "maps_url": "https://maps.google.com/?cid=8409295267092472057",
     "image_url": "/images/sukiya-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6619281,
+    "lng": 139.7330412,
+    "description_en": "A round-the-clock gyudon in Roppongi — the go-to late-night fill-up after the clubs close."
   },
   {
     "id": "ramen-ippudo-roppongi",
@@ -2540,7 +2822,10 @@
     "maps_url": "https://maps.google.com/?cid=18106961332775365491",
     "image_url": "/images/ramen-ippudo-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6638163,
+    "lng": 139.7322518,
+    "description_en": "Classic Shiromaru and Akamaru Hakata tonkotsu — a quick warm-up after the Roppongi art museums."
   },
   {
     "id": "yakiniku-roppongi-kabukicho",
@@ -2563,7 +2848,10 @@
     "maps_url": "https://maps.google.com/?cid=8976691265698228077",
     "image_url": "/images/yakiniku-roppongi-kabukicho.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6639053,
+    "lng": 139.731311,
+    "description_en": "Upscale wagyu yakiniku in Roppongi — well suited to business dinners or special celebrations."
   },
   {
     "id": "gyutan-rikyu-tokyostation",
@@ -2586,7 +2874,10 @@
     "maps_url": "https://maps.google.com/?cid=2463593884142320261",
     "image_url": "/images/gyutan-rikyu-tokyostation.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6806127,
+    "lng": 139.7683732,
+    "description_en": "The Tokyo Station branch of a famed Sendai gyutan shop; thick salt-grilled beef tongue with barley rice and oxtail soup."
   },
   {
     "id": "sushi-zanmai-tokyo",
@@ -2609,7 +2900,10 @@
     "maps_url": "https://maps.google.com/?cid=16402451146916583184",
     "image_url": "/images/sushi-zanmai-tokyo.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6659044,
+    "lng": 139.7706492,
+    "description_en": "A 24-hour, great-value popular sushi shop near Tokyo Station — handy any time around your train."
   },
   {
     "id": "ramen-ikaruga-tokyo-station",
@@ -2631,6 +2925,9 @@
     "maps_url": "https://maps.google.com/?cid=4503825489824180391",
     "image_url": "/images/ramen-ikaruga-tokyo-station.jpg",
     "featured": false,
-    "last_updated": "2026-05-17"
+    "last_updated": "2026-05-18",
+    "lat": 35.6804661,
+    "lng": 139.7679735,
+    "description_en": "A flagship of Tokyo Station's Ramen Street; seafood-shoyu ramen, super convenient around your train."
   }
 ]

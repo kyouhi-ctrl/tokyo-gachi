@@ -38,6 +38,8 @@ export interface Restaurant {
   google_rating: number;
   review_count: number;
   description_zh: string;
+  /** 英文描述，全量翻译后写入 */
+  description_en?: string;
   tags: string[];
   address: string;
   maps_url: string;

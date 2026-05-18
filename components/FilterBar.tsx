@@ -2,6 +2,7 @@
 
 import { AREAS, CUISINES } from '@/lib/constants';
 import type { AreaId, CuisineId } from '@/lib/types';
+import { useLang } from './LangContext';
 
 interface FilterBarProps {
   selectedCuisine: CuisineId | 'all';
@@ -16,19 +17,21 @@ export default function FilterBar({
   onCuisineChange,
   onAreaChange,
 }: FilterBarProps) {
+  const { lang, t } = useLang();
+
   return (
     <section className="border-b border-ink-100 bg-white">
       <div className="mx-auto max-w-6xl px-4 py-4">
         {/* 菜系 */}
         <div>
           <div className="mb-2 text-xs font-medium uppercase tracking-wider text-ink-500">
-            按菜系
+            {t.filterCuisine}
           </div>
           <div className="scrollbar-hide -mx-1 flex gap-2 overflow-x-auto px-1 pb-1">
             <PillButton
               active={selectedCuisine === 'all'}
               onClick={() => onCuisineChange('all')}
-              label="全部"
+              label={t.all}
               emoji="🍽"
             />
             {CUISINES.map((c) => (
@@ -36,7 +39,7 @@ export default function FilterBar({
                 key={c.id}
                 active={selectedCuisine === c.id}
                 onClick={() => onCuisineChange(c.id)}
-                label={c.label_zh}
+                label={lang === 'en' ? c.label_en : c.label_zh}
                 emoji={c.emoji}
               />
             ))}
@@ -46,20 +49,20 @@ export default function FilterBar({
         {/* 区域 */}
         <div className="mt-4">
           <div className="mb-2 text-xs font-medium uppercase tracking-wider text-ink-500">
-            按区域
+            {t.filterArea}
           </div>
           <div className="scrollbar-hide -mx-1 flex gap-2 overflow-x-auto px-1 pb-1">
             <PillButton
               active={selectedArea === 'all'}
               onClick={() => onAreaChange('all')}
-              label="全部"
+              label={t.all}
             />
             {AREAS.map((a) => (
               <PillButton
                 key={a.id}
                 active={selectedArea === a.id}
                 onClick={() => onAreaChange(a.id)}
-                label={a.label_zh}
+                label={lang === 'en' ? a.label_en : a.label_zh}
               />
             ))}
           </div>
