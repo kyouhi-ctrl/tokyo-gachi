@@ -9,7 +9,7 @@
     "price_range": 4,
     "google_place_id": "ChIJscN5u4-LGGARIyRklEh6-e4",
     "google_rating": 4.5,
-    "review_count": 512,
+    "review_count": 514,
     "description_zh": "米其林三星江户前寿司殿堂，主厨齐藤孝司亲握，醋饭温度与鱼料切刀皆为最高水准",
     "tags": [
       "米其林三星",
@@ -20,7 +20,7 @@
     "maps_url": "https://maps.google.com/?cid=17219929102373626915",
     "image_url": "/images/sushi-saito.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6653768,
     "lng": 139.7395884,
     "description_en": "Three-Michelin-star Edomae sushi temple; master Takashi Saito's rice temperature and knife work set the benchmark."
@@ -35,7 +35,7 @@
     "price_range": 4,
     "google_place_id": "ChIJVby9v-WLGGARZXCGPfhHpA4",
     "google_rating": 3.9,
-    "review_count": 860,
+    "review_count": 857,
     "description_zh": "纪录片《寿司之神》原型，小野二郎家族经营，银座地下传奇店",
     "tags": [
       "传奇老店",
@@ -46,7 +46,7 @@
     "maps_url": "https://maps.google.com/?cid=1055047344221220965",
     "image_url": "/images/sukiyabashi-jiro.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6727404,
     "lng": 139.7639378,
     "description_en": "The legendary basement counter from 'Jiro Dreams of Sushi', run by the Ono family in Ginza."
@@ -61,7 +61,7 @@
     "price_range": 3,
     "google_place_id": "ChIJE6NVO9mLGGARUiKvcRmKzN4",
     "google_rating": 4.5,
-    "review_count": 1872,
+    "review_count": 1874,
     "description_zh": "丰洲市场内顶流，凌晨排队即名场面，主厨配套（おまかせ）性价比极高",
     "tags": [
       "英文菜单",
@@ -72,7 +72,7 @@
     "maps_url": "https://maps.google.com/?cid=16054358613555094098",
     "image_url": "/images/sushi-dai.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6443009,
     "lng": 139.7824528,
     "description_en": "Toyosu Market's most famous sushi bar; the dawn queue is iconic and the omakase is superb value."
@@ -87,7 +87,7 @@
     "price_range": 1,
     "google_place_id": "ChIJOWucdKiMGGARbppa4b4CKA8",
     "google_rating": 4.4,
-    "review_count": 5066,
+    "review_count": 5080,
     "description_zh": "天然豚骨汤底，单人格子座位，中文/英文订单表，初次到日本的安心之选",
     "tags": [
       "中文菜单",
@@ -99,7 +99,7 @@
     "maps_url": "https://maps.google.com/?cid=1092125928485198446",
     "image_url": "/images/ichiran-shibuya.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6611185,
     "lng": 139.7009846,
     "description_en": "Natural tonkotsu broth in solo booths, with Chinese/English order sheets — a safe first stop in Japan."
@@ -114,7 +114,7 @@
     "price_range": 1,
     "google_place_id": "ChIJR7VjvuCLGGARwo4yz3p2y4A",
     "google_rating": 4.4,
-    "review_count": 2744,
+    "review_count": 2750,
     "description_zh": "白丸/赤丸经典豚骨，店内空间宽敞干净，适合家庭用餐",
     "tags": [
       "英文菜单",
@@ -125,7 +125,7 @@
     "maps_url": "https://maps.google.com/?cid=9280641726961323714",
     "image_url": "/images/ippudo-ginza.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.670693,
     "lng": 139.7674279,
     "description_en": "Classic Shiromaru and Akamaru tonkotsu in a spacious, clean dining room — great for families."
@@ -140,7 +140,7 @@
     "price_range": 2,
     "google_place_id": "ChIJSeZ3_8-NGGAR7riaRGOeyb8",
     "google_rating": 4.1,
-    "review_count": 827,
+    "review_count": 834,
     "description_zh": "世界首家米其林星级拉面店，黑松露酱油汤头是必点",
     "tags": [
       "米其林",
@@ -151,7 +151,7 @@
     "maps_url": "https://maps.google.com/?cid=13819751080753019118",
     "image_url": "/images/tsuta.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7329475,
     "lng": 139.7406286,
     "description_en": "The world's first Michelin-starred ramen shop; the black-truffle shoyu broth is a must."
@@ -166,7 +166,7 @@
     "price_range": 3,
     "google_place_id": "ChIJX2Mb_eWLGGARvhx7F4hr3FA",
     "google_rating": 4.4,
-    "review_count": 933,
+    "review_count": 935,
     "description_zh": "米其林二星，蔬菜天妇罗大师近藤文夫的代表作，红薯天妇罗一绝",
     "tags": [
       "米其林二星",
@@ -176,7 +176,7 @@
     "maps_url": "https://maps.google.com/?cid=5826650250164247742",
     "image_url": "/images/tempura-kondo.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6711696,
     "lng": 139.7631786,
     "description_en": "Two Michelin stars; vegetable-tempura master Fumio Kondo's signature sweet-potato tempura is legendary."
@@ -191,7 +191,7 @@
     "price_range": 2,
     "google_place_id": "ChIJj3qsV9qMGGARM4vedGDY0k0",
     "google_rating": 4.1,
-    "review_count": 2917,
+    "review_count": 2918,
     "description_zh": "1924年创业的天妇罗百年老铺，午餐套餐性价比超高",
     "tags": [
       "百年老铺",
@@ -202,7 +202,7 @@
     "maps_url": "https://maps.google.com/?cid=5607782394818890547",
     "image_url": "/images/tsunahachi-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6908459,
     "lng": 139.7034867,
     "description_en": "A tempura institution since 1924; the lunch sets are outstanding value."
@@ -227,7 +227,7 @@
     "maps_url": "https://maps.google.com/?cid=16306392712382116241",
     "image_url": "/images/toriki-meguro.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6342782,
     "lng": 139.7168892,
     "description_en": "A veteran Meguro yakitori shop grilled over binchotan charcoal; chicken sashimi is the hidden menu."
@@ -242,7 +242,7 @@
     "price_range": 1,
     "google_place_id": "ChIJd-ajX9qMGGARTsx5kDdaCFU",
     "google_rating": 3.6,
-    "review_count": 314,
+    "review_count": 315,
     "description_zh": "全品 360 円均一价烧鸟连锁，年轻人居酒屋首选，热闹氛围",
     "tags": [
       "均一价",
@@ -253,7 +253,7 @@
     "maps_url": "https://maps.google.com/?cid=6127246487731162190",
     "image_url": "/images/torikizoku-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6905531,
     "lng": 139.7027696,
     "description_en": "A flat-price (¥360) yakitori chain — a lively izakaya favorite among young locals."
@@ -268,7 +268,7 @@
     "price_range": 2,
     "google_place_id": "ChIJa2mnui2NGGAR7z4tvWkl7HM",
     "google_rating": 4.4,
-    "review_count": 5030,
+    "review_count": 5048,
     "description_zh": "改建自浴场的炸猪排名店，肉质柔软到可用筷子切开",
     "tags": [
       "英文菜单",
@@ -279,7 +279,7 @@
     "maps_url": "https://maps.google.com/?cid=8353092544941080303",
     "image_url": "/images/maisen-aoyama.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.667925,
     "lng": 139.7115365,
     "description_en": "Famous tonkatsu in a converted bathhouse; the pork is so tender you can cut it with chopsticks."
@@ -294,7 +294,7 @@
     "price_range": 2,
     "google_place_id": "ChIJPZbXJxmLGGAR9-TgvbGSk-Y",
     "google_rating": 4.2,
-    "review_count": 2806,
+    "review_count": 2809,
     "description_zh": "1939 年创业，开放式厨房表演式炸制，肉汁丰沛",
     "tags": [
       "百年老铺",
@@ -304,7 +304,7 @@
     "maps_url": "https://maps.google.com/?cid=16614784742392390903",
     "image_url": "/images/tonki-meguro.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6336071,
     "lng": 139.7142945,
     "description_en": "Since 1939; watch the theatrical frying at the open kitchen — juicy and satisfying."
@@ -319,7 +319,7 @@
     "price_range": 2,
     "google_place_id": "ChIJOVajM56LGGARz8yztBKxm0I",
     "google_rating": 4.2,
-    "review_count": 1840,
+    "review_count": 1843,
     "description_zh": "200 年历史的白色更科荞麦面元祖，口感清雅",
     "tags": [
       "百年老铺",
@@ -329,7 +329,7 @@
     "maps_url": "https://maps.google.com/?cid=4799624521792605391",
     "image_url": "/images/sarashina-horii.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.656802,
     "lng": 139.7328803,
     "description_en": "The 200-year-old originator of white Sarashina soba — delicate and elegant."
@@ -344,7 +344,7 @@
     "price_range": 2,
     "google_place_id": "ChIJcZmGAZuLGGARFH9qHiK5xVg",
     "google_rating": 4.1,
-    "review_count": 3947,
+    "review_count": 3951,
     "description_zh": "面碗超大的乌冬专门店，咖喱乌冬、明太子奶油乌冬为招牌",
     "tags": [
       "深夜营业",
@@ -355,7 +355,7 @@
     "maps_url": "https://maps.google.com/?cid=6396722401939980052",
     "image_url": "/images/tsurutontan-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6649932,
     "lng": 139.7298282,
     "description_en": "An udon specialist famous for giant bowls; curry udon and mentaiko-cream udon are the signatures."
@@ -370,7 +370,7 @@
     "price_range": 3,
     "google_place_id": "ChIJQYuIzQmLGGARAFZdM-5e7-s",
     "google_rating": 4.4,
-    "review_count": 1059,
+    "review_count": 1061,
     "description_zh": "顶级和牛烧肉，每月特选 A5 黑毛和牛，需提前 1 个月预约",
     "tags": [
       "A5和牛",
@@ -381,7 +381,7 @@
     "maps_url": "https://maps.google.com/?cid=17000911495503894016",
     "image_url": "/images/yakiniku-jumbo-hannare.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6469895,
     "lng": 139.7314105,
     "description_en": "Top-tier wagyu yakiniku with monthly A5 black-wagyu selections; book a month ahead."
@@ -396,7 +396,7 @@
     "price_range": 4,
     "google_place_id": "ChIJaZF5wHmLGGARycW1JhshDjY",
     "google_rating": 4,
-    "review_count": 540,
+    "review_count": 542,
     "description_zh": "米其林三星，主厨山本征治融合分子料理的现代怀石，鸟瞰东京夜景",
     "tags": [
       "米其林三星",
@@ -407,7 +407,7 @@
     "maps_url": "https://maps.google.com/?cid=3895087128219338185",
     "image_url": "/images/ryugin.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6742704,
     "lng": 139.7592781,
     "description_en": "Three Michelin stars; chef Seiji Yamamoto's modern kaiseki blends molecular technique, with sweeping Tokyo night views."
@@ -433,7 +433,7 @@
     "maps_url": "https://maps.google.com/?cid=14491788304696398457",
     "image_url": "/images/gindaco-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6585083,
     "lng": 139.7031736,
     "description_en": "Japan's national takoyaki chain — crisp outside, molten inside; the perfect snack while shopping."
@@ -448,7 +448,7 @@
     "price_range": 3,
     "google_place_id": "ChIJreMNLr2LGGARZuiWrMEdha8",
     "google_rating": 4.3,
-    "review_count": 1642,
+    "review_count": 1645,
     "description_zh": "1800 年代创业的鳗鱼名店，江户前关东风蒸烤工艺，鳗鱼饭分级清晰",
     "tags": [
       "百年老铺",
@@ -459,7 +459,7 @@
     "maps_url": "https://maps.google.com/?cid=12647547846201370726",
     "image_url": "/images/nodaiwa.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6581233,
     "lng": 139.7433709,
     "description_en": "An eel institution since the 1800s using Kanto steam-then-grill technique, with clearly tiered unagi sets."
@@ -474,7 +474,7 @@
     "price_range": 1,
     "google_place_id": "ChIJSyxsj6iOGGARvBM2kRLvJZs",
     "google_rating": 4.3,
-    "review_count": 2430,
+    "review_count": 2437,
     "description_zh": "日式咖喱国民连锁，辣度/配料/饭量全可定制，深夜也开",
     "tags": [
       "便宜",
@@ -485,7 +485,7 @@
     "maps_url": "https://maps.google.com/?cid=11179604513041814460",
     "image_url": "/images/coco-ichibanya-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6984515,
     "lng": 139.77577,
     "description_en": "Japan's national curry chain; spice level, toppings and rice portion all customizable, open late."
@@ -500,7 +500,7 @@
     "price_range": 3,
     "google_place_id": "ChIJ99yU6b-OGGAR2NfOuMg0JUA",
     "google_rating": 4.5,
-    "review_count": 2443,
+    "review_count": 2448,
     "description_zh": "1895 年创业的寿喜烧/涮锅老铺，黑毛和牛专用，氛围典雅",
     "tags": [
       "百年老铺",
@@ -511,7 +511,7 @@
     "maps_url": "https://maps.google.com/?cid=4622158629264349144",
     "image_url": "/images/imahan-asakusa.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7139345,
     "lng": 139.7922291,
     "description_en": "A sukiyaki and shabu-shabu institution since 1895, using black wagyu in an elegant setting."
@@ -526,7 +526,7 @@
     "price_range": 4,
     "google_place_id": "ChIJu3eG8uiLGGAR14kVvD_YrHI",
     "google_rating": 4.4,
-    "review_count": 2555,
+    "review_count": 2562,
     "description_zh": "1935年创业的银座寿司名门，昭和天皇御用达，经典江户前技法传承至今",
     "tags": [
       "百年老铺",
@@ -537,7 +537,7 @@
     "maps_url": "https://maps.google.com/?cid=8263217184568084951",
     "image_url": "/images/ginza-kyubei.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6684684,
     "lng": 139.7612701,
     "description_en": "A prestigious Ginza sushi house since 1935, once served the Showa Emperor, carrying on classic Edomae craft."
@@ -552,7 +552,7 @@
     "price_range": 1,
     "google_place_id": "ChIJ-SFJXgCNGGARjAlrBY5hHL4",
     "google_rating": 4.6,
-    "review_count": 744,
+    "review_count": 757,
     "description_zh": "日本最大连锁回转寿司，食材新鲜平价，全程触控屏点单无语言障碍",
     "tags": [
       "英文菜单",
@@ -563,7 +563,7 @@
     "maps_url": "https://maps.google.com/?cid=13698931429158357388",
     "image_url": "/images/sushiro-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.701526,
     "lng": 139.7711875,
     "description_en": "Japan's largest conveyor-belt sushi chain — fresh, affordable, with touch-screen ordering and no language barrier."
@@ -578,7 +578,7 @@
     "price_range": 2,
     "google_place_id": "ChIJU-JXDf2LGGARHsancfqkHyE",
     "google_rating": 4.4,
-    "review_count": 5163,
+    "review_count": 5175,
     "description_zh": "东京最排队的海鲜丼之一，可选鲜鱼刺身版或汤泡饭版，午市常排 1 小时",
     "tags": [
       "需排队",
@@ -589,7 +589,7 @@
     "maps_url": "https://maps.google.com/?cid=2386807723085252126",
     "image_url": "/images/tsujihan-nihonbashi.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6807167,
     "lng": 139.7715771,
     "description_en": "One of Tokyo's most queued seafood bowls; choose sashimi-style or dashi-poured — lunch waits often hit an hour."
@@ -604,7 +604,7 @@
     "price_range": 1,
     "google_place_id": "ChIJaTXpw6mMGGARP-d-_tbssVE",
     "google_rating": 4.3,
-    "review_count": 8761,
+    "review_count": 8783,
     "description_zh": "新干线式超高速寿司传送带，平板点单直接送到面前，网红体验打卡必去",
     "tags": [
       "英文菜单",
@@ -615,7 +615,7 @@
     "maps_url": "https://maps.google.com/?cid=5886746596086835007",
     "image_url": "/images/uobei-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6594349,
     "lng": 139.6979207,
     "description_en": "Shinkansen-style high-speed sushi delivery; order on a tablet and it zooms to your seat — a fun must-try."
@@ -630,7 +630,7 @@
     "price_range": 1,
     "google_place_id": "ChIJtxODuv6LGGARnELlksWTmZo",
     "google_rating": 4.1,
-    "review_count": 5199,
+    "review_count": 5210,
     "description_zh": "东京站地下浓厚系蘸面代表，鱼介豚骨汤底超浓郁，面条粗且有嚼劲",
     "tags": [
       "需排队",
@@ -641,7 +641,7 @@
     "maps_url": "https://maps.google.com/?cid=11140097630059971228",
     "image_url": "/images/rokurinsha.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6800519,
     "lng": 139.7678455,
     "description_en": "Tokyo Station's flagship rich tsukemen; an intense seafood-tonkotsu broth with thick, chewy noodles."
@@ -656,7 +656,7 @@
     "price_range": 1,
     "google_place_id": "ChIJ508frs-MGGARnIKrb_tkai0",
     "google_rating": 4.3,
-    "review_count": 5526,
+    "review_count": 5536,
     "description_zh": "新宿西口蘸面名店，鸡白汤 × 鱼介双重汤底，整理券制不需要久等",
     "tags": [
       "需排队",
@@ -667,7 +667,7 @@
     "maps_url": "https://maps.google.com/?cid=3272539110311166620",
     "image_url": "/images/fuunji-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6868343,
     "lng": 139.6966393,
     "description_en": "A famed Shinjuku-west tsukemen shop with chicken-paitan × seafood double broth; the ticket system keeps waits short."
@@ -682,7 +682,7 @@
     "price_range": 2,
     "google_place_id": "ChIJ5_kEroKLGGARU4NlyGSJt8Y",
     "google_rating": 4.5,
-    "review_count": 3205,
+    "review_count": 3325,
     "description_zh": "柚子盐清汤拉面，清爽不油腻，设计感强，海外也有分店，外国游客高度推荐",
     "tags": [
       "英文菜单",
@@ -693,7 +693,7 @@
     "maps_url": "https://maps.google.com/?cid=14319064606199612243",
     "image_url": "/images/afuri-roppongi.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.663669,
     "lng": 139.732601,
     "description_en": "Yuzu-shio clear-broth ramen — light and refreshing; stylish, with overseas branches and high marks from visitors."
@@ -708,7 +708,7 @@
     "price_range": 1,
     "google_place_id": "ChIJVVWZhGiNGGARRjWApJoteLI",
     "google_rating": 4.1,
-    "review_count": 1790,
+    "review_count": 1791,
     "description_zh": "辣度挑战系拉面，蒙古担担面是招牌，辣度从 0 到 9 可选，嗜辣必试",
     "tags": [
       "辣味",
@@ -719,7 +719,7 @@
     "maps_url": "https://maps.google.com/?cid=12860078878164530502",
     "image_url": "/images/mouko-tanmen-nakamoto.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7293048,
     "lng": 139.7148117,
     "description_en": "Spice-challenge ramen; the signature Mongolian tanmen lets you pick heat from 0 to 9 — a must for chili lovers."
@@ -734,7 +734,7 @@
     "price_range": 3,
     "google_place_id": "ChIJbVNcVO-LGGARKdnkhXmDs0s",
     "google_rating": 4.3,
-    "review_count": 374,
+    "review_count": 375,
     "description_zh": "1930年创业天妇罗老铺，芝麻油炸制，虾天妇罗与饭套装是经典选择",
     "tags": [
       "百年老铺",
@@ -744,7 +744,7 @@
     "maps_url": "https://maps.google.com/?cid=5454848131636451625",
     "image_url": "/images/tenichi-ginza.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6709396,
     "lng": 139.7625125,
     "description_en": "A tempura institution since 1930, fried in sesame oil; the shrimp tempura set is the classic pick."
@@ -759,7 +759,7 @@
     "price_range": 1,
     "google_place_id": "ChIJKf07XL-OGGARRGhexDJw5TQ",
     "google_rating": 4.1,
-    "review_count": 1917,
+    "review_count": 1920,
     "description_zh": "平价天妇罗丼连锁，约 600 円即可吃到虾+蔬菜天妇罗套餐，旅游省钱之选",
     "tags": [
       "便宜",
@@ -770,7 +770,7 @@
     "maps_url": "https://maps.google.com/?cid=3811576022984190020",
     "image_url": "/images/tenya-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7114847,
     "lng": 139.7928011,
     "description_en": "A budget tempura-bowl chain; a shrimp-and-vegetable tendon set for around ¥600 — easy on the travel wallet."
@@ -785,7 +785,7 @@
     "price_range": 3,
     "google_place_id": "ChIJEwlemnqLGGARhwMuRpwpkBI",
     "google_rating": 4.3,
-    "review_count": 7984,
+    "review_count": 8014,
     "description_zh": "电影《杀死比尔》取景地原型，古民家改建居酒屋，串烧与荞麦面同样出色",
     "tags": [
       "网红打卡",
@@ -796,7 +796,7 @@
     "maps_url": "https://maps.google.com/?cid=1337614840498094983",
     "image_url": "/images/gonpachi-roppongi.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6601742,
     "lng": 139.7235797,
     "description_en": "The izakaya that inspired the 'Kill Bill' set; a converted folk house where skewers and soba both shine."
@@ -811,7 +811,7 @@
     "price_range": 2,
     "google_place_id": "ChIJqVx8GKqMGGARvhGAdQesv6I",
     "google_rating": 4.6,
-    "review_count": 3220,
+    "review_count": 3256,
     "description_zh": "大阪串炸东京连锁，猪肉/蔬菜/海鲜各类串炸，酱汁不能二次蘸是规矩",
     "tags": [
       "热闹",
@@ -822,7 +822,7 @@
     "maps_url": "https://maps.google.com/?cid=11727281102732136894",
     "image_url": "/images/kushikatsu-tanaka-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.65888169999999,
     "lng": 139.695824,
     "description_en": "An Osaka kushikatsu chain in Tokyo; pork, vegetable and seafood skewers — and remember, no double-dipping the sauce."
@@ -837,7 +837,7 @@
     "price_range": 2,
     "google_place_id": "ChIJf-M-8tmMGGARgeiTNFHjs3A",
     "google_rating": 3.7,
-    "review_count": 1416,
+    "review_count": 1418,
     "description_zh": "24小时海鲜居酒屋，帆立贝、牡蛎等可在桌边自己烤，深夜也热闹",
     "tags": [
       "24小时",
@@ -848,7 +848,7 @@
     "maps_url": "https://maps.google.com/?cid=8121084490993100929",
     "image_url": "/images/isomaru-suisan-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.692537,
     "lng": 139.7030539,
     "description_en": "A 24-hour seafood izakaya where you grill scallops and oysters at your table — lively even late at night."
@@ -874,7 +874,7 @@
     "maps_url": "https://maps.google.com/?cid=13571770056714267083",
     "image_url": "/images/katsukura-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6876313,
     "lng": 139.7021224,
     "description_en": "A refined Kyoto-born tonkatsu shop; grinding your own sesame is part of the ritual, the cutlet crisp and juicy."
@@ -900,7 +900,7 @@
     "maps_url": "https://maps.google.com/?cid=7688725612950659377",
     "image_url": "/images/wako-tokyo-station.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.679388,
     "lng": 139.7714138,
     "description_en": "Convenient tonkatsu inside Tokyo Station with free refills of rice, miso soup and cabbage — great-value station dining."
@@ -915,7 +915,7 @@
     "price_range": 1,
     "google_place_id": "ChIJWxYl66eMGGAR2VQpE9JFK5Q",
     "google_rating": 3.7,
-    "review_count": 587,
+    "review_count": 586,
     "description_zh": "现场手工制作讃岐乌冬，约 500 円一碗，天妇罗单点自选，日本国民级午餐",
     "tags": [
       "便宜",
@@ -926,7 +926,7 @@
     "maps_url": "https://maps.google.com/?cid=10676704110178817241",
     "image_url": "/images/marugame-seimen-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6614203,
     "lng": 139.7025453,
     "description_en": "Sanuki udon made fresh on-site for around ¥500 a bowl, with self-serve tempura — a national lunch staple."
@@ -941,7 +941,7 @@
     "price_range": 2,
     "google_place_id": "ChIJjUmuJIGLGGARvk5zkpaF-4o",
     "google_rating": 4.2,
-    "review_count": 572,
+    "review_count": 575,
     "description_zh": "江户三大荞麦发祥地之一，冷盛荞麦搭配本葛粉蘸汁，清雅古典",
     "tags": [
       "百年老铺",
@@ -951,7 +951,7 @@
     "maps_url": "https://maps.google.com/?cid=10014745078137048766",
     "image_url": "/images/soba-sunaba-akasaka.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.67116,
     "lng": 139.736185,
     "description_en": "One of the birthplaces of Edo's great soba lineages — chilled soba with kuzu-based dipping sauce, classic and refined."
@@ -966,7 +966,7 @@
     "price_range": 3,
     "google_place_id": "ChIJZ1KdbdqMGGAR55e6P8KB1OY",
     "google_rating": 4.3,
-    "review_count": 1347,
+    "review_count": 1348,
     "description_zh": "高端和牛烧肉连锁，泡菜与沙拉吧随意取，适合庆祝纪念日用餐",
     "tags": [
       "英文菜单",
@@ -977,7 +977,7 @@
     "maps_url": "https://maps.google.com/?cid=16633061995078916071",
     "image_url": "/images/jojoen-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6912541,
     "lng": 139.7019627,
     "description_en": "An upscale wagyu yakiniku chain with a help-yourself kimchi and salad bar — good for celebrations."
@@ -992,7 +992,7 @@
     "price_range": 2,
     "google_place_id": "ChIJ97HnLEeNGGARqGnr0h0ZVjI",
     "google_rating": 3.6,
-    "review_count": 112,
+    "review_count": 114,
     "description_zh": "日本最大烧肉连锁，无烟烤网+多样套餐，初次体验烧肉的友好入门之选",
     "tags": [
       "英文菜单",
@@ -1003,7 +1003,7 @@
     "maps_url": "https://maps.google.com/?cid=3627114165776902568",
     "image_url": "/images/gyukaku-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6589406,
     "lng": 139.6972559,
     "description_en": "Japan's largest yakiniku chain with smokeless grills and varied sets — a friendly intro to grilling your own meat."
@@ -1018,7 +1018,7 @@
     "price_range": 1,
     "google_place_id": "ChIJgUsuDiaNGGAR1dCjK6_96ow",
     "google_rating": 4,
-    "review_count": 1050,
+    "review_count": 1052,
     "description_zh": "单人烧肉专门店，独立排烟罩，约 1000 円可吃到牛肉套餐，独旅必去",
     "tags": [
       "单人用餐",
@@ -1029,7 +1029,7 @@
     "maps_url": "https://maps.google.com/?cid=10154207238653464789",
     "image_url": "/images/yakiniku-like-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6939966,
     "lng": 139.6977497,
     "description_en": "A solo-yakiniku specialist with personal smoke hoods; a beef set for around ¥1,000 — ideal for solo travelers."
@@ -1055,7 +1055,7 @@
     "maps_url": "https://maps.google.com/?cid=12303054679655534315",
     "image_url": "/images/kanda-minami-aoyama.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6675872,
     "lng": 139.7176163,
     "description_en": "Three Michelin stars; chef Hiroyuki Kanda's seasonal kaiseki uses peak-fresh ingredients — a pinnacle of Japanese cuisine."
@@ -1070,7 +1070,7 @@
     "price_range": 4,
     "google_place_id": "ChIJiSRxIluMGGARgaWss9mCC6o",
     "google_rating": 4.6,
-    "review_count": 281,
+    "review_count": 282,
     "description_zh": "米其林三星，神楽坂石板路上的现代怀石，以出汁技术闻名，极致的鲜味哲学",
     "tags": [
       "米其林三星",
@@ -1081,7 +1081,7 @@
     "maps_url": "https://maps.google.com/?cid=12253031082725516673",
     "image_url": "/images/kohaku-kagurazaka.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.700823,
     "lng": 139.7408303,
     "description_en": "Three Michelin stars on a Kagurazaka cobblestone lane; modern kaiseki renowned for its dashi mastery and umami philosophy."
@@ -1107,7 +1107,7 @@
     "maps_url": "https://maps.google.com/?cid=15093122525121686287",
     "image_url": "/images/sometaro-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.71190929999999,
     "lng": 139.7909269,
     "description_en": "An okonomiyaki shop in a charming Showa-era building; cook it yourself on the griddle for a retro experience."
@@ -1133,7 +1133,7 @@
     "maps_url": "https://maps.google.com/?cid=8898190138000096689",
     "image_url": "/images/onyasai-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6902692,
     "lng": 139.7020413,
     "description_en": "A multi-broth shabu-shabu chain with unlimited vegetables and many pork/beef sets, clean and spacious."
@@ -1148,7 +1148,7 @@
     "price_range": 2,
     "google_place_id": "ChIJuw3FXC2NGGARPWE3FWdCLy4",
     "google_rating": 3.6,
-    "review_count": 404,
+    "review_count": 405,
     "description_zh": "涮涮锅吃到饱，汤底/涮料/甜点均可无限，约 2000 円满足感极高",
     "tags": [
       "吃到饱",
@@ -1159,7 +1159,7 @@
     "maps_url": "https://maps.google.com/?cid=3327951660155101501",
     "image_url": "/images/shabuyo-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7304993,
     "lng": 139.7164454,
     "description_en": "All-you-can-eat shabu-shabu — unlimited broths, ingredients and dessert for around ¥2,000."
@@ -1174,7 +1174,7 @@
     "price_range": 3,
     "google_place_id": "ChIJ_5TBNsaOGGARM7Z-AoEhDso",
     "google_rating": 4,
-    "review_count": 1122,
+    "review_count": 1124,
     "description_zh": "隅田川畔的鳗鱼老铺，关东蒸烤工艺，鳗鱼饭分量扎实，窗外景色极佳",
     "tags": [
       "河畔景观",
@@ -1184,7 +1184,7 @@
     "maps_url": "https://maps.google.com/?cid=14559611483311748659",
     "image_url": "/images/maekawa-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7082018,
     "lng": 139.7963058,
     "description_en": "A long-established eel house on the Sumida River; Kanto steam-grill technique, generous portions and lovely river views."
@@ -1210,7 +1210,7 @@
     "maps_url": "https://maps.google.com/?cid=13003985488831384921",
     "image_url": "/images/yoshinoya-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.660319,
     "lng": 139.696868,
     "description_en": "Japan's national gyudon brand; the classic beef bowl for around ¥500, open late."
@@ -1225,7 +1225,7 @@
     "price_range": 1,
     "google_place_id": "ChIJp7g9CayMGGARXjCGtC8AzOw",
     "google_rating": 3.5,
-    "review_count": 431,
+    "review_count": 432,
     "description_zh": "亲子丼与和风牛丼专门连锁，出汁鲜甜，比吉野家更和风细腻",
     "tags": [
       "便宜",
@@ -1236,7 +1236,7 @@
     "maps_url": "https://maps.google.com/?cid=17063013293092122718",
     "image_url": "/images/nakau-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6624326,
     "lng": 139.695384,
     "description_en": "A chain specializing in oyakodon and Japanese-style gyudon — a sweeter dashi, more delicate than Yoshinoya."
@@ -1251,7 +1251,7 @@
     "price_range": 1,
     "google_place_id": "ChIJjfATANeMGGARsovj1jgpkQQ",
     "google_rating": 3.6,
-    "review_count": 492,
+    "review_count": 493,
     "description_zh": "日式家庭料理连锁，烤鱼定食/鸡肉丼/蔬菜套餐均衡健康，适合不想踩雷的日常餐",
     "tags": [
       "健康",
@@ -1262,7 +1262,7 @@
     "maps_url": "https://maps.google.com/?cid=329089571874900914",
     "image_url": "/images/ootoya-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6933679,
     "lng": 139.6988554,
     "description_en": "A Japanese home-style chain with grilled-fish sets, chicken bowls and balanced, healthy meals — a reliable everyday choice."
@@ -1277,7 +1277,7 @@
     "price_range": 3,
     "google_place_id": "ChIJDz-xgyCMGGARTTlkSDiqvr8",
     "google_rating": 4.1,
-    "review_count": 3100,
+    "review_count": 3101,
     "description_zh": "300年历史上野鳗鱼名门，关东蒸烤鳗鱼饭，紧邻上野公园，赏花必访",
     "tags": [
       "百年老铺",
@@ -1287,7 +1287,7 @@
     "maps_url": "https://maps.google.com/?cid=13816667865528678733",
     "image_url": "/images/izuei-ueno.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.709671,
     "lng": 139.7726906,
     "description_en": "A 300-year-old Ueno eel house; Kanto-style grilled unagi right by Ueno Park — a cherry-blossom-season favorite."
@@ -1302,7 +1302,7 @@
     "price_range": 2,
     "google_place_id": "ChIJAQCZAJ-OGGARq9UxjdESVw4",
     "google_rating": 4.1,
-    "review_count": 1996,
+    "review_count": 2000,
     "description_zh": "江户薮系荞麦面老铺，鸭汁荞麦面为招牌，老东京风情满满",
     "tags": [
       "百年老铺",
@@ -1312,7 +1312,7 @@
     "maps_url": "https://maps.google.com/?cid=1033315330731136427",
     "image_url": "/images/yabu-soba-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7101954,
     "lng": 139.7754618,
     "description_en": "A veteran Edo Yabu-lineage soba shop; the duck-broth soba is the signature, full of old-Tokyo character."
@@ -1327,7 +1327,7 @@
     "price_range": 3,
     "google_place_id": "ChIJc6qdmPqNGGARydJjzkV-sT0",
     "google_rating": 4.1,
-    "review_count": 2048,
+    "review_count": 2052,
     "description_zh": "1872年创业西餐老铺，牛肉炖汤是日本洋食起源之一，上野公园内",
     "tags": [
       "百年老铺",
@@ -1338,7 +1338,7 @@
     "maps_url": "https://maps.google.com/?cid=4445473145471881929",
     "image_url": "/images/seiyoken-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7142277,
     "lng": 139.7721777,
     "description_en": "A Western-cuisine institution since 1872 inside Ueno Park; its beef stew is part of Japan's yoshoku origins."
@@ -1363,7 +1363,7 @@
     "maps_url": "https://maps.google.com/?cid=12223294268363597840",
     "image_url": "/images/torigin-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7099555,
     "lng": 139.7743957,
     "description_en": "Binchotan-grilled yakitori; chicken skin and cartilage are the standouts in a lively Showa-era shop."
@@ -1378,7 +1378,7 @@
     "price_range": 1,
     "google_place_id": "ChIJQcv8RqCOGGARBRXBpFaflOw",
     "google_rating": 4,
-    "review_count": 3475,
+    "review_count": 3480,
     "description_zh": "辣度挑战系拉面，上野店人气高，辣味蒙古担担面饱腹又刺激",
     "tags": [
       "辣味",
@@ -1388,7 +1388,7 @@
     "maps_url": "https://maps.google.com/?cid=17047425683984291077",
     "image_url": "/images/nakamoto-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7059358,
     "lng": 139.7743766,
     "description_en": "Spice-challenge ramen; this popular Ueno branch's fiery Mongolian tanmen is both filling and thrilling."
@@ -1403,7 +1403,7 @@
     "price_range": 2,
     "google_place_id": "ChIJ82LowZ-OGGARKB9j4mPBZ3Q",
     "google_rating": 4.3,
-    "review_count": 3117,
+    "review_count": 3123,
     "description_zh": "上野周边口碑炸猪排，份量扎实性价比高，午市多人排队",
     "tags": [
       "份量大",
@@ -1413,7 +1413,7 @@
     "maps_url": "https://maps.google.com/?cid=8387885465744908072",
     "image_url": "/images/tonkatsu-isakichi-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7086737,
     "lng": 139.7738358,
     "description_en": "A well-loved tonkatsu near Ueno; hearty portions and great value, with lunchtime queues."
@@ -1428,7 +1428,7 @@
     "price_range": 2,
     "google_place_id": "ChIJt7jaAKCOGGAR6LBiQNZwYUY",
     "google_rating": 4.1,
-    "review_count": 536,
+    "review_count": 537,
     "description_zh": "仙台名物牛舌专门店，厚切盐烤牛舌配麦饭和牛尾汤，日本专有体验",
     "tags": [
       "牛舌专门",
@@ -1438,7 +1438,7 @@
     "maps_url": "https://maps.google.com/?cid=5071458720901411048",
     "image_url": "/images/gyutan-rikyu-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7068717,
     "lng": 139.7729996,
     "description_en": "A specialist in Sendai's famous beef tongue; thick-cut salt-grilled gyutan with barley rice and oxtail soup."
@@ -1453,7 +1453,7 @@
     "price_range": 1,
     "google_place_id": "ChIJKQxGN6COGGARhyIcBWO6Nyk",
     "google_rating": 3.9,
-    "review_count": 732,
+    "review_count": 734,
     "description_zh": "平价天妇罗丼连锁上野店，600円虾蔬天妇罗套餐，逛浅草/上野必吃",
     "tags": [
       "便宜",
@@ -1464,7 +1464,7 @@
     "maps_url": "https://maps.google.com/?cid=2970047413724390023",
     "image_url": "/images/tenya-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7069085,
     "lng": 139.7747403,
     "description_en": "The Ueno branch of a budget tendon chain; a ¥600 shrimp-and-vegetable set, handy while exploring Ueno and Asakusa."
@@ -1479,7 +1479,7 @@
     "price_range": 2,
     "google_place_id": "ChIJsW9uBKCOGGAR3hWpxKX-ag0",
     "google_rating": 3.8,
-    "review_count": 3864,
+    "review_count": 3872,
     "description_zh": "多汤底吃到饱火锅，中文菜单，价位亲民，全家游必去",
     "tags": [
       "吃到饱",
@@ -1490,7 +1490,7 @@
     "maps_url": "https://maps.google.com/?cid=966865057946867166",
     "image_url": "/images/hotpot-nabezou-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7068605,
     "lng": 139.7731332,
     "description_en": "All-you-can-eat hot pot with multiple broths, a Chinese menu and friendly prices — great for families."
@@ -1504,8 +1504,8 @@
     "area": "ueno",
     "price_range": 1,
     "google_place_id": "ChIJ9VXFCQCPGGARlE6CWfWsZbA",
-    "google_rating": 3.7,
-    "review_count": 61,
+    "google_rating": 3.8,
+    "review_count": 69,
     "description_zh": "平价回转寿司连锁，触控点单防护盖设计，家庭出行首选",
     "tags": [
       "便宜",
@@ -1516,7 +1516,7 @@
     "maps_url": "https://maps.google.com/?cid=12710755693091770004",
     "image_url": "/images/kura-sushi-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7074435,
     "lng": 139.776653,
     "description_en": "A budget conveyor-sushi chain with touch ordering and hygienic covered plates — a family favorite."
@@ -1541,7 +1541,7 @@
     "maps_url": "https://maps.google.com/?cid=3100737898427981153",
     "image_url": "/images/okonomiyaki-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7007116,
     "lng": 139.7728273,
     "description_en": "The Tokyo branch of an authentic Osaka okonomiyaki chain; thin and crisp, with pork-and-egg as the signature."
@@ -1556,7 +1556,7 @@
     "price_range": 1,
     "google_place_id": "ChIJ2ctgyp6OGGARGZaEvjKB-UY",
     "google_rating": 3.6,
-    "review_count": 920,
+    "review_count": 924,
     "description_zh": "上野必经的24小时牛丼，深夜逛完博物馆或夜市的最佳收尾",
     "tags": [
       "便宜",
@@ -1567,7 +1567,7 @@
     "maps_url": "https://maps.google.com/?cid=5114260906800616985",
     "image_url": "/images/yoshinoya-ueno.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.71241029999999,
     "lng": 139.7778238,
     "description_en": "A 24-hour gyudon spot in Ueno — the perfect late-night finish after museums or the night market."
@@ -1582,7 +1582,7 @@
     "price_range": 2,
     "google_place_id": "ChIJQ3MESwOMGGARX99d47o0V6k",
     "google_rating": 4.3,
-    "review_count": 3734,
+    "review_count": 3743,
     "description_zh": "1884年创业东京荞麦名店，昭和文豪常客，冷荞麦蘸汁层次极深",
     "tags": [
       "百年老铺",
@@ -1592,7 +1592,7 @@
     "maps_url": "https://maps.google.com/?cid=12202279692666789727",
     "image_url": "/images/kanda-matsuya.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6961148,
     "lng": 139.7687883,
     "description_en": "A famed Tokyo soba shop since 1884, once frequented by Showa-era writers; its chilled soba dipping sauce is deeply layered."
@@ -1607,7 +1607,7 @@
     "price_range": 2,
     "google_place_id": "ChIJX-yVohyMGGARUTdpnpXyQNQ",
     "google_rating": 4.1,
-    "review_count": 3599,
+    "review_count": 3602,
     "description_zh": "江户三大薮蕎麦之首，1880年创业，细切绿色荞麦面清香独特",
     "tags": [
       "百年老铺",
@@ -1617,7 +1617,7 @@
     "maps_url": "https://maps.google.com/?cid=15294491058971948881",
     "image_url": "/images/kanda-yabu-soba.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6970004,
     "lng": 139.7686863,
     "description_en": "The foremost of Edo's three great Yabu soba houses, founded 1880; its fine green soba has a distinctive fragrance."
@@ -1632,7 +1632,7 @@
     "price_range": 1,
     "google_place_id": "ChIJAS5bCB2MGGAR7i0sXePN5qI",
     "google_rating": 3.5,
-    "review_count": 510,
+    "review_count": 509,
     "description_zh": "秋叶原逛街途中的快速牛丼，深夜血拼后的最佳补给",
     "tags": [
       "便宜",
@@ -1642,7 +1642,7 @@
     "maps_url": "https://maps.google.com/?cid=11738295855192223214",
     "image_url": "/images/gyudon-yoshinoya-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.69937,
     "lng": 139.7711,
     "description_en": "A quick gyudon stop while exploring Akihabara — the best refuel after a late shopping spree."
@@ -1657,7 +1657,7 @@
     "price_range": 1,
     "google_place_id": "ChIJ5wI-efyLGGARp-hRs2vNgD4",
     "google_rating": 3.5,
-    "review_count": 2112,
+    "review_count": 2114,
     "description_zh": "鱼介系酱油浓汤拉面，汤底鲜味层次丰富，秋叶原逛街必填肚子",
     "tags": [
       "鱼介系",
@@ -1667,7 +1667,7 @@
     "maps_url": "https://maps.google.com/?cid=4503825489824180391",
     "image_url": "/images/ramen-ikaruga-akihabara.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6804661,
     "lng": 139.7679735,
     "description_en": "Seafood-shoyu rich-broth ramen with deeply layered umami — a great fill-up while in Akihabara."
@@ -1693,7 +1693,7 @@
     "maps_url": "https://maps.google.com/?cid=12351648342754206330",
     "image_url": "/images/yakitori-akihabara-daidokoro.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6978848,
     "lng": 139.7764903,
     "description_en": "A budget yakitori izakaya with skewers from around ¥100 — a good group spot after wandering Akihabara."
@@ -1708,7 +1708,7 @@
     "price_range": 2,
     "google_place_id": "ChIJqeg558COGGARBxPTQGfvMoI",
     "google_rating": 3.5,
-    "review_count": 1275,
+    "review_count": 1274,
     "description_zh": "1837年创业浅草天妇罗老铺，江户前炸法酥脆清爽，就在仲见世通旁",
     "tags": [
       "百年老铺",
@@ -1718,7 +1718,7 @@
     "maps_url": "https://maps.google.com/?cid=9381824200514409223",
     "image_url": "/images/tempura-sansada-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7109887,
     "lng": 139.7966179,
     "description_en": "An Asakusa tempura institution since 1837; crisp, clean Edomae frying right by Nakamise-dori."
@@ -1733,7 +1733,7 @@
     "price_range": 2,
     "google_place_id": "ChIJ79EaJsGOGGARHgsoZXYMZO0",
     "google_rating": 3.5,
-    "review_count": 3425,
+    "review_count": 3431,
     "description_zh": "浅草最有名天妇罗老铺之一，浓黑芝麻酱油汤底天丼是特色，排队也值得",
     "tags": [
       "需排队",
@@ -1744,7 +1744,7 @@
     "maps_url": "https://maps.google.com/?cid=17105810987302783774",
     "image_url": "/images/daikokuya-tempura.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7127383,
     "lng": 139.79557,
     "description_en": "One of Asakusa's most famous tempura houses; the dark sesame-shoyu tendon is the specialty — worth the queue."
@@ -1759,7 +1759,7 @@
     "price_range": 3,
     "google_place_id": "ChIJY57SxceOGGAR5p8zPgOh_p4",
     "google_rating": 4.3,
-    "review_count": 3292,
+    "review_count": 3295,
     "description_zh": "1801年创业的泥鳅火锅元祖，江户料理文化活化石，稀缺体验",
     "tags": [
       "百年老铺",
@@ -1770,7 +1770,7 @@
     "maps_url": "https://maps.google.com/?cid=11456771537377664998",
     "image_url": "/images/komakata-dozeu.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7075243,
     "lng": 139.7950215,
     "description_en": "The 1801-founded originator of loach hot pot — a living relic of Edo food culture and a rare experience."
@@ -1785,7 +1785,7 @@
     "price_range": 3,
     "google_place_id": "ChIJVynn0aKFGGARr1mTVs-D_Go",
     "google_rating": 4,
-    "review_count": 1287,
+    "review_count": 1291,
     "description_zh": "浅草老牌鳗鱼饭，关东秘传蒸烤，鳗鱼饭配上腌菜和清汤一套完整",
     "tags": [
       "百年老铺",
@@ -1795,7 +1795,7 @@
     "maps_url": "https://maps.google.com/?cid=7709181588685412783",
     "image_url": "/images/kawachiya-unagi-asakusa.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7581771,
     "lng": 139.8772894,
     "description_en": "A long-running Asakusa unagi shop; Kanto secret steam-grill technique, served as a full set with pickles and clear soup."
@@ -1810,7 +1810,7 @@
     "price_range": 3,
     "google_place_id": "ChIJn-uWzsaOGGARVtp2-TErB8E",
     "google_rating": 4,
-    "review_count": 839,
+    "review_count": 841,
     "description_zh": "百年和牛寿喜锅专门店，黑毛和牛寿喜烧配生蛋，正统关东风味",
     "tags": [
       "百年老铺",
@@ -1821,7 +1821,7 @@
     "maps_url": "https://maps.google.com/?cid=13909133467795774038",
     "image_url": "/images/asakusa-imahan-ninngyocho.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.711713,
     "lng": 139.796742,
     "description_en": "A century-old wagyu sukiyaki specialist; black-wagyu sukiyaki with raw egg in authentic Kanto style."
@@ -1847,7 +1847,7 @@
     "maps_url": "https://maps.google.com/?cid=4955992054579295479",
     "image_url": "/images/chanko-nabe-ryogoku.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.694921,
     "lng": 139.7925488,
     "description_en": "Sumo-stable chanko hot pot in Ryogoku; a superb chicken broth with vegetables and tofu in huge portions."
@@ -1862,7 +1862,7 @@
     "price_range": 2,
     "google_place_id": "ChIJYd7LLmiNGGARwbFZ-nUb86w",
     "google_rating": 3.8,
-    "review_count": 1358,
+    "review_count": 1359,
     "description_zh": "24小时营业的寿司连锁，深夜也能吃到新鲜金枪鱼，价格合理",
     "tags": [
       "24小时",
@@ -1873,7 +1873,7 @@
     "maps_url": "https://maps.google.com/?cid=12462334787389600193",
     "image_url": "/images/sushi-zanmai-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7295287,
     "lng": 139.7128734,
     "description_en": "A 24-hour sushi chain where you can get fresh tuna even late at night, at reasonable prices."
@@ -1888,7 +1888,7 @@
     "price_range": 2,
     "google_place_id": "ChIJjwpWyVeNGGARQ0R_2v8esmU",
     "google_rating": 4.5,
-    "review_count": 639,
+    "review_count": 640,
     "description_zh": "池袋老派炸猪排，里脊猪排外酥内嫩，味噌汤免费续杯",
     "tags": [
       "口碑老店",
@@ -1898,7 +1898,7 @@
     "maps_url": "https://maps.google.com/?cid=7327953627916485699",
     "image_url": "/images/tonkatsu-yachiyo-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7264997,
     "lng": 139.7160101,
     "description_en": "An old-school Ikebukuro tonkatsu; a crisp-outside, tender-inside loin cutlet with free miso-soup refills."
@@ -1913,7 +1913,7 @@
     "price_range": 2,
     "google_place_id": "ChIJTVOfGWaNGGAReL5CpZYFWyQ",
     "google_rating": 4.1,
-    "review_count": 1122,
+    "review_count": 1123,
     "description_zh": "池袋热闹烧肉连锁，无烟烤网多人聚餐首选，午市套餐超值",
     "tags": [
       "英文菜单",
@@ -1924,7 +1924,7 @@
     "maps_url": "https://maps.google.com/?cid=2619693752821923448",
     "image_url": "/images/gyukaku-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7304467,
     "lng": 139.7159902,
     "description_en": "A lively Ikebukuro yakiniku chain with smokeless grills — a go-to for group meals, with great-value lunch sets."
@@ -1939,7 +1939,7 @@
     "price_range": 1,
     "google_place_id": "ChIJq6qaF2iNGGARyuzaSpQUFcI",
     "google_rating": 3.8,
-    "review_count": 2712,
+    "review_count": 2713,
     "description_zh": "平价回转寿司，防护盖设计保鲜，触控点单零语言压力",
     "tags": [
       "便宜",
@@ -1950,7 +1950,7 @@
     "maps_url": "https://maps.google.com/?cid=13985106845012520138",
     "image_url": "/images/kura-sushi-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7275902,
     "lng": 139.7123046,
     "description_en": "Budget conveyor sushi with hygienic covered plates and touch ordering — zero language stress."
@@ -1965,7 +1965,7 @@
     "price_range": 1,
     "google_place_id": "ChIJrYYqo4ONGGAR9Sl9MG5jQXs",
     "google_rating": 3.9,
-    "review_count": 130,
+    "review_count": 132,
     "description_zh": "池袋老牌酱油拉面，汤底清澈鲜味突出，深受本地上班族喜爱",
     "tags": [
       "酱油拉面",
@@ -1975,7 +1975,7 @@
     "maps_url": "https://maps.google.com/?cid=8881489265062390261",
     "image_url": "/images/ramen-ganso-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.730861,
     "lng": 139.7051183,
     "description_en": "A veteran Ikebukuro shoyu ramen; a clear broth with pronounced umami, beloved by local office workers."
@@ -1990,7 +1990,7 @@
     "price_range": 1,
     "google_place_id": "ChIJue5-Rm6NGGARKGFvUIM-ERs",
     "google_rating": 3.5,
-    "review_count": 320,
+    "review_count": 321,
     "description_zh": "现场制作讃岐乌冬，天妇罗可单点，500円以内吃饱",
     "tags": [
       "便宜",
@@ -2001,7 +2001,7 @@
     "maps_url": "https://maps.google.com/?cid=1950408847339249960",
     "image_url": "/images/marugame-seimen-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.72873,
     "lng": 139.720001,
     "description_en": "Sanuki udon made on-site with à la carte tempura — a filling meal for under ¥500."
@@ -2027,7 +2027,7 @@
     "maps_url": "https://maps.google.com/?cid=8296529326510963329",
     "image_url": "/images/tenya-ikebukuro.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7273038,
     "lng": 139.7121436,
     "description_en": "Budget tendon; a ¥600 shrimp-and-vegetable bowl for a quick, filling meal."
@@ -2042,7 +2042,7 @@
     "price_range": 2,
     "google_place_id": "ChIJba17TbqMGGARFtDV6hkZbcs",
     "google_rating": 4.4,
-    "review_count": 4974,
+    "review_count": 5084,
     "description_zh": "柚子盐拉面发源店，原宿竹下通周边，逛街购物后清爽一碗",
     "tags": [
       "英文菜单",
@@ -2053,7 +2053,7 @@
     "maps_url": "https://maps.google.com/?cid=14658399961265590294",
     "image_url": "/images/afuri-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6730053,
     "lng": 139.7038019,
     "description_en": "A home of yuzu-shio ramen near Harajuku's Takeshita Street — a refreshing bowl after shopping."
@@ -2068,7 +2068,7 @@
     "price_range": 2,
     "google_place_id": "ChIJU6TV25-MGGARfoGDJaBmZhU",
     "google_rating": 3.9,
-    "review_count": 661,
+    "review_count": 663,
     "description_zh": "备长炭烧鸟，鸡肉质量上乘，表参道逛完顺路的优质居酒屋",
     "tags": [
       "备长炭",
@@ -2078,7 +2078,7 @@
     "maps_url": "https://maps.google.com/?cid=1542032760431149438",
     "image_url": "/images/yakitori-toriyoshi-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.665105,
     "lng": 139.7132997,
     "description_en": "Binchotan-grilled yakitori with top-quality chicken — a fine izakaya to drop into after Omotesando."
@@ -2093,7 +2093,7 @@
     "price_range": 1,
     "google_place_id": "ChIJNb1sRKOMGGAREYhjpOM4GSE",
     "google_rating": 3.5,
-    "review_count": 468,
+    "review_count": 470,
     "description_zh": "日本最大牛丼连锁，原宿购物疲惫时的快速补给，多种配料可选",
     "tags": [
       "便宜",
@@ -2104,7 +2104,7 @@
     "maps_url": "https://maps.google.com/?cid=2385000028036106257",
     "image_url": "/images/gyudon-sukiya-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.670757,
     "lng": 139.7073287,
     "description_en": "Japan's largest gyudon chain — a quick refuel when Harajuku shopping wears you out, with many toppings."
@@ -2129,7 +2129,7 @@
     "maps_url": "https://maps.google.com/?cid=2924344717648783128",
     "image_url": "/images/soba-homura-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6644409,
     "lng": 139.7046754,
     "description_en": "A hidden Omotesando soba gem; stone-milled buckwheat flour and great-value lunch sets."
@@ -2144,7 +2144,7 @@
     "price_range": 2,
     "google_place_id": "ChIJodnJ6aeMGGAR5Q9rLaNONpM",
     "google_rating": 4.2,
-    "review_count": 518,
+    "review_count": 519,
     "description_zh": "表参道商业区炸猪排，白饭/卷心菜/味噌汤无限续，逛街正餐好选择",
     "tags": [
       "英文菜单",
@@ -2155,7 +2155,7 @@
     "maps_url": "https://maps.google.com/?cid=10607752435066408933",
     "image_url": "/images/tonkatsu-wako-omotesando.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6614498,
     "lng": 139.7026274,
     "description_en": "Tonkatsu in the Omotesando shopping district with free rice, cabbage and miso-soup refills — a solid sit-down meal."
@@ -2181,7 +2181,7 @@
     "maps_url": "https://maps.google.com/?cid=17952797624476818205",
     "image_url": "/images/sushi-hana-harajuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6728036,
     "lng": 139.7042754,
     "description_en": "Conveyor sushi with ingredients shipped from Hokkaido; the hairy crab, uni and salmon roe are excellent — worth the wait."
@@ -2196,7 +2196,7 @@
     "price_range": 1,
     "google_place_id": "ChIJp1Kx1dmMGGARvbZ_YYRx0vQ",
     "google_rating": 4.4,
-    "review_count": 4366,
+    "review_count": 4385,
     "description_zh": "新宿店隔间式天然豚骨拉面，深夜也营业，歌舞伎町夜游后的宵夜",
     "tags": [
       "24小时",
@@ -2207,7 +2207,7 @@
     "maps_url": "https://maps.google.com/?cid=17641287503749035709",
     "image_url": "/images/ichiran-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6943605,
     "lng": 139.7015567,
     "description_en": "The Shinjuku branch's booth-style natural tonkotsu ramen, open late — a great supper after a Kabukicho night out."
@@ -2222,7 +2222,7 @@
     "price_range": 2,
     "google_place_id": "ChIJuzydSvqLGGARXTqdIJs_08Y",
     "google_rating": 4.1,
-    "review_count": 2928,
+    "review_count": 2937,
     "description_zh": "东京站内北海道直送回转寿司，毛蟹、海胆、牡丹虾水准远超东京均值",
     "tags": [
       "东京站内",
@@ -2233,7 +2233,7 @@
     "maps_url": "https://maps.google.com/?cid=14326864775095335517",
     "image_url": "/images/hanamaru-tokyo-station.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6795237,
     "lng": 139.7649491,
     "description_en": "Conveyor sushi inside Tokyo Station with Hokkaido-direct hairy crab, uni and botan shrimp — well above Tokyo's average."
@@ -2248,7 +2248,7 @@
     "price_range": 2,
     "google_place_id": "ChIJBefQ4hOMGGARIkZIs01cRlQ",
     "google_rating": 4.3,
-    "review_count": 5208,
+    "review_count": 5218,
     "description_zh": "法式奶油欧风咖喱，面包蘸咖喱是招牌吃法，浓郁绵密与日式咖喱风格迥异",
     "tags": [
       "欧风咖喱",
@@ -2258,7 +2258,7 @@
     "maps_url": "https://maps.google.com/?cid=6072642636345787938",
     "image_url": "/images/curry-bondy-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6955738,
     "lng": 139.7573664,
     "description_en": "French-buttery European-style curry; the signature is dipping bread in it — rich and creamy, unlike Japanese curry."
@@ -2283,7 +2283,7 @@
     "maps_url": "https://maps.google.com/?cid=3459813436641070620",
     "image_url": "/images/niku-no-mansei-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6921845,
     "lng": 139.699556,
     "description_en": "Tonkatsu and steak run by a butcher; the meat comes straight from the shop's own counter, freshness guaranteed."
@@ -2298,7 +2298,7 @@
     "price_range": 1,
     "google_place_id": "ChIJMY8E3oeNGGARx-CLFEBcspU",
     "google_rating": 3.9,
-    "review_count": 2223,
+    "review_count": 2234,
     "description_zh": "新宿平价回转寿司，触控点单，家庭游客首选，质优价廉",
     "tags": [
       "便宜",
@@ -2309,7 +2309,7 @@
     "maps_url": "https://maps.google.com/?cid=10786785487798132935",
     "image_url": "/images/sushi-kura-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6944776,
     "lng": 139.6990748,
     "description_en": "Budget conveyor sushi in Shinjuku with touch ordering — a top pick for visiting families, good quality at low prices."
@@ -2324,7 +2324,7 @@
     "price_range": 2,
     "google_place_id": "ChIJP9eKBdeMGGAR0zzBXJNVj5A",
     "google_rating": 4.2,
-    "review_count": 14795,
+    "review_count": 14863,
     "description_zh": "新宿西口昭和烟火气小巷，排排坐烧鸟摊，配生啤感受真实东京夜生活",
     "tags": [
       "昭和风",
@@ -2335,7 +2335,7 @@
     "maps_url": "https://maps.google.com/?cid=10416638554535967955",
     "image_url": "/images/izakaya-omoide-yokocho.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6927011,
     "lng": 139.6995778,
     "description_en": "A Showa-era alley off Shinjuku's west exit; line up at the yakitori stalls with a draft beer for real Tokyo nightlife."
@@ -2350,7 +2350,7 @@
     "price_range": 2,
     "google_place_id": "ChIJcyLiKtaMGGARGlb3Io-Rf3w",
     "google_rating": 4.1,
-    "review_count": 3708,
+    "review_count": 3713,
     "description_zh": "浓厚系鱼介豚骨拉面大师店，麻辣/甜味双汤底特色，排队常见",
     "tags": [
       "浓厚系",
@@ -2360,7 +2360,7 @@
     "maps_url": "https://maps.google.com/?cid=8971049026698303002",
     "image_url": "/images/ramen-fuunji-shinjuku2.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6955679,
     "lng": 139.6986477,
     "description_en": "A master shop for rich seafood-tonkotsu ramen; known for spicy and sweet double broths — queues are common."
@@ -2375,7 +2375,7 @@
     "price_range": 2,
     "google_place_id": "ChIJvUEnaNqMGGAR46u74Waa6FM",
     "google_rating": 4.9,
-    "review_count": 10820,
+    "review_count": 10838,
     "description_zh": "新宿吃到饱火锅，多汤底+多涮料无限量，有中文菜单",
     "tags": [
       "吃到饱",
@@ -2386,7 +2386,7 @@
     "maps_url": "https://maps.google.com/?cid=6046252266409405411",
     "image_url": "/images/hotpot-nabezou-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6910075,
     "lng": 139.7026367,
     "description_en": "All-you-can-eat hot pot in Shinjuku — unlimited broths and ingredients, with a Chinese menu."
@@ -2401,7 +2401,7 @@
     "price_range": 3,
     "google_place_id": "ChIJreMNLr2LGGARZuiWrMEdha8",
     "google_rating": 4.3,
-    "review_count": 1642,
+    "review_count": 1645,
     "description_zh": "百年老铺野田岩新宿分店，关东蒸烤鳗鱼，新宿便利好找",
     "tags": [
       "百年老铺",
@@ -2411,7 +2411,7 @@
     "maps_url": "https://maps.google.com/?cid=12647547846201370726",
     "image_url": "/images/unagi-nodaiwa-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6581233,
     "lng": 139.7433709,
     "description_en": "The Shinjuku branch of century-old Nodaiwa; Kanto steam-grilled eel, conveniently easy to find."
@@ -2437,7 +2437,7 @@
     "maps_url": "https://maps.google.com/?cid=202146788459463939",
     "image_url": "/images/okonomiyaki-tsuruhasufugetsu-shinjuku.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6922132,
     "lng": 139.7054375,
     "description_en": "A popular Osaka okonomiyaki chain; cook it yourself on the griddle with seafood, pork and more."
@@ -2452,7 +2452,7 @@
     "price_range": 1,
     "google_place_id": "ChIJezBogG2NGGARl26gKR8n7oM",
     "google_rating": 3.8,
-    "review_count": 1175,
+    "review_count": 1178,
     "description_zh": "涩谷平价回转寿司，触控点单，购物疲惫后快速解决正餐",
     "tags": [
       "便宜",
@@ -2463,7 +2463,7 @@
     "maps_url": "https://maps.google.com/?cid=9506578878221545111",
     "image_url": "/images/kura-sushi-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6598242,
     "lng": 139.6995535,
     "description_en": "Budget conveyor sushi in Shibuya with touch ordering — a quick proper meal after a shopping spree."
@@ -2489,7 +2489,7 @@
     "maps_url": "https://maps.google.com/?cid=18120207136882811380",
     "image_url": "/images/sukiya-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6594349,
     "lng": 139.6979207,
     "description_en": "Japan's largest gyudon chain with curry, beef and pork bowls — open late."
@@ -2504,7 +2504,7 @@
     "price_range": 1,
     "google_place_id": "ChIJs2bQuVeLGGARO6icGce6iw4",
     "google_rating": 3.9,
-    "review_count": 1534,
+    "review_count": 1535,
     "description_zh": "正宗博多细面豚骨，细面替玉（加面）无料，极浓白汤",
     "tags": [
       "博多豚骨",
@@ -2515,7 +2515,7 @@
     "maps_url": "https://maps.google.com/?cid=1048136702584727611",
     "image_url": "/images/ramen-hakata-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6579051,
     "lng": 139.699482,
     "description_en": "Authentic Hakata thin-noodle tonkotsu; free noodle refills and an intensely rich white broth."
@@ -2530,7 +2530,7 @@
     "price_range": 1,
     "google_place_id": "ChIJ0QQkKFaLGGAR0_FpbKVtCbI",
     "google_rating": 3.5,
-    "review_count": 854,
+    "review_count": 855,
     "description_zh": "平价炸猪排丼连锁，约600円吃到炸猪排盖饭，快速饱腹",
     "tags": [
       "便宜",
@@ -2541,7 +2541,7 @@
     "maps_url": "https://maps.google.com/?cid=12828905570797482451",
     "image_url": "/images/tonkatsu-katsudon-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6588199,
     "lng": 139.6982152,
     "description_en": "A budget katsudon chain; a pork-cutlet rice bowl for around ¥600 — quick and filling."
@@ -2567,7 +2567,7 @@
     "maps_url": "https://maps.google.com/?cid=16628339708873388659",
     "image_url": "/images/okonomiyaki-fugetsu-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6991777,
     "lng": 139.7749249,
     "description_en": "A well-known Shibuya okonomiyaki shop; pork, seafood and mixed flavors, with the fun of griddling it yourself."
@@ -2582,7 +2582,7 @@
     "price_range": 1,
     "google_place_id": "ChIJqaZqJBeNGGARWdeCppErs7o",
     "google_rating": 3.9,
-    "review_count": 270,
+    "review_count": 276,
     "description_zh": "单人烧肉专门店，独旅首选，独立排烟罩，约1000円牛肉套餐",
     "tags": [
       "单人用餐",
@@ -2593,7 +2593,7 @@
     "maps_url": "https://maps.google.com/?cid=13453144416449648473",
     "image_url": "/images/yakiniku-like-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.65881770000001,
     "lng": 139.6970704,
     "description_en": "A solo-yakiniku specialist with personal smoke hoods; a beef set for around ¥1,000 — ideal for solo travelers."
@@ -2608,7 +2608,7 @@
     "price_range": 2,
     "google_place_id": "ChIJnd8Ex1eLGGARpLwkmZdsVCM",
     "google_rating": 4,
-    "review_count": 419,
+    "review_count": 420,
     "description_zh": "柚子风味涮涮锅，清爽不油腻，适合多人聚餐",
     "tags": [
       "清爽",
@@ -2618,7 +2618,7 @@
     "maps_url": "https://maps.google.com/?cid=2545779087736356004",
     "image_url": "/images/hotpot-yuzuya-shibuya.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6582722,
     "lng": 139.6996396,
     "description_en": "Yuzu-scented shabu-shabu — light, not greasy, great for group dining."
@@ -2644,7 +2644,7 @@
     "maps_url": "https://maps.google.com/?cid=9765870719310028397",
     "image_url": "/images/sushi-yoshitake.jpg",
     "featured": true,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6689166,
     "lng": 139.7619714,
     "description_en": "Three Michelin stars; chef Masahiro Yoshitake's exquisite Edomae sushi strikes a perfect rice-and-fish balance."
@@ -2659,7 +2659,7 @@
     "price_range": 4,
     "google_place_id": "ChIJVWDJ2-iLGGARrb9VTXObGIE",
     "google_rating": 4.1,
-    "review_count": 301,
+    "review_count": 304,
     "description_zh": "米其林二星怀石料理，奥田透主厨精细日本食材运用，餐器也是艺术品",
     "tags": [
       "米其林二星",
@@ -2670,7 +2670,7 @@
     "maps_url": "https://maps.google.com/?cid=9302355949854769069",
     "image_url": "/images/ginza-kojyu.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6714446,
     "lng": 139.7630117,
     "description_en": "Two-Michelin-star kaiseki; chef Toru Okuda's refined use of Japanese ingredients, with tableware that is art in itself."
@@ -2685,7 +2685,7 @@
     "price_range": 3,
     "google_place_id": "ChIJAQDAdeiLGGARtFxeTTOBBYo",
     "google_rating": 4,
-    "review_count": 1057,
+    "review_count": 1059,
     "description_zh": "1885年创业银座天妇罗老铺，胡麻油炸制，虾天妇罗香气馥郁",
     "tags": [
       "百年老铺",
@@ -2695,7 +2695,7 @@
     "maps_url": "https://maps.google.com/?cid=9945497409458953396",
     "image_url": "/images/ginza-tenkunji.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6676662,
     "lng": 139.7628011,
     "description_en": "A Ginza tempura institution since 1885, fried in sesame oil; the shrimp tempura is wonderfully fragrant."
@@ -2710,7 +2710,7 @@
     "price_range": 3,
     "google_place_id": "ChIJIxrmppyLGGARJks59D-3Mcg",
     "google_rating": 4.9,
-    "review_count": 1751,
+    "review_count": 1764,
     "description_zh": "银座鳗鱼饭新派代表，鳗鱼质量上乘，餐厅设计现代简洁",
     "tags": [
       "现代风格",
@@ -2720,7 +2720,7 @@
     "maps_url": "https://maps.google.com/?cid=14425512566752627494",
     "image_url": "/images/unagi-ginza.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6700218,
     "lng": 139.7610886,
     "description_en": "A modern take on Ginza unagi; top-quality eel in a clean, contemporary dining space."
@@ -2735,7 +2735,7 @@
     "price_range": 2,
     "google_place_id": "ChIJuQh54PbtGGAR80imTXlsXSg",
     "google_rating": 3.9,
-    "review_count": 2786,
+    "review_count": 2792,
     "description_zh": "东京酱油拉面发祥名店，1949年创业，动物系×鱼介系复合汤底，东京必吃",
     "tags": [
       "东京拉面发源",
@@ -2745,7 +2745,7 @@
     "maps_url": "https://maps.google.com/?cid=2908600202600794355",
     "image_url": "/images/ramen-harukiya-ogikubo.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.7050568,
     "lng": 139.622389,
     "description_en": "A founding name of Tokyo shoyu ramen, established 1949; an animal × seafood blended broth — a Tokyo must-eat."
@@ -2771,7 +2771,7 @@
     "maps_url": "https://maps.google.com/?cid=14733797335400899320",
     "image_url": "/images/waketokuyama-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.65575159999999,
     "lng": 139.7230639,
     "description_en": "Three Michelin stars; chef Yoshimitsu Nozaki's modern Japanese cuisine — top-tier kaiseki near Roppongi."
@@ -2786,7 +2786,7 @@
     "price_range": 1,
     "google_place_id": "ChIJTSiFbJ2LGGAR-aBrtn3Rs3Q",
     "google_rating": 3.5,
-    "review_count": 464,
+    "review_count": 465,
     "description_zh": "六本木深夜不打烊牛丼，夜店散场后的深夜饱腹必选",
     "tags": [
       "24小时",
@@ -2797,7 +2797,7 @@
     "maps_url": "https://maps.google.com/?cid=8409295267092472057",
     "image_url": "/images/sukiya-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6619281,
     "lng": 139.7330412,
     "description_en": "A round-the-clock gyudon in Roppongi — the go-to late-night fill-up after the clubs close."
@@ -2812,7 +2812,7 @@
     "price_range": 1,
     "google_place_id": "ChIJ6UqBqIKLGGARcyvPuWXZSPs",
     "google_rating": 4.4,
-    "review_count": 2394,
+    "review_count": 2400,
     "description_zh": "白丸赤丸经典博多豚骨，六本木逛完美术馆后快速暖身",
     "tags": [
       "英文菜单",
@@ -2822,7 +2822,7 @@
     "maps_url": "https://maps.google.com/?cid=18106961332775365491",
     "image_url": "/images/ramen-ippudo-roppongi.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6638163,
     "lng": 139.7322518,
     "description_en": "Classic Shiromaru and Akamaru Hakata tonkotsu — a quick warm-up after the Roppongi art museums."
@@ -2848,7 +2848,7 @@
     "maps_url": "https://maps.google.com/?cid=8976691265698228077",
     "image_url": "/images/yakiniku-roppongi-kabukicho.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6639053,
     "lng": 139.731311,
     "description_en": "Upscale wagyu yakiniku in Roppongi — well suited to business dinners or special celebrations."
@@ -2874,7 +2874,7 @@
     "maps_url": "https://maps.google.com/?cid=2463593884142320261",
     "image_url": "/images/gyutan-rikyu-tokyostation.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6806127,
     "lng": 139.7683732,
     "description_en": "The Tokyo Station branch of a famed Sendai gyutan shop; thick salt-grilled beef tongue with barley rice and oxtail soup."
@@ -2889,7 +2889,7 @@
     "price_range": 2,
     "google_place_id": "ChIJoylsI9-LGGAREFepCWo2oeM",
     "google_rating": 4.3,
-    "review_count": 8939,
+    "review_count": 8957,
     "description_zh": "24小时营业的大众高性价比寿司，东京站附近乘车前后随时能吃",
     "tags": [
       "24小时",
@@ -2900,7 +2900,7 @@
     "maps_url": "https://maps.google.com/?cid=16402451146916583184",
     "image_url": "/images/sushi-zanmai-tokyo.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6659044,
     "lng": 139.7706492,
     "description_en": "A 24-hour, great-value popular sushi shop near Tokyo Station — handy any time around your train."
@@ -2915,7 +2915,7 @@
     "price_range": 1,
     "google_place_id": "ChIJ5wI-efyLGGARp-hRs2vNgD4",
     "google_rating": 3.5,
-    "review_count": 2112,
+    "review_count": 2114,
     "description_zh": "东京站内拉面街代表店，鱼介系酱油拉面，搭乘前后超方便",
     "tags": [
       "东京站内",
@@ -2925,7 +2925,7 @@
     "maps_url": "https://maps.google.com/?cid=4503825489824180391",
     "image_url": "/images/ramen-ikaruga-tokyo-station.jpg",
     "featured": false,
-    "last_updated": "2026-05-25",
+    "last_updated": "2026-06-01",
     "lat": 35.6804661,
     "lng": 139.7679735,
     "description_en": "A flagship of Tokyo Station's Ramen Street; seafood-shoyu ramen, super convenient around your train."
